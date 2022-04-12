@@ -37,7 +37,7 @@
 	},
 	{
 		"abr": "drythunderstorm",
-		"price": 450,
+		"price": 3500,
 		"karmatype": "Bad"
 	},
 	{
@@ -57,7 +57,7 @@
 	},
 	{
 		"abr": "heatwave",
-		"price": 750,
+		"price": 3500,
 		"karmatype": "Bad"
 	},
 	{
@@ -67,7 +67,7 @@
 	},
 	{
 		"abr": "coldsnap",
-		"price": 800,
+		"price": 3500,
 		"karmatype": "Bad"
 	},
 	{
@@ -102,7 +102,7 @@
 	},
 	{
 		"abr": "blight",
-		"price": 700,
+		"price": 3500,
 		"karmatype": "Bad"
 	},
 	{
@@ -152,7 +152,7 @@
 	},
 	{
 		"abr": "ambrosiasprout",
-		"price": 150,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
@@ -192,12 +192,12 @@
 	},
 	{
 		"abr": "skillincrease",
-		"price": 200,
+		"price": 2500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "party",
-		"price": 400,
+		"price": 5000,
 		"karmatype": "Good"
 	},
 	{
@@ -217,17 +217,17 @@
 	},
 	{
 		"abr": "militaryaid",
-		"price": 700,
+		"price": 3500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "raid",
-		"price": 1500,
+		"price": 6000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "dropraid",
-		"price": 1500,
+		"price": 6000,
 		"karmatype": "Bad"
 	},
 	{
@@ -242,7 +242,7 @@
 	},
 	{
 		"abr": "mechanoidraid",
-		"price": 2500,
+		"price": 7500,
 		"karmatype": "Bad"
 	},
 	{
@@ -281,11 +281,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "levelskill",
-		"price": 1500,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "trait",
 		"price": 1,
 		"karmatype": "Good"
@@ -297,7 +292,7 @@
 	},
 	{
 		"abr": "genderswap",
-		"price": 600,
+		"price": 2500,
 		"karmatype": "Neutral"
 	},
 	{
@@ -332,12 +327,12 @@
 	},
 	{
 		"abr": "reviveme",
-		"price": 2833,
+		"price": 10000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healall",
-		"price": 17336,
+		"price": 7500,
 		"karmatype": "Good"
 	},
 	{
@@ -347,7 +342,7 @@
 	},
 	{
 		"abr": "healme",
-		"price": 2167,
+		"price": 2500,
 		"karmatype": "Good"
 	},
 	{
@@ -357,7 +352,7 @@
 	},
 	{
 		"abr": "passionshuffle",
-		"price": 2000,
+		"price": 3500,
 		"karmatype": "Neutral"
 	},
 	{
@@ -372,13 +367,13 @@
 	},
 	{
 		"abr": "fullheal",
-		"price": 2167,
+		"price": 6000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "passion",
-		"price": 3500,
-		"karmatype": "Neutral"
+		"price": 7000,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "removepassion",
@@ -387,11 +382,6 @@
 	},
 	{
 		"abr": "backpack",
-		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "settraits",
 		"price": 1,
 		"karmatype": "Neutral"
 	},
@@ -442,27 +432,27 @@
 	},
 	{
 		"abr": "aeorofleetmigration",
-		"price": 500,
+		"price": 1000,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "stalkingarcticlion",
-		"price": 1000,
+		"price": 3000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "stalkingsnowclutchmother",
-		"price": 2000,
+		"price": 3000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "stalkingduneclutchmother",
-		"price": 2000,
+		"price": 3000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "stalkingclutchmother",
-		"price": 2000,
+		"price": 3000,
 		"karmatype": "Bad"
 	},
 	{
@@ -472,7 +462,7 @@
 	},
 	{
 		"abr": "SummitCrabRaid",
-		"price": 1500,
+		"price": 3500,
 		"karmatype": "Bad"
 	},
 	{
@@ -487,42 +477,42 @@
 	},
 	{
 		"abr": "bumbledroneswanderin",
-		"price": 500,
+		"price": 1000,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "raidblackhive",
-		"price": 1500,
+		"price": 3000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "raidmechanoidsappers",
-		"price": 1500,
+		"price": 6000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "fungalhuskwandersin",
-		"price": 600,
+		"price": 3000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "raidpoachers",
-		"price": 1000,
+		"price": 3500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "raidloggers",
-		"price": 1000,
+		"price": 3500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "hostiletraveler",
-		"price": 400,
+		"price": 3500,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "hostilecaravan",
-		"price": 700,
+		"price": 3500,
 		"karmatype": "Neutral"
 	},
 	{
@@ -611,5 +601,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 122
+	"total": 120
 }
