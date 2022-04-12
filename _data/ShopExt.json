@@ -2400,7 +2400,7 @@
       "name": "undead",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 6000,
       "removePrice": 5500,
       "degree": 0
     },
@@ -2952,7 +2952,7 @@
       "name": "wanderer",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 6000,
       "removePrice": 5500,
       "degree": 0
     },
@@ -4648,7 +4648,7 @@
       "name": "entertainer",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 6000,
       "removePrice": 5500,
       "degree": 0
     },
@@ -4936,7 +4936,7 @@
       "name": "minstrel",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 6000,
       "removePrice": 5500,
       "degree": 2
     },
@@ -5078,8 +5078,8 @@
       },
       "defName": "TM_Bard",
       "name": "bard",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 6000,
       "removePrice": 5500,
       "degree": 3
@@ -7692,7 +7692,7 @@
       "name": "wayfarer",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 6000,
       "removePrice": 5500,
       "degree": 0
     },
@@ -8888,7 +8888,7 @@
       "name": "sharpshooter",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 6000,
       "removePrice": 5500,
       "degree": 0
     },
