@@ -322,7 +322,7 @@
 	},
 	{
 		"abr": "reviveall",
-		"price": 22664,
+		"price": 25000,
 		"karmatype": "Good"
 	},
 	{
@@ -517,12 +517,12 @@
 	},
 	{
 		"abr": "iceage",
-		"price": 15000,
+		"price": 25000,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "globalwarming",
-		"price": 15000,
+		"price": 25000,
 		"karmatype": "Doom"
 	},
 	{
