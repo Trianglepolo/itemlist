@@ -28,7 +28,7 @@
       "abr": "luciferium",
       "category": "Drugs",
       "defname": "Luciferium",
-      "price": -10
+      "price": 150
     },
     {
       "abr": "penoxycyline",
@@ -172,7 +172,7 @@
       "abr": "powerclaw",
       "category": "Prosthetic",
       "defname": "PowerClaw",
-      "price": -10
+      "price": 650
     },
     {
       "abr": "joywire",
@@ -190,7 +190,7 @@
       "abr": "urn",
       "category": "Furniture",
       "defname": "Urn",
-      "price": -10
+      "price": 70
     },
     {
       "abr": "smallsculpture",
@@ -214,145 +214,145 @@
       "abr": "bed",
       "category": "Furniture",
       "defname": "Bed",
-      "price": -10
+      "price": 155
     },
     {
       "abr": "doublebed",
       "category": "Furniture",
       "defname": "DoubleBed",
-      "price": -10
+      "price": 292
     },
     {
       "abr": "royalbed",
       "category": "Furniture",
       "defname": "RoyalBed",
-      "price": -10
+      "price": 1550
     },
     {
       "abr": "hospitalbed",
       "category": "Furniture",
       "defname": "HospitalBed",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "bedroll",
       "category": "Furniture",
       "defname": "Bedroll",
-      "price": -10
+      "price": 137
     },
     {
       "abr": "doublebedroll",
       "category": "Furniture",
       "defname": "BedrollDouble",
-      "price": -10
+      "price": 290
     },
     {
       "abr": "animalsleepingbox",
       "category": "Furniture",
       "defname": "AnimalSleepingBox",
-      "price": -10
+      "price": 84
     },
     {
       "abr": "animalbed",
       "category": "Furniture",
       "defname": "AnimalBed",
-      "price": -10
+      "price": 136
     },
     {
       "abr": "stool",
       "category": "Furniture",
       "defname": "Stool",
-      "price": -10
+      "price": 86
     },
     {
       "abr": "diningchair",
       "category": "Furniture",
       "defname": "DiningChair",
-      "price": -10
+      "price": 198
     },
     {
       "abr": "armchair",
       "category": "Furniture",
       "defname": "Armchair",
-      "price": -10
+      "price": 450
     },
     {
       "abr": "endtable",
       "category": "Furniture",
       "defname": "EndTable",
-      "price": -10
+      "price": 106
     },
     {
       "abr": "table(1x2)",
       "category": "Furniture",
       "defname": "Table1x2c",
-      "price": -10
+      "price": 98
     },
     {
       "abr": "table(2x2)",
       "category": "Furniture",
       "defname": "Table2x2c",
-      "price": -10
+      "price": 176
     },
     {
       "abr": "table(2x4)",
       "category": "Furniture",
       "defname": "Table2x4c",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "table(3x3)",
       "category": "Furniture",
       "defname": "Table3x3c",
-      "price": -10
+      "price": 350
     },
     {
       "abr": "plantpot",
       "category": "Furniture",
       "defname": "PlantPot",
-      "price": -10
+      "price": 68
     },
     {
       "abr": "standinglamp",
       "category": "Furniture",
       "defname": "StandingLamp",
-      "price": -10
+      "price": 59
     },
     {
       "abr": "standinglamp(red)",
       "category": "Furniture",
       "defname": "StandingLamp_Red",
-      "price": -10
+      "price": 59
     },
     {
       "abr": "standinglamp(green)",
       "category": "Furniture",
       "defname": "StandingLamp_Green",
-      "price": -10
+      "price": 59
     },
     {
       "abr": "standinglamp(blue)",
       "category": "Furniture",
       "defname": "StandingLamp_Blue",
-      "price": -10
+      "price": 59
     },
     {
       "abr": "sunlamp",
       "category": "Furniture",
       "defname": "SunLamp",
-      "price": -10
+      "price": 116
     },
     {
       "abr": "shelf",
       "category": "Furniture",
       "defname": "Shelf",
-      "price": -10
+      "price": 104
     },
     {
       "abr": "dresser",
       "category": "Furniture",
       "defname": "Dresser",
-      "price": -10
+      "price": 179
     },
     {
       "abr": "horseshoespin",
@@ -370,25 +370,25 @@
       "abr": "game-of-urboard",
       "category": "Furniture",
       "defname": "GameOfUrBoard",
-      "price": -10
+      "price": 153
     },
     {
       "abr": "chesstable",
       "category": "Furniture",
       "defname": "ChessTable",
-      "price": -10
+      "price": 281
     },
     {
       "abr": "pokertable",
       "category": "Furniture",
       "defname": "PokerTable",
-      "price": -10
+      "price": 408
     },
     {
       "abr": "billiardstable",
       "category": "Furniture",
       "defname": "BilliardsTable",
-      "price": -10
+      "price": 617
     },
     {
       "abr": "tubetelevision",
@@ -1060,7 +1060,7 @@
       "abr": "hyperweave",
       "category": "Textiles",
       "defname": "Hyperweave",
-      "price": -10
+      "price": 23
     },
     {
       "abr": "sheepwool",
@@ -1312,43 +1312,43 @@
       "abr": "tribalwear",
       "category": "Apparel",
       "defname": "Apparel_TribalA",
-      "price": -10
+      "price": 211
     },
     {
       "abr": "parka",
       "category": "Apparel",
       "defname": "Apparel_Parka",
-      "price": -10
+      "price": 315
     },
     {
       "abr": "pants",
       "category": "Apparel",
       "defname": "Apparel_Pants",
-      "price": -10
+      "price": 143
     },
     {
       "abr": "t-shirt",
       "category": "Apparel",
       "defname": "Apparel_BasicShirt",
-      "price": -10
+      "price": 143
     },
     {
       "abr": "button-downshirt",
       "category": "Apparel",
       "defname": "Apparel_CollarShirt",
-      "price": -10
+      "price": 166
     },
     {
       "abr": "duster",
       "category": "Apparel",
       "defname": "Apparel_Duster",
-      "price": -10
+      "price": 327
     },
     {
       "abr": "jacket",
       "category": "Apparel",
       "defname": "Apparel_Jacket",
-      "price": -10
+      "price": 275
     },
     {
       "abr": "platearmor",
@@ -2176,31 +2176,31 @@
       "abr": "drape",
       "category": "Furniture",
       "defname": "Drape",
-      "price": -10
+      "price": 617
     },
     {
       "abr": "brazier",
       "category": "Furniture",
       "defname": "Brazier",
-      "price": -10
+      "price": 167
     },
     {
       "abr": "darklightbrazier",
       "category": "Furniture",
       "defname": "DarklightBrazier",
-      "price": -10
+      "price": 167
     },
     {
       "abr": "meditationthrone",
       "category": "Furniture",
       "defname": "Throne",
-      "price": -10
+      "price": 475
     },
     {
       "abr": "grandmeditationthrone",
       "category": "Furniture",
       "defname": "GrandThrone",
-      "price": -10
+      "price": 2608
     },
     {
       "abr": "unstablepowercell",
@@ -2308,25 +2308,25 @@
       "abr": "formalshirt",
       "category": "Noble apparel",
       "defname": "Apparel_ShirtRuffle",
-      "price": -10
+      "price": 253
     },
     {
       "abr": "corset",
       "category": "Noble apparel",
       "defname": "Apparel_Corset",
-      "price": -10
+      "price": 222
     },
     {
       "abr": "formalvest",
       "category": "Noble apparel",
       "defname": "Apparel_VestRoyal",
-      "price": -10
+      "price": 222
     },
     {
       "abr": "prestigerobe",
       "category": "Noble apparel",
       "defname": "Apparel_RobeRoyal",
-      "price": -10
+      "price": 450
     },
     {
       "abr": "ladieshat",
@@ -2362,7 +2362,7 @@
       "abr": "cape",
       "category": "Noble apparel",
       "defname": "Apparel_Cape",
-      "price": -10
+      "price": 367
     },
     {
       "abr": "beret",
@@ -2512,7 +2512,7 @@
       "abr": "standingdarklamp",
       "category": "Furniture",
       "defname": "Darklamp",
-      "price": -10
+      "price": 59
     },
     {
       "abr": "sleepaccelerator",
@@ -2584,7 +2584,7 @@
       "abr": "stylingstation",
       "category": "Furniture",
       "defname": "StylingStation",
-      "price": -10
+      "price": 367
     },
     {
       "abr": "gibbetcage",
@@ -2614,31 +2614,31 @@
       "abr": "pew",
       "category": "Furniture",
       "defname": "Pew",
-      "price": -10
+      "price": 350
     },
     {
       "abr": "kneelsheet",
       "category": "Furniture",
       "defname": "KneelSheet",
-      "price": -10
+      "price": 281
     },
     {
       "abr": "kneelpillow",
       "category": "Furniture",
       "defname": "KneelPillow",
-      "price": -10
+      "price": 98
     },
     {
       "abr": "bonsaipot",
       "category": "Furniture",
       "defname": "PlantPot_Bonsai",
-      "price": -10
+      "price": 82
     },
     {
       "abr": "slabbed",
       "category": "Furniture",
       "defname": "SlabBed",
-      "price": -10
+      "price": 102
     },
     {
       "abr": "slabdoublebed",
@@ -2710,19 +2710,19 @@
       "abr": "slavebodystrap",
       "category": "Apparel",
       "defname": "Apparel_BodyStrap",
-      "price": -10
+      "price": 275
     },
     {
       "abr": "burka",
       "category": "Apparel",
       "defname": "Apparel_Burka",
-      "price": -10
+      "price": 224
     },
     {
       "abr": "robe",
       "category": "Apparel",
       "defname": "Apparel_Robe",
-      "price": -10
+      "price": 297
     },
     {
       "abr": "torturecrown",
@@ -2788,13 +2788,13 @@
       "abr": "animalistslab(medium)",
       "category": "Furniture",
       "defname": "AnimalistSlab_Medium",
-      "price": -10
+      "price": 342
     },
     {
       "abr": "animalistslab(broad)",
       "category": "Furniture",
       "defname": "AnimalistSlab_Broad",
-      "price": -10
+      "price": 508
     },
     {
       "abr": "skull",
@@ -4042,7 +4042,7 @@
       "abr": "manapotion",
       "category": "Drugs",
       "defname": "ManaPotion",
-      "price": -10
+      "price": 152
     },
     {
       "abr": "wanderer'scloak",
@@ -4174,7 +4174,7 @@
       "abr": "orbofsouls(empty)",
       "category": "Magic artifacts",
       "defname": "TM_Artifact_OrbOfSouls",
-      "price": -10
+      "price": 6000
     },
     {
       "abr": "orbofsouls(filled)",
@@ -5122,7 +5122,7 @@
       "abr": "ammocrate",
       "category": "Furniture",
       "defname": "VFES_AmmoCrate",
-      "price": -10
+      "price": 492
     },
     {
       "abr": "anchovy",
@@ -5464,7 +5464,7 @@
       "abr": "animalfeeder",
       "category": "Furniture",
       "defname": "VFE_AnimalFeeder",
-      "price": -10
+      "price": 87
     },
     {
       "abr": "animalprostheticstable",
@@ -5662,7 +5662,7 @@
       "abr": "bench",
       "category": "Furniture",
       "defname": "Seat_Bench",
-      "price": -10
+      "price": 86
     },
     {
       "abr": "bioelectricorganimplant",
@@ -5758,7 +5758,7 @@
       "abr": "bionicclaw",
       "category": "Animal Body Part",
       "defname": "AB_BionicClaw",
-      "price": -10
+      "price": 867
     },
     {
       "abr": "bionicmotiondetector",
@@ -6142,7 +6142,7 @@
       "abr": "countertop",
       "category": "Furniture",
       "defname": "Table_Counter",
-      "price": -10
+      "price": 53
     },
     {
       "abr": "crabmeat",
@@ -6202,7 +6202,7 @@
       "abr": "cryptosleepsuspender",
       "category": "Furniture",
       "defname": "Bed_CryptoBed",
-      "price": -10
+      "price": 683
     },
     {
       "abr": "crystallinecaracal",
@@ -6238,7 +6238,7 @@
       "abr": "dartsboard",
       "category": "Furniture",
       "defname": "Joy_DartsBoard",
-      "price": -10
+      "price": 180
     },
     {
       "abr": "decaydrake",
@@ -6364,37 +6364,37 @@
       "abr": "doormat",
       "category": "Furniture",
       "defname": "LT_DoorMatLeather",
-      "price": -10
+      "price": 8
     },
     {
       "abr": "doormat(blue)",
       "category": "Furniture",
       "defname": "LT_DoorMatBlue",
-      "price": -10
+      "price": 7
     },
     {
       "abr": "doormat(green)",
       "category": "Furniture",
       "defname": "LT_DoorMatGreen",
-      "price": -10
+      "price": 7
     },
     {
       "abr": "doormat(orange)",
       "category": "Furniture",
       "defname": "LT_DoorMatOrange",
-      "price": -10
+      "price": 8
     },
     {
       "abr": "doormat(red)",
       "category": "Furniture",
       "defname": "LT_DoorMatRed",
-      "price": -10
+      "price": 7
     },
     {
       "abr": "doormat(teal)",
       "category": "Furniture",
       "defname": "LT_DoorMatTeal",
-      "price": -10
+      "price": 9
     },
     {
       "abr": "drainer",
@@ -6538,19 +6538,19 @@
       "abr": "ergonomicbed",
       "category": "Furniture",
       "defname": "Bed_Ergonomic",
-      "price": -10
+      "price": 458
     },
     {
       "abr": "ergonomicchair",
       "category": "Furniture",
       "defname": "Seat_ModernChair",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "ergonomicdoublebed",
       "category": "Furniture",
       "defname": "Bed_DoubleErgonomic",
-      "price": -10
+      "price": 883
     },
     {
       "abr": "erin",
@@ -6562,13 +6562,13 @@
       "abr": "esotericismslab(broad)",
       "category": "Furniture",
       "defname": "VME_EsotericismSlab_Broad",
-      "price": -10
+      "price": 508
     },
     {
       "abr": "esotericismslab(medium)",
       "category": "Furniture",
       "defname": "VME_EsotericismSlab_Medium",
-      "price": -10
+      "price": 342
     },
     {
       "abr": "eyeling",
@@ -6616,7 +6616,7 @@
       "abr": "filecabinet",
       "category": "Furniture",
       "defname": "Misc_FileCabinet",
-      "price": -10
+      "price": 93
     },
     {
       "abr": "fireextinguisher",
@@ -7264,7 +7264,7 @@
       "abr": "lampendtable",
       "category": "Furniture",
       "defname": "Table_LightEndTable",
-      "price": -10
+      "price": 163
     },
     {
       "abr": "landmine",
@@ -7276,43 +7276,43 @@
       "abr": "largebin",
       "category": "Furniture",
       "defname": "Bin_Large",
-      "price": -10
+      "price": 305
     },
     {
       "abr": "largedoormat",
       "category": "Furniture",
       "defname": "LT_DoorMatBigLeather",
-      "price": -10
+      "price": 12
     },
     {
       "abr": "largedoormat(blue)",
       "category": "Furniture",
       "defname": "LT_DoorMatBigBlue",
-      "price": -10
+      "price": 12
     },
     {
       "abr": "largedoormat(green)",
       "category": "Furniture",
       "defname": "LT_DoorMatBigGreen",
-      "price": -10
+      "price": 13
     },
     {
       "abr": "largedoormat(orange)",
       "category": "Furniture",
       "defname": "LT_DoorMatBigOrange",
-      "price": -10
+      "price": 13
     },
     {
       "abr": "largedoormat(red)",
       "category": "Furniture",
       "defname": "LT_DoorMatBigRed",
-      "price": -10
+      "price": 15
     },
     {
       "abr": "largedoormat(teal)",
       "category": "Furniture",
       "defname": "LT_DoorMatBigTeal",
-      "price": -10
+      "price": 12
     },
     {
       "abr": "largefishingtrap",
@@ -7612,7 +7612,7 @@
       "abr": "modernlamp",
       "category": "Furniture",
       "defname": "Light_ModernLamp",
-      "price": -10
+      "price": 117
     },
     {
       "abr": "moribundgallatross",
@@ -7780,7 +7780,7 @@
       "abr": "operatingtable",
       "category": "Furniture",
       "defname": "Bed_OperatingTable",
-      "price": -10
+      "price": 500
     },
     {
       "abr": "ottermeat",
@@ -7792,7 +7792,7 @@
       "abr": "outdoorlamp",
       "category": "Furniture",
       "defname": "Light_Streetlamp",
-      "price": -10
+      "price": 116
     },
     {
       "abr": "overgrowncolossus",
@@ -7930,7 +7930,7 @@
       "abr": "punchingbag",
       "category": "Furniture",
       "defname": "Joy_PunchingBag",
-      "price": -10
+      "price": 358
     },
     {
       "abr": "purussaurus",
@@ -8086,13 +8086,13 @@
       "abr": "roulettetable",
       "category": "Furniture",
       "defname": "Joy_RouletteTable",
-      "price": -10
+      "price": 708
     },
     {
       "abr": "royalarmchair",
       "category": "Furniture",
       "defname": "Seat_RoyalArmchair",
-      "price": -10
+      "price": 1683
     },
     {
       "abr": "royalave",
@@ -8110,55 +8110,55 @@
       "abr": "royalchair",
       "category": "Furniture",
       "defname": "Seat_RoyalChair",
-      "price": -10
+      "price": 967
     },
     {
       "abr": "royaldresser",
       "category": "Furniture",
       "defname": "Table_RoyalDresser",
-      "price": -10
+      "price": 1258
     },
     {
       "abr": "royalendtable",
       "category": "Furniture",
       "defname": "Table_RoyalEndTable",
-      "price": -10
+      "price": 783
     },
     {
       "abr": "royalposterbed",
       "category": "Furniture",
       "defname": "Bed_Kingsize",
-      "price": -10
+      "price": 2133
     },
     {
       "abr": "royaltable(1x1)",
       "category": "Furniture",
       "defname": "Table_Royal1x1c",
-      "price": -10
+      "price": 296
     },
     {
       "abr": "royaltable(1x2)",
       "category": "Furniture",
       "defname": "Table_Royal1x2c",
-      "price": -10
+      "price": 575
     },
     {
       "abr": "royaltable(2x2)",
       "category": "Furniture",
       "defname": "Table_Royal2x2c",
-      "price": -10
+      "price": 1150
     },
     {
       "abr": "royaltable(2x4)",
       "category": "Furniture",
       "defname": "Table_Royal2x4c",
-      "price": -10
+      "price": 1575
     },
     {
       "abr": "royaltable(3x3)",
       "category": "Furniture",
       "defname": "Table_Royal3x3c",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "salmon",
@@ -8242,7 +8242,7 @@
       "abr": "shelf(1x1)",
       "category": "Furniture",
       "defname": "Shelf_1x1c",
-      "price": -10
+      "price": 52
     },
     {
       "abr": "shintaoslab(broad)",
@@ -8314,7 +8314,7 @@
       "abr": "simplebed",
       "category": "Furniture",
       "defname": "Bed_Simple",
-      "price": -10
+      "price": 137
     },
     {
       "abr": "simpleprostheticanimalarm",
@@ -8350,7 +8350,7 @@
       "abr": "simpleprostheticclaw",
       "category": "Animal Body Part",
       "defname": "AB_SimpleProstheticClaw",
-      "price": -10
+      "price": 219
     },
     {
       "abr": "simpleprostheticshell",
@@ -8374,7 +8374,7 @@
       "abr": "sittingcushion",
       "category": "Furniture",
       "defname": "Seat_Cushion",
-      "price": -10
+      "price": 86
     },
     {
       "abr": "sivatherium",
@@ -8410,7 +8410,7 @@
       "abr": "slabbed",
       "category": "Furniture",
       "defname": "Bed_StoneSlab",
-      "price": -10
+      "price": 111
     },
     {
       "abr": "slugmeat",
@@ -8500,7 +8500,7 @@
       "abr": "squarechair",
       "category": "Furniture",
       "defname": "Seat_SquareChair",
-      "price": -10
+      "price": 198
     },
     {
       "abr": "squidmeat",
@@ -8566,7 +8566,7 @@
       "abr": "table(1x1)",
       "category": "Furniture",
       "defname": "Table_1x1c",
-      "price": -10
+      "price": 70
     },
     {
       "abr": "tacklebox",
@@ -8716,7 +8716,7 @@
       "abr": "uprightpiano",
       "category": "Furniture",
       "defname": "Joy_Piano",
-      "price": -10
+      "price": 925
     },
     {
       "abr": "venomousspitterimplant",
@@ -8734,91 +8734,91 @@
       "abr": "walldarklight",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightDark",
-      "price": -10
+      "price": 15
     },
     {
       "abr": "walllight",
       "category": "Furniture",
       "defname": "Lighting_MURWallLight",
-      "price": -10
+      "price": 15
     },
     {
       "abr": "walllight(azure)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightAzure",
-      "price": -10
+      "price": 15
     },
     {
       "abr": "walllight(blue)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightBlue",
-      "price": -10
+      "price": 15
     },
     {
       "abr": "walllight(chartreuse)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightChartreuse",
-      "price": -10
+      "price": 15
     },
     {
       "abr": "walllight(cyan)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightCyan",
-      "price": -10
+      "price": 15
     },
     {
       "abr": "walllight(green)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightGreen",
-      "price": -10
+      "price": 15
     },
     {
       "abr": "walllight(magenta)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightMagenta",
-      "price": -10
+      "price": 15
     },
     {
       "abr": "walllight(orange)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightOrange",
-      "price": -10
+      "price": 15
     },
     {
       "abr": "walllight(red)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightRed",
-      "price": -10
+      "price": 15
     },
     {
       "abr": "walllight(rose)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightRose",
-      "price": -10
+      "price": 15
     },
     {
       "abr": "walllight(springgreen)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightSpringGreen",
-      "price": -10
+      "price": 15
     },
     {
       "abr": "walllight(violet)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightViolet",
-      "price": -10
+      "price": 15
     },
     {
       "abr": "walllight(yellow)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightYellow",
-      "price": -10
+      "price": 15
     },
     {
       "abr": "wallsunlight",
       "category": "Furniture",
       "defname": "Lighting_MURWallSunLight",
-      "price": -10
+      "price": 29
     },
     {
       "abr": "walrusmeat",
@@ -8830,7 +8830,7 @@
       "abr": "wardrobe",
       "category": "Furniture",
       "defname": "Table_Wardrobe",
-      "price": -10
+      "price": 285
     },
     {
       "abr": "waywardmobileassembler",
@@ -8842,7 +8842,7 @@
       "abr": "weaponrack",
       "category": "Furniture",
       "defname": "Shelf_WeaponRack",
-      "price": -10
+      "price": 137
     },
     {
       "abr": "whip",
@@ -8938,7 +8938,7 @@
       "abr": "advancedbed",
       "category": "Furniture",
       "defname": "Bed_AdvBed",
-      "price": -10
+      "price": 808
     },
     {
       "abr": "advancedbionicarm",
@@ -8986,13 +8986,13 @@
       "abr": "advancedchair",
       "category": "Furniture",
       "defname": "Seat_AdvChair",
-      "price": -10
+      "price": 1233
     },
     {
       "abr": "advanceddoublebed",
       "category": "Furniture",
       "defname": "Bed_AdvDoubleBed",
-      "price": -10
+      "price": 1433
     },
     {
       "abr": "advancedmedicalstation",
@@ -9022,13 +9022,13 @@
       "abr": "aerocowl",
       "category": "Apparello headgear",
       "defname": "Apparello_Kurtlite",
-      "price": -10
+      "price": 1308
     },
     {
       "abr": "aerocowlmkii",
       "category": "Apparello headgear",
       "defname": "Apparello_Kurt",
-      "price": -10
+      "price": 3458
     },
     {
       "abr": "africanwilddog",
@@ -9046,7 +9046,7 @@
       "abr": "alloyvest",
       "category": "Apparel",
       "defname": "Apparello_Gspot",
-      "price": -10
+      "price": 1208
     },
     {
       "abr": "apples",
@@ -9064,13 +9064,13 @@
       "abr": "apron",
       "category": "Apparel",
       "defname": "Apparello_Cookaprontosaurus",
-      "price": -10
+      "price": 157
     },
     {
       "abr": "apron",
       "category": "Apparel",
       "defname": "VAE_Apparel_Apron",
-      "price": -10
+      "price": 204
     },
     {
       "abr": "archnem©ski™goggles",
@@ -9142,7 +9142,7 @@
       "abr": "bamboobonsaipot",
       "category": "Furniture",
       "defname": "PlantPot_BambooBonsai",
-      "price": -10
+      "price": 82
     },
     {
       "abr": "banana",
@@ -9154,19 +9154,19 @@
       "abr": "banditscarf",
       "category": "Apparello headgear",
       "defname": "Apparello_Bandit",
-      "price": -10
+      "price": 29
     },
     {
       "abr": "bandolier",
       "category": "Apparel",
       "defname": "Apparello_Ammobelt",
-      "price": -10
+      "price": 124
     },
     {
       "abr": "banner",
       "category": "Furniture",
       "defname": "VFEPD_Banner",
-      "price": -10
+      "price": 316
     },
     {
       "abr": "barley",
@@ -9184,7 +9184,7 @@
       "abr": "baseballcap",
       "category": "Apparello headgear",
       "defname": "Apparello_Bandal",
-      "price": -10
+      "price": 101
     },
     {
       "abr": "baseballcap",
@@ -9238,13 +9238,13 @@
       "abr": "beret",
       "category": "Apparello headgear",
       "defname": "Apparello_Beret",
-      "price": -10
+      "price": 101
     },
     {
       "abr": "bibapron",
       "category": "Apparel",
       "defname": "Apparello_Smithaprontosaurus",
-      "price": -10
+      "price": 157
     },
     {
       "abr": "biofuel",
@@ -9256,7 +9256,7 @@
       "abr": "biolabsunlamp",
       "category": "Furniture",
       "defname": "Spacer_SunLamp",
-      "price": -10
+      "price": 1350
     },
     {
       "abr": "bionicbrainpal",
@@ -9316,7 +9316,7 @@
       "abr": "blouse",
       "category": "Apparel",
       "defname": "VAE_Apparel_Blouse",
-      "price": -10
+      "price": 126
     },
     {
       "abr": "blueberry",
@@ -9358,13 +9358,13 @@
       "abr": "brocadevest",
       "category": "Apparel",
       "defname": "Apparello_Brocade",
-      "price": -10
+      "price": 249
     },
     {
       "abr": "builder'sjacket",
       "category": "Apparel",
       "defname": "VAE_Apparel_BuildersJacket",
-      "price": -10
+      "price": 125
     },
     {
       "abr": "bulletproofvest",
@@ -9412,7 +9412,7 @@
       "abr": "cagebrazier",
       "category": "Furniture",
       "defname": "VFEPD_CageBrazier",
-      "price": -10
+      "price": 15
     },
     {
       "abr": "camel",
@@ -9430,25 +9430,25 @@
       "abr": "caravaneer'shat",
       "category": "Apparello headgear",
       "defname": "Apparello_Sandtrader",
-      "price": -10
+      "price": 245
     },
     {
       "abr": "cardsharkhat",
       "category": "Apparello headgear",
       "defname": "Apparello_Cardshark",
-      "price": -10
+      "price": 107
     },
     {
       "abr": "cargopants",
       "category": "Pants",
       "defname": "Apparello_Pollypocket",
-      "price": -10
+      "price": 299
     },
     {
       "abr": "casualt-shirt",
       "category": "Apparel",
       "defname": "VAE_Apparel_CasualTShirt",
-      "price": -10
+      "price": 143
     },
     {
       "abr": "chainmail",
@@ -9460,13 +9460,13 @@
       "abr": "chaps",
       "category": "Pants",
       "defname": "Apparello_Chapel",
-      "price": -10
+      "price": 315
     },
     {
       "abr": "checkeredtrousers",
       "category": "Pants",
       "defname": "Apparello_square",
-      "price": -10
+      "price": 281
     },
     {
       "abr": "cheetah",
@@ -9484,7 +9484,7 @@
       "abr": "chef'shat",
       "category": "Apparello headgear",
       "defname": "Apparello_Chefhat",
-      "price": -10
+      "price": 163
     },
     {
       "abr": "chef'stoque",
@@ -9496,7 +9496,7 @@
       "abr": "chef'suniform",
       "category": "Apparel",
       "defname": "VAE_Apparel_ChefsUniform",
-      "price": -10
+      "price": 222
     },
     {
       "abr": "cherries",
@@ -9538,7 +9538,7 @@
       "abr": "cleanerbasestation",
       "category": "Furniture",
       "defname": "AIRobot_RechargeStation_Cleaner",
-      "price": -10
+      "price": 1825
     },
     {
       "abr": "cleaningbot",
@@ -9550,7 +9550,7 @@
       "abr": "cloak",
       "category": "Apparel",
       "defname": "VAE_Apparel_Cape",
-      "price": -10
+      "price": 204
     },
     {
       "abr": "cloudberry",
@@ -9574,13 +9574,13 @@
       "abr": "coffeetable(1x1)",
       "category": "Furniture",
       "defname": "VFEPD_CoffeeTableSmall",
-      "price": -10
+      "price": 102
     },
     {
       "abr": "coffeetable(2x1)",
       "category": "Furniture",
       "defname": "VFEPD_CoffeeTable",
-      "price": -10
+      "price": 103
     },
     {
       "abr": "computingsystem",
@@ -9604,7 +9604,7 @@
       "abr": "corkhat",
       "category": "Apparello headgear",
       "defname": "Apparello_Plainhat",
-      "price": -10
+      "price": 101
     },
     {
       "abr": "cortexaugmentor",
@@ -9694,13 +9694,13 @@
       "abr": "desk",
       "category": "Furniture",
       "defname": "VFEPD_Desk",
-      "price": -10
+      "price": 138
     },
     {
       "abr": "doctorscrubs",
       "category": "Apparel",
       "defname": "VAE_Apparel_DoctorScrubs",
-      "price": -10
+      "price": 188
     },
     {
       "abr": "dogmeat",
@@ -9742,19 +9742,19 @@
       "abr": "emptybrazier",
       "category": "Furniture",
       "defname": "VFEPD_BrazierEmpty",
-      "price": -10
+      "price": 167
     },
     {
       "abr": "enviro-headgear",
       "category": "Apparello headgear",
       "defname": "Apparello_Meffectwo",
-      "price": -10
+      "price": 2633
     },
     {
       "abr": "enviro-leggings",
       "category": "Pants",
       "defname": "Apparello_Spacerpants",
-      "price": -10
+      "price": 266
     },
     {
       "abr": "ers",
@@ -9778,19 +9778,19 @@
       "abr": "fancyenviro-headgear",
       "category": "Apparello headgear",
       "defname": "Apparello_Meffect",
-      "price": -10
+      "price": 3383
     },
     {
       "abr": "fancypants",
       "category": "Pants",
       "defname": "Apparello_Holdem",
-      "price": -10
+      "price": 275
     },
     {
       "abr": "fedora",
       "category": "Apparello headgear",
       "defname": "Apparello_Fedora",
-      "price": -10
+      "price": 101
     },
     {
       "abr": "fedora",
@@ -9826,13 +9826,13 @@
       "abr": "fleeceshirt",
       "category": "Apparel",
       "defname": "VAE_Apparel_FleeceShirt",
-      "price": -10
+      "price": 160
     },
     {
       "abr": "foodshelf2x2",
       "category": "Furniture",
       "defname": "VG_FoodShelf",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "fraggrenadebelt",
@@ -9886,7 +9886,7 @@
       "abr": "gasfloodlight",
       "category": "Furniture",
       "defname": "VPE_GasFloodlight",
-      "price": -10
+      "price": 230
     },
     {
       "abr": "gasheater",
@@ -9910,7 +9910,7 @@
       "abr": "gassunlamp",
       "category": "Furniture",
       "defname": "VPE_GasSunLamp",
-      "price": -10
+      "price": 145
     },
     {
       "abr": "gastank",
@@ -9922,25 +9922,25 @@
       "abr": "gaswalldarklight",
       "category": "Furniture",
       "defname": "VPE_GasWallDarkLight",
-      "price": -10
+      "price": 59
     },
     {
       "abr": "gaswalllight",
       "category": "Furniture",
       "defname": "VPE_GasWallLight",
-      "price": -10
+      "price": 59
     },
     {
       "abr": "gasmask",
       "category": "Apparello headgear",
       "defname": "Apparello_Gassy",
-      "price": -10
+      "price": 175
     },
     {
       "abr": "gaudytribalmask",
       "category": "Apparello headgear",
       "defname": "Apparello_Mojotwo",
-      "price": -10
+      "price": 89
     },
     {
       "abr": "gausslance",
@@ -10030,7 +10030,7 @@
       "abr": "glitterworldhospitalbed",
       "category": "Furniture",
       "defname": "GlitterworldHospitalBedSW",
-      "price": -10
+      "price": 1808
     },
     {
       "abr": "gloves",
@@ -10078,7 +10078,7 @@
       "abr": "hardhat",
       "category": "Apparello headgear",
       "defname": "Apparello_Hardhat",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "hardhat",
@@ -10096,7 +10096,7 @@
       "abr": "haulerbasestation",
       "category": "Furniture",
       "defname": "AIRobot_RechargeStation_Hauler",
-      "price": -10
+      "price": 3050
     },
     {
       "abr": "haulingbot",
@@ -10120,7 +10120,7 @@
       "abr": "headsetwithbandana",
       "category": "Apparello headgear",
       "defname": "Apparello_Headset",
-      "price": -10
+      "price": 101
     },
     {
       "abr": "hedgehog",
@@ -10192,7 +10192,7 @@
       "abr": "hood",
       "category": "Apparello headgear",
       "defname": "Apparello_Hoood",
-      "price": -10
+      "price": 101
     },
     {
       "abr": "hood",
@@ -10204,7 +10204,7 @@
       "abr": "hoodie",
       "category": "Apparel",
       "defname": "VAE_Apparel_Hoodie",
-      "price": -10
+      "price": 259
     },
     {
       "abr": "hyena",
@@ -10228,13 +10228,13 @@
       "abr": "illuminateddresser",
       "category": "Furniture",
       "defname": "Table_IlluminatedDresser",
-      "price": -10
+      "price": 358
     },
     {
       "abr": "illuminatedendtable",
       "category": "Furniture",
       "defname": "Table_IlluminatedEndTable",
-      "price": -10
+      "price": 276
     },
     {
       "abr": "improvedcabinet",
@@ -10246,7 +10246,7 @@
       "abr": "infiltratorheadgear",
       "category": "Apparello headgear",
       "defname": "Apparello_Yi",
-      "price": -10
+      "price": 617
     },
     {
       "abr": "infusionamplifier",
@@ -10264,13 +10264,13 @@
       "abr": "interactivetable(1x1)",
       "category": "Furniture",
       "defname": "Table_interactive_1x1c",
-      "price": -10
+      "price": 508
     },
     {
       "abr": "interactivetable(2x2)",
       "category": "Furniture",
       "defname": "Table_interactive_2x2c",
-      "price": -10
+      "price": 942
     },
     {
       "abr": "ironwood",
@@ -10294,43 +10294,43 @@
       "abr": "jeans",
       "category": "Pants",
       "defname": "Apparello_Jeans",
-      "price": -10
+      "price": 271
     },
     {
       "abr": "jeans",
       "category": "Apparel",
       "defname": "VAE_Apparel_Jeans",
-      "price": -10
+      "price": 198
     },
     {
       "abr": "jodhpurs",
       "category": "Pants",
       "defname": "Apparello_Jodhpurs",
-      "price": -10
+      "price": 271
     },
     {
       "abr": "joywirer'sbrocade",
       "category": "Apparel",
       "defname": "Apparello_Medicade",
-      "price": -10
+      "price": 967
     },
     {
       "abr": "joywirer'scap",
       "category": "Apparello headgear",
       "defname": "Apparello_Raz",
-      "price": -10
+      "price": 400
     },
     {
       "abr": "jumpsuit",
       "category": "Apparel",
       "defname": "Apparello_GSkin",
-      "price": -10
+      "price": 321
     },
     {
       "abr": "jumpsuit",
       "category": "Apparel",
       "defname": "VAE_Apparel_Jumpsuit",
-      "price": -10
+      "price": 280
     },
     {
       "abr": "kangaroo",
@@ -10348,7 +10348,7 @@
       "abr": "kepi",
       "category": "Apparello headgear",
       "defname": "Apparello_Lecap",
-      "price": -10
+      "price": 101
     },
     {
       "abr": "kitchencupboard",
@@ -10372,7 +10372,7 @@
       "abr": "labcoat",
       "category": "Apparel",
       "defname": "VAE_Apparel_LabCoat",
-      "price": -10
+      "price": 246
     },
     {
       "abr": "largeadvancedbattery",
@@ -10444,7 +10444,7 @@
       "abr": "leatherpants",
       "category": "Pants",
       "defname": "Apparello_Lederhose",
-      "price": -10
+      "price": 321
     },
     {
       "abr": "lemur",
@@ -10498,7 +10498,7 @@
       "abr": "longcoat",
       "category": "Apparel",
       "defname": "Apparello_Longlylonglong",
-      "price": -10
+      "price": 433
     },
     {
       "abr": "mainecoon",
@@ -10558,19 +10558,19 @@
       "abr": "medicaluniformcoat",
       "category": "Apparel",
       "defname": "Apparello_SFSurge",
-      "price": -10
+      "price": 442
     },
     {
       "abr": "medic'sbandana",
       "category": "Apparello headgear",
       "defname": "Apparello_Medband",
-      "price": -10
+      "price": 342
     },
     {
       "abr": "medic'skevlarhelmet",
       "category": "Apparello headgear",
       "defname": "Apparello_Medihelmet",
-      "price": -10
+      "price": 525
     },
     {
       "abr": "medic'spoweredarmor",
@@ -10606,13 +10606,13 @@
       "abr": "meshshirt",
       "category": "Apparel",
       "defname": "Apparello_Urbulence",
-      "price": -10
+      "price": 233
     },
     {
       "abr": "metalshoulderpads",
       "category": "Apparel",
       "defname": "Apparello_Orkpad",
-      "price": -10
+      "price": 187
     },
     {
       "abr": "militaryberet",
@@ -10624,13 +10624,13 @@
       "abr": "militaryjacket",
       "category": "Apparel",
       "defname": "VAE_Apparel_MilitaryJacket",
-      "price": -10
+      "price": 375
     },
     {
       "abr": "militaryuniform",
       "category": "Apparel",
       "defname": "VAE_Apparel_MilitaryUniform",
-      "price": -10
+      "price": 249
     },
     {
       "abr": "missilefuselage",
@@ -10654,7 +10654,7 @@
       "abr": "modesttribalmask",
       "category": "Apparello headgear",
       "defname": "Apparello_Mojo",
-      "price": -10
+      "price": 89
     },
     {
       "abr": "molotovbelt",
@@ -10798,43 +10798,43 @@
       "abr": "outdoorsolarlamp",
       "category": "Furniture",
       "defname": "Spacer_OutdoorLamp",
-      "price": -10
+      "price": 175
     },
     {
       "abr": "outlandersscrapmask",
       "category": "Apparello headgear",
       "defname": "Apparello_Raideroos",
-      "price": -10
+      "price": 201
     },
     {
       "abr": "overalls",
       "category": "Apparel",
       "defname": "Apparello_XcomOne",
-      "price": -10
+      "price": 321
     },
     {
       "abr": "overalls",
       "category": "Apparel",
       "defname": "VAE_Apparel_Overalls",
-      "price": -10
+      "price": 180
     },
     {
       "abr": "paddedpants",
       "category": "Pants",
       "defname": "Apparello_Armorpants",
-      "price": -10
+      "price": 342
     },
     {
       "abr": "paddedvest",
       "category": "Apparel",
       "defname": "Apparello_Sheet",
-      "price": -10
+      "price": 207
     },
     {
       "abr": "paddyhat",
       "category": "Apparello headgear",
       "defname": "Apparello_Tradecone",
-      "price": -10
+      "price": 151
     },
     {
       "abr": "paingun",
@@ -10852,7 +10852,7 @@
       "abr": "patchpants",
       "category": "Pants",
       "defname": "Apparello_Scrapants",
-      "price": -10
+      "price": 51
     },
     {
       "abr": "pdw",
@@ -10870,7 +10870,7 @@
       "abr": "peakedcap",
       "category": "Apparello headgear",
       "defname": "Apparello_Commissar",
-      "price": -10
+      "price": 175
     },
     {
       "abr": "pears",
@@ -10888,7 +10888,7 @@
       "abr": "peltcoat",
       "category": "Apparel",
       "defname": "VAE_Apparel_PeltCoat",
-      "price": -10
+      "price": 327
     },
     {
       "abr": "penguin",
@@ -11002,7 +11002,7 @@
       "abr": "poncho",
       "category": "Apparel",
       "defname": "Apparello_PonPon",
-      "price": -10
+      "price": 392
     },
     {
       "abr": "poodle",
@@ -11092,7 +11092,7 @@
       "abr": "prototypenerve-enhancer",
       "category": "Apparello headgear",
       "defname": "Apparello_Proto",
-      "price": -10
+      "price": 1617
     },
     {
       "abr": "prototypescytherframe",
@@ -11158,7 +11158,7 @@
       "abr": "raiderjacket",
       "category": "Apparel",
       "defname": "Apparello_Skull",
-      "price": -10
+      "price": 392
     },
     {
       "abr": "railgun",
@@ -11230,7 +11230,7 @@
       "abr": "repairshelf",
       "category": "Furniture",
       "defname": "Shelf_RepairRack",
-      "price": -10
+      "price": 2633
     },
     {
       "abr": "rocketengine",
@@ -11302,7 +11302,7 @@
       "abr": "scarf",
       "category": "Apparello headgear",
       "defname": "Apparello_Vandal",
-      "price": -10
+      "price": 29
     },
     {
       "abr": "scarf",
@@ -11344,7 +11344,7 @@
       "abr": "sheriffshirt",
       "category": "Apparel",
       "defname": "VAE_Apparel_SheriffShirt",
-      "price": -10
+      "price": 213
     },
     {
       "abr": "shieldedcoat",
@@ -11362,7 +11362,7 @@
       "abr": "shirtandtie",
       "category": "Apparel",
       "defname": "VAE_Apparel_ShirtandTie",
-      "price": -10
+      "price": 151
     },
     {
       "abr": "shoes",
@@ -11374,19 +11374,19 @@
       "abr": "shorts",
       "category": "Apparel",
       "defname": "VAE_Apparel_Shorts",
-      "price": -10
+      "price": 141
     },
     {
       "abr": "shoulderpads",
       "category": "Apparel",
       "defname": "Apparello_Urpad",
-      "price": -10
+      "price": 138
     },
     {
       "abr": "shuttlepilothelm",
       "category": "Apparello headgear",
       "defname": "Apparello_Rockman",
-      "price": -10
+      "price": 242
     },
     {
       "abr": "shuttlepilot'svisor",
@@ -11434,13 +11434,13 @@
       "abr": "skirt",
       "category": "Pants",
       "defname": "Apparello_Skirtwirly",
-      "price": -10
+      "price": 321
     },
     {
       "abr": "skirt",
       "category": "Apparel",
       "defname": "VAE_Apparel_Skirt",
-      "price": -10
+      "price": 142
     },
     {
       "abr": "smallbattery",
@@ -11476,13 +11476,13 @@
       "abr": "sombrero",
       "category": "Apparello headgear",
       "defname": "Apparello_Sombrero",
-      "price": -10
+      "price": 101
     },
     {
       "abr": "spacemarineleggings",
       "category": "Pants",
       "defname": "Apparello_Spacemarinepants",
-      "price": -10
+      "price": 1392
     },
     {
       "abr": "spacerlamp",
@@ -11500,7 +11500,7 @@
       "abr": "stablehandtrousers",
       "category": "Pants",
       "defname": "Apparello_Suspender",
-      "price": -10
+      "price": 209
     },
     {
       "abr": "standardissueoveralls",
@@ -11512,7 +11512,7 @@
       "abr": "standinggaslamp",
       "category": "Furniture",
       "defname": "VPE_GasLamp",
-      "price": -10
+      "price": 59
     },
     {
       "abr": "stirfry",
@@ -11536,7 +11536,7 @@
       "abr": "suitjacket",
       "category": "Apparel",
       "defname": "VAE_Apparel_SuitJacket",
-      "price": -10
+      "price": 327
     },
     {
       "abr": "summerhat",
@@ -11620,19 +11620,19 @@
       "abr": "tac-teamheadcover",
       "category": "Apparello headgear",
       "defname": "Apparello_Cyninja",
-      "price": -10
+      "price": 450
     },
     {
       "abr": "tac-teampeakedcap",
       "category": "Apparello headgear",
       "defname": "Apparello_Cybissar",
-      "price": -10
+      "price": 5475
     },
     {
       "abr": "tanktop",
       "category": "Apparel",
       "defname": "VAE_Apparel_TankTop",
-      "price": -10
+      "price": 107
     },
     {
       "abr": "tapir",
@@ -11704,7 +11704,7 @@
       "abr": "tinkercraftchefhat",
       "category": "Apparello headgear",
       "defname": "Apparello_Chefhatplus",
-      "price": -10
+      "price": 375
     },
     {
       "abr": "tinkeringbench",
@@ -11728,7 +11728,7 @@
       "abr": "trader'scoat",
       "category": "Apparel",
       "defname": "Apparello_Trypophobiaa",
-      "price": -10
+      "price": 309
     },
     {
       "abr": "trapperhat",
@@ -11740,37 +11740,37 @@
       "abr": "tribalheaddress",
       "category": "Apparello headgear",
       "defname": "Apparello_MojoFeather",
-      "price": -10
+      "price": 119
     },
     {
       "abr": "tribalkilt",
       "category": "Apparel",
       "defname": "VAE_Apparel_TribalKilt",
-      "price": -10
+      "price": 144
     },
     {
       "abr": "tribalponcho",
       "category": "Apparel",
       "defname": "VAE_Apparel_TribalPoncho",
-      "price": -10
+      "price": 144
     },
     {
       "abr": "tribalshield",
       "category": "Apparel",
       "defname": "Apparello_Tribalshield",
-      "price": -10
+      "price": 74
     },
     {
       "abr": "tribalshoulderpads",
       "category": "Apparel",
       "defname": "Apparello_Tribalpad",
-      "price": -10
+      "price": 56
     },
     {
       "abr": "tricorn",
       "category": "Apparello headgear",
       "defname": "Apparello_TriMeCornMatey",
-      "price": -10
+      "price": 107
     },
     {
       "abr": "trooperarmor",
@@ -11788,25 +11788,25 @@
       "abr": "trousers",
       "category": "Apparel",
       "defname": "VAE_Apparel_Trousers",
-      "price": -10
+      "price": 164
     },
     {
       "abr": "tunic",
       "category": "Apparel",
       "defname": "Apparello_Tunic",
-      "price": -10
+      "price": 171
     },
     {
       "abr": "tunic",
       "category": "Apparel",
       "defname": "VAE_Apparel_Tunic",
-      "price": -10
+      "price": 143
     },
     {
       "abr": "tunicaelmógo",
       "category": "Apparel",
       "defname": "Apparello_Mogo",
-      "price": -10
+      "price": 808
     },
     {
       "abr": "turbineblades",
@@ -11830,13 +11830,13 @@
       "abr": "uniformcoat",
       "category": "Apparel",
       "defname": "Apparello_Preston",
-      "price": -10
+      "price": 442
     },
     {
       "abr": "unionsuit",
       "category": "Apparel",
       "defname": "Apparel_UniPjays",
-      "price": -10
+      "price": 218
     },
     {
       "abr": "uraniumpellets",
@@ -11848,13 +11848,13 @@
       "abr": "urbantrousers",
       "category": "Pants",
       "defname": "Apparello_Urbskin",
-      "price": -10
+      "price": 209
     },
     {
       "abr": "ushanka",
       "category": "Apparello headgear",
       "defname": "Apparello_Furhat",
-      "price": -10
+      "price": 101
     },
     {
       "abr": "waistcloth",
@@ -11902,7 +11902,7 @@
       "abr": "weldingmask",
       "category": "Apparello headgear",
       "defname": "Apparello_Wendywelder",
-      "price": -10
+      "price": 342
     },
     {
       "abr": "welshterrier",
@@ -16589,7 +16589,127 @@
       "category": "Misc",
       "defname": "VFEPD_DecalWordSmallZone",
       "price": -10
+    },
+    {
+      "abr": "guestbed",
+      "category": "Furniture",
+      "defname": "BedGuest",
+      "price": 155
+    },
+    {
+      "abr": "guestdoublebed",
+      "category": "Furniture",
+      "defname": "DoubleBedGuest",
+      "price": 292
+    },
+    {
+      "abr": "guestroyalbed",
+      "category": "Furniture",
+      "defname": "RoyalBedGuest",
+      "price": 1442
+    },
+    {
+      "abr": "guesthospitalbed",
+      "category": "Furniture",
+      "defname": "HospitalBedGuest",
+      "price": 675
+    },
+    {
+      "abr": "guestbedroll",
+      "category": "Furniture",
+      "defname": "BedrollGuest",
+      "price": 137
+    },
+    {
+      "abr": "guestdoublebedroll",
+      "category": "Furniture",
+      "defname": "BedrollDoubleGuest",
+      "price": 290
+    },
+    {
+      "abr": "guestancientbed",
+      "category": "Misc",
+      "defname": "AncientBedGuest",
+      "price": 5
+    },
+    {
+      "abr": "guestslabbed",
+      "category": "Furniture",
+      "defname": "SlabBedGuest",
+      "price": 102
+    },
+    {
+      "abr": "guestslabdoublebed",
+      "category": "Furniture",
+      "defname": "SlabDoubleBedGuest",
+      "price": 288
+    },
+    {
+      "abr": "guestergonomicbed",
+      "category": "Furniture",
+      "defname": "Bed_ErgonomicGuest",
+      "price": 450
+    },
+    {
+      "abr": "guestergonomicdoublebed",
+      "category": "Furniture",
+      "defname": "Bed_DoubleErgonomicGuest",
+      "price": 867
+    },
+    {
+      "abr": "guestroyalposterbed",
+      "category": "Furniture",
+      "defname": "Bed_KingsizeGuest",
+      "price": 1967
+    },
+    {
+      "abr": "guestslabbed",
+      "category": "Furniture",
+      "defname": "Bed_StoneSlabGuest",
+      "price": 111
+    },
+    {
+      "abr": "guestsimplebed",
+      "category": "Furniture",
+      "defname": "Bed_SimpleGuest",
+      "price": 137
+    },
+    {
+      "abr": "guestoperatingtable",
+      "category": "Furniture",
+      "defname": "Bed_OperatingTableGuest",
+      "price": 508
+    },
+    {
+      "abr": "guestcryptosleepsuspender",
+      "category": "Furniture",
+      "defname": "Bed_CryptoBedGuest",
+      "price": 725
+    },
+    {
+      "abr": "guestancientbed",
+      "category": "Misc",
+      "defname": "VME_AncientBedGuest",
+      "price": 5
+    },
+    {
+      "abr": "guestglitterworldhospitalbed",
+      "category": "Furniture",
+      "defname": "GlitterworldHospitalBedSWGuest",
+      "price": 1917
+    },
+    {
+      "abr": "guestadvancedbed",
+      "category": "Furniture",
+      "defname": "Bed_AdvBedGuest",
+      "price": 833
+    },
+    {
+      "abr": "guestadvanceddoublebed",
+      "category": "Furniture",
+      "defname": "Bed_AdvDoubleBedGuest",
+      "price": 1475
     }
   ],
-  "total": 2765
+  "total": 2785
 }

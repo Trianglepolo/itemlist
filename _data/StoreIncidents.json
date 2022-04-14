@@ -272,7 +272,7 @@
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 1200,
+		"price": 7500,
 		"karmatype": "Good"
 	},
 	{
@@ -322,12 +322,12 @@
 	},
 	{
 		"abr": "reviveall",
-		"price": 25000,
+		"price": 30000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "reviveme",
-		"price": 10000,
+		"price": 12500,
 		"karmatype": "Good"
 	},
 	{
@@ -458,7 +458,7 @@
 	{
 		"abr": "animaliskwanderin",
 		"price": 700,
-		"karmatype": "Neutral"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "SummitCrabRaid",
@@ -517,12 +517,12 @@
 	},
 	{
 		"abr": "iceage",
-		"price": 25000,
+		"price": 15000,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "globalwarming",
-		"price": 25000,
+		"price": 15000,
 		"karmatype": "Doom"
 	},
 	{
@@ -594,12 +594,7 @@
 		"abr": "drought",
 		"price": 1000,
 		"karmatype": "Bad"
-	},
-	{
-		"abr": "wildmen",
-		"price": 600,
-		"karmatype": "Neutral"
 	}
 	],
-	"total": 120
+	"total": 119
 }
