@@ -937,12 +937,6 @@
   },
   {
     "author": "SirRandoo",
-    "name": "ToolkitPolls",
-    "steamId": "2435838514",
-    "version": "1.1.1.6"
-  },
-  {
-    "author": "SirRandoo",
     "name": "ToolkitRaids",
     "steamId": "2091359241",
     "version": "1.0.5.0"
@@ -1014,12 +1008,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki and  Kikohi",
-    "name": "Vanilla Storytellers Expanded - Winston Waves",
-    "steamId": "2734032569",
-    "version": "1.0.2.2"
-  },
-  {
     "author": "Sarg",
     "name": "Magical Menagerie",
     "steamId": "1821617793",
@@ -1036,5 +1024,11 @@
     "name": "Expanded Prosthetics and Organ Engineering",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Kikohi",
+    "name": "Vanilla Storytellers Expanded - Winston Waves",
+    "steamId": "2734032569",
+    "version": "1.0.2.2"
   }
 ]
