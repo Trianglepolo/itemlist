@@ -4,187 +4,187 @@
       "abr": "beer",
       "category": "Drugs",
       "defname": "Beer",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "wort",
       "category": "Manufactured",
       "defname": "Wort",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "ambrosia",
       "category": "Drugs",
       "defname": "Ambrosia",
-      "price": -10
+      "price": 25
     },
     {
       "abr": "go-juice",
       "category": "Drugs",
       "defname": "GoJuice",
-      "price": 96
+      "price": 88
     },
     {
       "abr": "luciferium",
       "category": "Drugs",
       "defname": "Luciferium",
-      "price": 150
+      "price": 117
     },
     {
       "abr": "penoxycyline",
       "category": "Drugs",
       "defname": "Penoxycyline",
-      "price": 150
+      "price": 30
     },
     {
       "abr": "flake",
       "category": "Drugs",
       "defname": "Flake",
-      "price": -10
+      "price": 23
     },
     {
       "abr": "psychitetea",
       "category": "Drugs",
       "defname": "PsychiteTea",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "yayo",
       "category": "Drugs",
       "defname": "Yayo",
-      "price": -10
+      "price": 35
     },
     {
       "abr": "smokeleafjoint",
       "category": "Drugs",
       "defname": "SmokeleafJoint",
-      "price": -10
+      "price": 18
     },
     {
       "abr": "wake-up",
       "category": "Drugs",
       "defname": "WakeUp",
-      "price": -10
+      "price": 58
     },
     {
       "abr": "archotecheye",
       "category": "Archotech",
       "defname": "ArchotechEye",
-      "price": 10000
+      "price": 4667
     },
     {
       "abr": "archotecharm",
       "category": "Archotech",
       "defname": "ArchotechArm",
-      "price": 10000
+      "price": 4667
     },
     {
       "abr": "archotechleg",
       "category": "Archotech",
       "defname": "ArchotechLeg",
-      "price": 10000
+      "price": 4667
     },
     {
       "abr": "bioniceye",
       "category": "Bionic",
       "defname": "BionicEye",
-      "price": -10
+      "price": 1092
     },
     {
       "abr": "bionicarm",
       "category": "Bionic",
       "defname": "BionicArm",
-      "price": -10
+      "price": 1725
     },
     {
       "abr": "bionicleg",
       "category": "Bionic",
       "defname": "BionicLeg",
-      "price": -10
+      "price": 1725
     },
     {
       "abr": "bionicspine",
       "category": "Bionic",
       "defname": "BionicSpine",
-      "price": 1992
+      "price": 1675
     },
     {
       "abr": "deathacidifier",
       "category": "Bionic",
       "defname": "DeathAcidifier",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "bionicear",
       "category": "Bionic",
       "defname": "BionicEar",
-      "price": -10
+      "price": 1017
     },
     {
       "abr": "bionictongue",
       "category": "Bionic",
       "defname": "BionicTongue",
-      "price": -10
+      "price": 942
     },
     {
       "abr": "heart",
       "category": "Natural",
       "defname": "Heart",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "lung",
       "category": "Natural",
       "defname": "Lung",
-      "price": -10
+      "price": 2500
     },
     {
       "abr": "kidney",
       "category": "Natural",
       "defname": "Kidney",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "liver",
       "category": "Natural",
       "defname": "Liver",
-      "price": -10
+      "price": 3333
     },
     {
-      "abr": "prostheticleg",
+      "abr": "simpleprostheticleg",
       "category": "Prosthetic",
       "defname": "SimpleProstheticLeg",
-      "price": -10
+      "price": 742
     },
     {
-      "abr": "prostheticarm",
+      "abr": "simpleprostheticarm",
       "category": "Prosthetic",
       "defname": "SimpleProstheticArm",
-      "price": -10
+      "price": 742
     },
     {
       "abr": "cochlearimplant",
       "category": "Prosthetic",
       "defname": "CochlearImplant",
-      "price": -10
+      "price": 508
     },
     {
       "abr": "powerclaw",
       "category": "Prosthetic",
       "defname": "PowerClaw",
-      "price": 650
+      "price": 1208
     },
     {
       "abr": "joywire",
       "category": "Prosthetic",
       "defname": "Joywire",
-      "price": -10
+      "price": 2183
     },
     {
       "abr": "painstopper",
       "category": "Prosthetic",
       "defname": "Painstopper",
-      "price": -10
+      "price": 2183
     },
     {
       "abr": "urn",
@@ -226,7 +226,7 @@
       "abr": "royalbed",
       "category": "Furniture",
       "defname": "RoyalBed",
-      "price": 1550
+      "price": 1467
     },
     {
       "abr": "hospitalbed",
@@ -316,31 +316,31 @@
       "abr": "standinglamp",
       "category": "Furniture",
       "defname": "StandingLamp",
-      "price": 59
+      "price": 65
     },
     {
       "abr": "standinglamp(red)",
       "category": "Furniture",
       "defname": "StandingLamp_Red",
-      "price": 59
+      "price": 65
     },
     {
       "abr": "standinglamp(green)",
       "category": "Furniture",
       "defname": "StandingLamp_Green",
-      "price": 59
+      "price": 65
     },
     {
       "abr": "standinglamp(blue)",
       "category": "Furniture",
       "defname": "StandingLamp_Blue",
-      "price": 59
+      "price": 65
     },
     {
       "abr": "sunlamp",
       "category": "Furniture",
       "defname": "SunLamp",
-      "price": 116
+      "price": 129
     },
     {
       "abr": "shelf",
@@ -358,13 +358,13 @@
       "abr": "horseshoespin",
       "category": "Recreation",
       "defname": "HorseshoesPin",
-      "price": -10
+      "price": 34
     },
     {
       "abr": "hoopstonering",
       "category": "Recreation",
       "defname": "HoopstoneRing",
-      "price": -10
+      "price": 67
     },
     {
       "abr": "game-of-urboard",
@@ -382,559 +382,559 @@
       "abr": "pokertable",
       "category": "Furniture",
       "defname": "PokerTable",
-      "price": 408
+      "price": 400
     },
     {
       "abr": "billiardstable",
       "category": "Furniture",
       "defname": "BilliardsTable",
-      "price": 617
+      "price": 600
     },
     {
       "abr": "tubetelevision",
       "category": "Recreation",
       "defname": "TubeTelevision",
-      "price": -10
+      "price": 525
     },
     {
       "abr": "flatscreentelevision",
       "category": "Recreation",
       "defname": "FlatscreenTelevision",
-      "price": -10
+      "price": 1533
     },
     {
       "abr": "megascreentelevision",
       "category": "Recreation",
       "defname": "MegascreenTelevision",
-      "price": -10
+      "price": 2475
     },
     {
       "abr": "telescope",
       "category": "Recreation",
       "defname": "Telescope",
-      "price": -10
+      "price": 583
     },
     {
       "abr": "eggbox",
       "category": "Misc",
       "defname": "EggBox",
-      "price": -10
+      "price": 79
     },
     {
       "abr": "orbitaltradebeacon",
       "category": "Misc",
       "defname": "OrbitalTradeBeacon",
-      "price": -10
+      "price": 185
     },
     {
       "abr": "firefoampopper",
       "category": "Misc",
       "defname": "FirefoamPopper",
-      "price": -10
+      "price": 300
     },
     {
       "abr": "multi-analyzer",
       "category": "Misc",
       "defname": "MultiAnalyzer",
-      "price": -10
+      "price": 1700
     },
     {
       "abr": "vitalsmonitor",
       "category": "Misc",
       "defname": "VitalsMonitor",
-      "price": -10
+      "price": 358
     },
     {
       "abr": "toolcabinet",
       "category": "Misc",
       "defname": "ToolCabinet",
-      "price": -10
+      "price": 642
     },
     {
       "abr": "penmarker",
       "category": "Misc",
       "defname": "PenMarker",
-      "price": -10
+      "price": 104
     },
     {
       "abr": "glowpod",
       "category": "Special",
       "defname": "GlowPod",
-      "price": -10
+      "price": 83
     },
     {
       "abr": "battery",
       "category": "Power",
       "defname": "Battery",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "artbench",
       "category": "Production",
       "defname": "TableSculpting",
-      "price": -10
+      "price": 425
     },
     {
       "abr": "butchertable",
       "category": "Production",
       "defname": "TableButcher",
-      "price": -10
+      "price": 302
     },
     {
       "abr": "handtailorbench",
       "category": "Production",
       "defname": "HandTailoringBench",
-      "price": -10
+      "price": 262
     },
     {
       "abr": "electrictailorbench",
       "category": "Production",
       "defname": "ElectricTailoringBench",
-      "price": -10
+      "price": 533
     },
     {
       "abr": "fueledsmithy",
       "category": "Production",
       "defname": "FueledSmithy",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "electricsmithy",
       "category": "Production",
       "defname": "ElectricSmithy",
-      "price": -10
+      "price": 492
     },
     {
       "abr": "machiningtable",
       "category": "Production",
       "defname": "TableMachining",
-      "price": -10
+      "price": 758
     },
     {
       "abr": "electricstove",
       "category": "Production",
       "defname": "ElectricStove",
-      "price": -10
+      "price": 375
     },
     {
       "abr": "fueledstove",
       "category": "Production",
       "defname": "FueledStove",
-      "price": -10
+      "price": 265
     },
     {
       "abr": "stonecutter'stable",
       "category": "Production",
       "defname": "TableStonecutter",
-      "price": -10
+      "price": 358
     },
     {
       "abr": "brewery",
       "category": "Production",
       "defname": "Brewery",
-      "price": -10
+      "price": 350
     },
     {
       "abr": "druglab",
       "category": "Production",
       "defname": "DrugLab",
-      "price": -10
+      "price": 742
     },
     {
       "abr": "electricsmelter",
       "category": "Production",
       "defname": "ElectricSmelter",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "simpleresearchbench",
       "category": "Production",
       "defname": "SimpleResearchBench",
-      "price": -10
+      "price": 350
     },
     {
       "abr": "fermentingbarrel",
       "category": "Production",
       "defname": "FermentingBarrel",
-      "price": -10
+      "price": 95
     },
     {
       "abr": "deepdrill",
       "category": "Production",
       "defname": "DeepDrill",
-      "price": -10
+      "price": 483
     },
     {
       "abr": "spiketrap",
       "category": "Security",
       "defname": "TrapSpike",
-      "price": -10
+      "price": 169
     },
     {
       "abr": "iedtrap",
       "category": "Security",
       "defname": "TrapIED_HighExplosive",
-      "price": -10
+      "price": 192
     },
     {
       "abr": "iedincendiarytrap",
       "category": "Security",
       "defname": "TrapIED_Incendiary",
-      "price": -10
+      "price": 192
     },
     {
       "abr": "iedemptrap",
       "category": "Security",
       "defname": "TrapIED_EMP",
-      "price": -10
+      "price": 192
     },
     {
       "abr": "iedsmoketrap",
       "category": "Security",
       "defname": "TrapIED_Smoke",
-      "price": -10
+      "price": 192
     },
     {
       "abr": "iedfirefoamtrap",
       "category": "Security",
       "defname": "TrapIED_Firefoam",
-      "price": -10
+      "price": 192
     },
     {
       "abr": "iedantigrainwarheadtrap",
       "category": "Security",
       "defname": "TrapIED_AntigrainWarhead",
-      "price": -10
+      "price": 2008
     },
     {
       "abr": "mini-turret",
       "category": "Security",
       "defname": "Turret_MiniTurret",
-      "price": -10
+      "price": 492
     },
     {
       "abr": "mortar",
       "category": "Security",
       "defname": "Turret_Mortar",
-      "price": -10
+      "price": 1500
     },
     {
       "abr": "psychicemanator",
       "category": "Special",
       "defname": "PsychicEmanator",
-      "price": 2083
+      "price": 2167
     },
     {
       "abr": "vanometricpowercell",
       "category": "Special",
       "defname": "VanometricPowerCell",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "infinitechemreactor",
       "category": "Special",
       "defname": "InfiniteChemreactor",
-      "price": -10
+      "price": 2500
     },
     {
       "abr": "heater",
       "category": "Temperature",
       "defname": "Heater",
-      "price": -10
+      "price": 218
     },
     {
       "abr": "psychicanimalpulser",
       "category": "Artifacts",
       "defname": "PsychicAnimalPulser",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "psychicsoothepulser",
       "category": "Artifacts",
       "defname": "PsychicSoothePulser",
-      "price": 1100
+      "price": 1000
     },
     {
       "abr": "personacore",
       "category": "Items",
       "defname": "AIPersonaCore",
-      "price": -10
+      "price": 6667
     },
     {
       "abr": "healermechserum",
       "category": "Items",
       "defname": "MechSerumHealer",
-      "price": -10
+      "price": 2167
     },
     {
       "abr": "resurrectormechserum",
       "category": "Items",
       "defname": "MechSerumResurrector",
-      "price": -10
+      "price": 2833
     },
     {
       "abr": "techprofsubpersonacore",
       "category": "Items",
       "defname": "TechprofSubpersonaCore",
-      "price": 3333
+      "price": 1667
     },
     {
       "abr": "thrumbohorn",
       "category": "Items",
       "defname": "ThrumboHorn",
-      "price": -10
+      "price": 1333
     },
     {
       "abr": "elephanttusk",
       "category": "Items",
       "defname": "ElephantTusk",
-      "price": -10
+      "price": 133
     },
     {
       "abr": "packagedsurvivalmeal",
       "category": "Meals",
       "defname": "MealSurvivalPack",
-      "price": 35
+      "price": 40
     },
     {
       "abr": "nutrientpastemeal",
       "category": "Meals",
       "defname": "MealNutrientPaste",
-      "price": 16
+      "price": 17
     },
     {
       "abr": "simplemeal",
       "category": "Meals",
       "defname": "MealSimple",
-      "price": 22
+      "price": 25
     },
     {
       "abr": "finemeal",
       "category": "Meals",
       "defname": "MealFine",
-      "price": 37
+      "price": 33
     },
     {
       "abr": "vegetarianfinemeal",
       "category": "Meals",
       "defname": "MealFine_Veg",
-      "price": 29
+      "price": 33
     },
     {
       "abr": "carnivorefinemeal",
       "category": "Meals",
       "defname": "MealFine_Meat",
-      "price": 35
+      "price": 33
     },
     {
       "abr": "lavishmeal",
       "category": "Meals",
       "defname": "MealLavish",
-      "price": 58
+      "price": 67
     },
     {
       "abr": "vegetarianlavishmeal",
       "category": "Meals",
       "defname": "MealLavish_Veg",
-      "price": 62
+      "price": 67
     },
     {
       "abr": "carnivorelavishmeal",
       "category": "Meals",
       "defname": "MealLavish_Meat",
-      "price": 61
+      "price": 67
     },
     {
       "abr": "kibble",
       "category": "Foods",
       "defname": "Kibble",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "pemmican",
       "category": "Foods",
       "defname": "Pemmican",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "chocolate",
       "category": "Foods",
       "defname": "Chocolate",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "milk",
       "category": "Animal products",
       "defname": "Milk",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "insectjelly",
       "category": "Animal products",
       "defname": "InsectJelly",
-      "price": -10
+      "price": 13
     },
     {
       "abr": "chickenegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggChickenUnfertilized",
-      "price": -10
+      "price": 12
     },
     {
       "abr": "chickenegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggChickenFertilized",
-      "price": -10
+      "price": 12
     },
     {
       "abr": "cobraegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggCobraFertilized",
-      "price": -10
+      "price": 33
     },
     {
       "abr": "iguanaegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggIguanaFertilized",
-      "price": -10
+      "price": 42
     },
     {
       "abr": "tortoiseegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggTortoiseFertilized",
-      "price": -10
+      "price": 38
     },
     {
       "abr": "cassowaryegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggCassowaryFertilized",
-      "price": -10
+      "price": 32
     },
     {
       "abr": "emuegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggEmuFertilized",
-      "price": -10
+      "price": 30
     },
     {
       "abr": "ostrichegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggOstrichFertilized",
-      "price": -10
+      "price": 38
     },
     {
       "abr": "turkeyegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggTurkeyFertilized",
-      "price": -10
+      "price": 18
     },
     {
       "abr": "duckegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggDuckUnfertilized",
-      "price": -10
+      "price": 12
     },
     {
       "abr": "duckegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggDuckFertilized",
-      "price": -10
+      "price": 12
     },
     {
       "abr": "gooseegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggGooseUnfertilized",
-      "price": -10
+      "price": 15
     },
     {
       "abr": "gooseegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggGooseFertilized",
-      "price": -10
+      "price": 18
     },
     {
       "abr": "herbalmedicine",
       "category": "Medicine",
       "defname": "MedicineHerbal",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "medicine",
       "category": "Medicine",
       "defname": "MedicineIndustrial",
-      "price": -10
+      "price": 30
     },
     {
       "abr": "glitterworldmedicine",
       "category": "Medicine",
       "defname": "MedicineUltratech",
-      "price": -10
+      "price": 83
     },
     {
       "abr": "component",
       "category": "Manufactured",
       "defname": "ComponentIndustrial",
-      "price": -10
+      "price": 53
     },
     {
       "abr": "advancedcomponent",
       "category": "Manufactured",
       "defname": "ComponentSpacer",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "neutroamine",
       "category": "Manufactured",
       "defname": "Neutroamine",
-      "price": -10
+      "price": 10
     },
     {
       "abr": "chemfuel",
       "category": "Manufactured",
       "defname": "Chemfuel",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "reinforcedbarrel",
       "category": "Items",
       "defname": "ReinforcedBarrel",
-      "price": -10
+      "price": 1000
     },
     {
       "abr": "potatoes",
       "category": "Vegetarian",
       "defname": "RawPotatoes",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "rawfungus",
       "category": "Vegetarian",
       "defname": "RawFungus",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "rice",
       "category": "Vegetarian",
       "defname": "RawRice",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "agavefruit",
       "category": "Vegetarian",
       "defname": "RawAgave",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "corn",
       "category": "Vegetarian",
       "defname": "RawCorn",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "berries",
       "category": "Vegetarian",
       "defname": "RawBerries",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "hay",
@@ -946,109 +946,109 @@
       "abr": "hops",
       "category": "Plant matter",
       "defname": "RawHops",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "psychoidleaves",
       "category": "Plant matter",
       "defname": "PsychoidLeaves",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "smokeleafleaves",
       "category": "Plant matter",
       "defname": "SmokeleafLeaves",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "high-explosiveshell",
       "category": "Mortar shells",
       "defname": "Shell_HighExplosive",
-      "price": -10
+      "price": 92
     },
     {
       "abr": "incendiaryshell",
       "category": "Mortar shells",
       "defname": "Shell_Incendiary",
-      "price": -10
+      "price": 92
     },
     {
       "abr": "empshell",
       "category": "Mortar shells",
       "defname": "Shell_EMP",
-      "price": -10
+      "price": 92
     },
     {
       "abr": "smokeshell",
       "category": "Mortar shells",
       "defname": "Shell_Smoke",
-      "price": -10
+      "price": 92
     },
     {
       "abr": "firefoamshell",
       "category": "Mortar shells",
       "defname": "Shell_Firefoam",
-      "price": -10
+      "price": 92
     },
     {
       "abr": "antigrainwarhead",
       "category": "Mortar shells",
       "defname": "Shell_AntigrainWarhead",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "silver",
       "category": "Raw resources",
       "defname": "Silver",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "gold",
       "category": "Raw resources",
       "defname": "Gold",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "steel",
       "category": "Raw resources",
       "defname": "Steel",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "plasteel",
       "category": "Raw resources",
       "defname": "Plasteel",
-      "price": -10
+      "price": 15
     },
     {
       "abr": "wood",
       "category": "Raw resources",
       "defname": "WoodLog",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "uranium",
       "category": "Raw resources",
       "defname": "Uranium",
-      "price": -10
+      "price": 10
     },
     {
       "abr": "jade",
       "category": "Raw resources",
       "defname": "Jade",
-      "price": 11
+      "price": 8
     },
     {
       "abr": "cloth",
       "category": "Textiles",
       "defname": "Cloth",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "synthread",
       "category": "Textiles",
       "defname": "Synthread",
-      "price": -10
+      "price": 7
     },
     {
       "abr": "devilstrand",
@@ -1060,43 +1060,43 @@
       "abr": "hyperweave",
       "category": "Textiles",
       "defname": "Hyperweave",
-      "price": 23
+      "price": 15
     },
     {
       "abr": "sheepwool",
       "category": "Wools",
       "defname": "WoolSheep",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "alpacawool",
       "category": "Wools",
       "defname": "WoolAlpaca",
-      "price": -10
+      "price": 6
     },
     {
       "abr": "megaslothwool",
       "category": "Wools",
       "defname": "WoolMegasloth",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "muffalowool",
       "category": "Wools",
       "defname": "WoolMuffalo",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "bisonwool",
       "category": "Wools",
       "defname": "WoolBison",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "plainleather",
       "category": "Leathers",
       "defname": "Leather_Plain",
-      "price": 4
+      "price": 3
     },
     {
       "abr": "dogleather",
@@ -1108,49 +1108,49 @@
       "abr": "wolfskin",
       "category": "Leathers",
       "defname": "Leather_Wolf",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "pantherafur",
       "category": "Leathers",
       "defname": "Leather_Panthera",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "camelhide",
       "category": "Leathers",
       "defname": "Leather_Camel",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "bluefur",
       "category": "Leathers",
       "defname": "Leather_Bluefur",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "bearskin",
       "category": "Leathers",
       "defname": "Leather_Bear",
-      "price": -10
+      "price": 6
     },
     {
       "abr": "guineapigfur",
       "category": "Leathers",
       "defname": "Leather_GuineaPig",
-      "price": -10
+      "price": 8
     },
     {
       "abr": "humanleather",
       "category": "Leathers",
       "defname": "Leather_Human",
-      "price": 8
+      "price": 7
     },
     {
       "abr": "pigskin",
       "category": "Leathers",
       "defname": "Leather_Pig",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "lightleather",
@@ -1162,25 +1162,25 @@
       "abr": "birdskin",
       "category": "Leathers",
       "defname": "Leather_Bird",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "chinchillafur",
       "category": "Leathers",
       "defname": "Leather_Chinchilla",
-      "price": -10
+      "price": 11
     },
     {
       "abr": "foxfur",
       "category": "Leathers",
       "defname": "Leather_Fox",
-      "price": -10
+      "price": 6
     },
     {
       "abr": "lizardskin",
       "category": "Leathers",
       "defname": "Leather_Lizard",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "elephantleather",
@@ -1192,121 +1192,121 @@
       "abr": "heavyfur",
       "category": "Leathers",
       "defname": "Leather_Heavy",
-      "price": -10
+      "price": 6
     },
     {
       "abr": "rhinocerosleather",
       "category": "Leathers",
       "defname": "Leather_Rhinoceros",
-      "price": 8
+      "price": 7
     },
     {
       "abr": "thrumbofur",
       "category": "Leathers",
       "defname": "Leather_Thrumbo",
-      "price": 26
+      "price": 23
     },
     {
       "abr": "patchleather",
       "category": "Leathers",
       "defname": "Leather_Patch",
-      "price": 3
+      "price": 2
     },
     {
       "abr": "shieldbelt",
       "category": "Utility",
       "defname": "Apparel_ShieldBelt",
-      "price": 692
+      "price": 650
     },
     {
       "abr": "cowboyhat",
       "category": "Headgear",
       "defname": "Apparel_CowboyHat",
-      "price": 100
+      "price": 94
     },
     {
       "abr": "bowlerhat",
       "category": "Headgear",
       "defname": "Apparel_BowlerHat",
-      "price": 100
+      "price": 77
     },
     {
       "abr": "tribalheaddress",
       "category": "Headgear",
       "defname": "Apparel_TribalHeaddress",
-      "price": -10
+      "price": 203
     },
     {
       "abr": "tuque",
       "category": "Headgear",
       "defname": "Apparel_Tuque",
-      "price": -10
+      "price": 74
     },
     {
       "abr": "warmask",
       "category": "Headgear",
       "defname": "Apparel_WarMask",
-      "price": -10
+      "price": 101
     },
     {
       "abr": "veil",
       "category": "Headgear",
       "defname": "Apparel_WarVeil",
-      "price": -10
+      "price": 75
     },
     {
       "abr": "simplehelmet",
       "category": "Headgear",
       "defname": "Apparel_SimpleHelmet",
-      "price": -10
+      "price": 153
     },
     {
       "abr": "flakhelmet",
       "category": "Headgear",
       "defname": "Apparel_AdvancedHelmet",
-      "price": 500
+      "price": 442
     },
     {
       "abr": "marinehelmet",
       "category": "Headgear",
       "defname": "Apparel_PowerArmorHelmet",
-      "price": 1500
+      "price": 1058
     },
     {
       "abr": "reconhelmet",
       "category": "Headgear",
       "defname": "Apparel_ArmorHelmetRecon",
-      "price": -10
+      "price": 875
     },
     {
       "abr": "psychicfoilhelmet",
       "category": "Headgear",
       "defname": "Apparel_PsychicFoilHelmet",
-      "price": 408
+      "price": 417
     },
     {
       "abr": "hood",
       "category": "Headgear",
       "defname": "Apparel_HatHood",
-      "price": -10
+      "price": 203
     },
     {
       "abr": "smokepoppack",
       "category": "Utility",
       "defname": "Apparel_SmokepopBelt",
-      "price": -10
+      "price": 277
     },
     {
       "abr": "psychicshocklance",
       "category": "Utility",
       "defname": "Apparel_PsychicShockLance",
-      "price": -10
+      "price": 917
     },
     {
       "abr": "psychicinsanitylance",
       "category": "Utility",
       "defname": "Apparel_PsychicInsanityLance",
-      "price": -10
+      "price": 1083
     },
     {
       "abr": "tribalwear",
@@ -1354,829 +1354,829 @@
       "abr": "platearmor",
       "category": "Armor",
       "defname": "Apparel_PlateArmor",
-      "price": 1000
+      "price": 792
     },
     {
       "abr": "flakvest",
       "category": "Armor",
       "defname": "Apparel_FlakVest",
-      "price": 500
+      "price": 375
     },
     {
       "abr": "flakpants",
       "category": "Armor",
       "defname": "Apparel_FlakPants",
-      "price": 500
+      "price": 375
     },
     {
       "abr": "flakjacket",
       "category": "Armor",
       "defname": "Apparel_FlakJacket",
-      "price": 500
+      "price": 483
     },
     {
       "abr": "marinearmor",
       "category": "Armor",
       "defname": "Apparel_PowerArmor",
-      "price": 3500
+      "price": 3392
     },
     {
       "abr": "reconarmor",
       "category": "Armor",
       "defname": "Apparel_ArmorRecon",
-      "price": -10
+      "price": 2567
     },
     {
       "abr": "sandstoneblocks",
       "category": "Stone blocks",
       "defname": "BlocksSandstone",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "graniteblocks",
       "category": "Stone blocks",
       "defname": "BlocksGranite",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "limestoneblocks",
       "category": "Stone blocks",
       "defname": "BlocksLimestone",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "slateblocks",
       "category": "Stone blocks",
       "defname": "BlocksSlate",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "marbleblocks",
       "category": "Stone blocks",
       "defname": "BlocksMarble",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "breachaxe",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_BreachAxe",
-      "price": -10
+      "price": 197
     },
     {
       "abr": "mace",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Mace",
-      "price": -10
+      "price": 203
     },
     {
       "abr": "gladius",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Gladius",
-      "price": -10
+      "price": 239
     },
     {
       "abr": "longsword",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_LongSword",
-      "price": -10
+      "price": 442
     },
     {
       "abr": "club",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Club",
-      "price": -10
+      "price": 141
     },
     {
       "abr": "knife",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Knife",
-      "price": -10
+      "price": 111
     },
     {
       "abr": "ikwa",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Ikwa",
-      "price": -10
+      "price": 197
     },
     {
       "abr": "spear",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Spear",
-      "price": -10
+      "price": 322
     },
     {
       "abr": "revolver",
       "category": "Ranged weapons",
       "defname": "Gun_Revolver",
-      "price": -10
+      "price": 226
     },
     {
       "abr": "autopistol",
       "category": "Ranged weapons",
       "defname": "Gun_Autopistol",
-      "price": 250
+      "price": 232
     },
     {
       "abr": "machinepistol",
       "category": "Ranged weapons",
       "defname": "Gun_MachinePistol",
-      "price": -10
+      "price": 367
     },
     {
       "abr": "incendiarylauncher",
       "category": "Ranged weapons",
       "defname": "Gun_IncendiaryLauncher",
-      "price": -10
+      "price": 567
     },
     {
       "abr": "smokelauncher",
       "category": "Ranged weapons",
       "defname": "Gun_SmokeLauncher",
-      "price": -10
+      "price": 633
     },
     {
       "abr": "emplauncher",
       "category": "Ranged weapons",
       "defname": "Gun_EmpLauncher",
-      "price": 1250
+      "price": 842
     },
     {
       "abr": "bolt-actionrifle",
       "category": "Ranged weapons",
       "defname": "Gun_BoltActionRifle",
-      "price": 500
+      "price": 425
     },
     {
       "abr": "pumpshotgun",
       "category": "Ranged weapons",
       "defname": "Gun_PumpShotgun",
-      "price": 500
+      "price": 425
     },
     {
       "abr": "chainshotgun",
       "category": "Ranged weapons",
       "defname": "Gun_ChainShotgun",
-      "price": 1000
+      "price": 675
     },
     {
       "abr": "heavysmg",
       "category": "Ranged weapons",
       "defname": "Gun_HeavySMG",
-      "price": 1000
+      "price": 592
     },
     {
       "abr": "lmg",
       "category": "Ranged weapons",
       "defname": "Gun_LMG",
-      "price": -10
+      "price": 708
     },
     {
       "abr": "assaultrifle",
       "category": "Ranged weapons",
       "defname": "Gun_AssaultRifle",
-      "price": 1000
+      "price": 800
     },
     {
       "abr": "sniperrifle",
       "category": "Ranged weapons",
       "defname": "Gun_SniperRifle",
-      "price": 1250
+      "price": 883
     },
     {
       "abr": "minigun",
       "category": "Ranged weapons",
       "defname": "Gun_Minigun",
-      "price": -10
+      "price": 1933
     },
     {
       "abr": "triplerocketlauncher",
       "category": "Ranged weapons",
       "defname": "Gun_TripleRocket",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "doomsdayrocketlauncher",
       "category": "Ranged weapons",
       "defname": "Gun_DoomsdayRocket",
-      "price": 3000
+      "price": 1667
     },
     {
       "abr": "fraggrenades",
       "category": "Grenades",
       "defname": "Weapon_GrenadeFrag",
-      "price": -10
+      "price": 442
     },
     {
       "abr": "molotovcocktails",
       "category": "Grenades",
       "defname": "Weapon_GrenadeMolotov",
-      "price": -10
+      "price": 408
     },
     {
       "abr": "empgrenades",
       "category": "Grenades",
       "defname": "Weapon_GrenadeEMP",
-      "price": -10
+      "price": 525
     },
     {
       "abr": "shortbow",
       "category": "Ranged weapons",
       "defname": "Bow_Short",
-      "price": -10
+      "price": 74
     },
     {
       "abr": "pila",
       "category": "Ranged weapons",
       "defname": "Pila",
-      "price": -10
+      "price": 182
     },
     {
       "abr": "recurvebow",
       "category": "Ranged weapons",
       "defname": "Bow_Recurve",
-      "price": -10
+      "price": 110
     },
     {
       "abr": "greatbow",
       "category": "Ranged weapons",
       "defname": "Bow_Great",
-      "price": -10
+      "price": 174
     },
     {
       "abr": "chargerifle",
       "category": "Ranged weapons",
       "defname": "Gun_ChargeRifle",
-      "price": 1750
+      "price": 1683
     },
     {
       "abr": "chargelance",
       "category": "Ranged weapons",
       "defname": "Gun_ChargeLance",
-      "price": 3000
+      "price": 2258
     },
     {
       "abr": "orbitalbombardmenttargeter",
       "category": "Utility",
       "defname": "OrbitalTargeterBombardment",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "orbitalpowerbeamtargeter",
       "category": "Utility",
       "defname": "OrbitalTargeterPowerBeam",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "tornadogenerator",
       "category": "Utility",
       "defname": "TornadoGenerator",
-      "price": -10
+      "price": 1333
     },
     {
       "abr": "grizzlybear",
       "category": "Animals",
       "defname": "Bear_Grizzly",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "polarbear",
       "category": "Animals",
       "defname": "Bear_Polar",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "ostrich",
       "category": "Animals",
       "defname": "Ostrich",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "emu",
       "category": "Animals",
       "defname": "Emu",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "cassowary",
       "category": "Animals",
       "defname": "Cassowary",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "cougar",
       "category": "Animals",
       "defname": "Cougar",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "panther",
       "category": "Animals",
       "defname": "Panther",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "lynx",
       "category": "Animals",
       "defname": "Lynx",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "cat",
       "category": "Animals",
       "defname": "Cat",
-      "price": -10
+      "price": 167
     },
     {
       "abr": "yorkshireterrier",
       "category": "Animals",
       "defname": "YorkshireTerrier",
-      "price": -10
+      "price": 167
     },
     {
       "abr": "guineapig",
       "category": "Animals",
       "defname": "GuineaPig",
-      "price": -10
+      "price": 250
     },
     {
       "abr": "labradorretriever",
       "category": "Animals",
       "defname": "LabradorRetriever",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "husky",
       "category": "Animals",
       "defname": "Husky",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "monkey",
       "category": "Animals",
       "defname": "Monkey",
-      "price": -10
+      "price": 167
     },
     {
       "abr": "chicken",
       "category": "Animals",
       "defname": "Chicken",
-      "price": -10
+      "price": 83
     },
     {
       "abr": "duck",
       "category": "Animals",
       "defname": "Duck",
-      "price": -10
+      "price": 100
     },
     {
       "abr": "turkey",
       "category": "Animals",
       "defname": "Turkey",
-      "price": -10
+      "price": 167
     },
     {
       "abr": "goose",
       "category": "Animals",
       "defname": "Goose",
-      "price": -10
+      "price": 150
     },
     {
       "abr": "cow",
       "category": "Animals",
       "defname": "Cow",
-      "price": -10
+      "price": 500
     },
     {
       "abr": "boomalope",
       "category": "Animals",
       "defname": "Boomalope",
-      "price": -10
+      "price": 583
     },
     {
       "abr": "muffalo",
       "category": "Animals",
       "defname": "Muffalo",
-      "price": -10
+      "price": 500
     },
     {
       "abr": "bison",
       "category": "Animals",
       "defname": "Bison",
-      "price": -10
+      "price": 583
     },
     {
       "abr": "dromedary",
       "category": "Animals",
       "defname": "Dromedary",
-      "price": -10
+      "price": 500
     },
     {
       "abr": "goat",
       "category": "Animals",
       "defname": "Goat",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "elk",
       "category": "Animals",
       "defname": "Elk",
-      "price": -10
+      "price": 500
     },
     {
       "abr": "yak",
       "category": "Animals",
       "defname": "Yak",
-      "price": -10
+      "price": 533
     },
     {
       "abr": "caribou",
       "category": "Animals",
       "defname": "Caribou",
-      "price": -10
+      "price": 500
     },
     {
       "abr": "horse",
       "category": "Animals",
       "defname": "Horse",
-      "price": -10
+      "price": 917
     },
     {
       "abr": "donkey",
       "category": "Animals",
       "defname": "Donkey",
-      "price": -10
+      "price": 533
     },
     {
       "abr": "elephant",
       "category": "Animals",
       "defname": "Elephant",
-      "price": -10
+      "price": 1000
     },
     {
       "abr": "rhinoceros",
       "category": "Animals",
       "defname": "Rhinoceros",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "hare",
       "category": "Animals",
       "defname": "Hare",
-      "price": -10
+      "price": 83
     },
     {
       "abr": "snowhare",
       "category": "Animals",
       "defname": "Snowhare",
-      "price": -10
+      "price": 83
     },
     {
       "abr": "megascarab",
       "category": "Animals",
       "defname": "Megascarab",
-      "price": -10
+      "price": 167
     },
     {
       "abr": "spelopede",
       "category": "Animals",
       "defname": "Spelopede",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "megaspider",
       "category": "Animals",
       "defname": "Megaspider",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "thrumbo",
       "category": "Animals",
       "defname": "Thrumbo",
-      "price": -10
+      "price": 6667
     },
     {
       "abr": "cobra",
       "category": "Animals",
       "defname": "Cobra",
-      "price": -10
+      "price": 250
     },
     {
       "abr": "tortoise",
       "category": "Animals",
       "defname": "Tortoise",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "alphabeaver",
       "category": "Animals",
       "defname": "Alphabeaver",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "pig",
       "category": "Animals",
       "defname": "Pig",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "wildboar",
       "category": "Animals",
       "defname": "WildBoar",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "ibex",
       "category": "Animals",
       "defname": "Ibex",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "deer",
       "category": "Animals",
       "defname": "Deer",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "gazelle",
       "category": "Animals",
       "defname": "Gazelle",
-      "price": -10
+      "price": 250
     },
     {
       "abr": "chinchilla",
       "category": "Animals",
       "defname": "Chinchilla",
-      "price": -10
+      "price": 250
     },
     {
       "abr": "sheep",
       "category": "Animals",
       "defname": "Sheep",
-      "price": -10
+      "price": 350
     },
     {
       "abr": "alpaca",
       "category": "Animals",
       "defname": "Alpaca",
-      "price": -10
+      "price": 583
     },
     {
       "abr": "megasloth",
       "category": "Animals",
       "defname": "Megasloth",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "capybara",
       "category": "Animals",
       "defname": "Capybara",
-      "price": -10
+      "price": 250
     },
     {
       "abr": "squirrel",
       "category": "Animals",
       "defname": "Squirrel",
-      "price": -10
+      "price": 58
     },
     {
       "abr": "rat",
       "category": "Animals",
       "defname": "Rat",
-      "price": -10
+      "price": 58
     },
     {
       "abr": "boomrat",
       "category": "Animals",
       "defname": "Boomrat",
-      "price": -10
+      "price": 167
     },
     {
       "abr": "raccoon",
       "category": "Animals",
       "defname": "Raccoon",
-      "price": -10
+      "price": 167
     },
     {
       "abr": "iguana",
       "category": "Animals",
       "defname": "Iguana",
-      "price": -10
+      "price": 167
     },
     {
       "abr": "warg",
       "category": "Animals",
       "defname": "Warg",
-      "price": -10
+      "price": 750
     },
     {
       "abr": "timberwolf",
       "category": "Animals",
       "defname": "Wolf_Timber",
-      "price": -10
+      "price": 583
     },
     {
       "abr": "arcticwolf",
       "category": "Animals",
       "defname": "Wolf_Arctic",
-      "price": -10
+      "price": 583
     },
     {
       "abr": "fennecfox",
       "category": "Animals",
       "defname": "Fox_Fennec",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "redfox",
       "category": "Animals",
       "defname": "Fox_Red",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "arcticfox",
       "category": "Animals",
       "defname": "Fox_Arctic",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "psychicsensitizer",
       "category": "Archotech",
       "defname": "PsychicSensitizer",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "psychicharmonizer",
       "category": "Archotech",
       "defname": "PsychicHarmonizer",
-      "price": -10
+      "price": 1333
     },
     {
       "abr": "psychicreader",
       "category": "Archotech",
       "defname": "PsychicReader",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "neurocalculator",
       "category": "Bionic",
       "defname": "Neurocalculator",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "learningassistant",
       "category": "Bionic",
       "defname": "LearningAssistant",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "gastro-analyzer",
       "category": "Bionic",
       "defname": "GastroAnalyzer",
-      "price": -10
+      "price": 1383
     },
     {
       "abr": "immunoenhancer",
       "category": "Bionic",
       "defname": "Immunoenhancer",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "coagulator",
       "category": "Bionic",
       "defname": "Coagulator",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "healingenhancer",
       "category": "Bionic",
       "defname": "HealingEnhancer",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "toughskingland",
       "category": "Bionic",
       "defname": "ToughskinGland",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "armorskingland",
       "category": "Bionic",
       "defname": "ArmorskinGland",
-      "price": -10
+      "price": 2458
     },
     {
       "abr": "stoneskingland",
       "category": "Bionic",
       "defname": "StoneskinGland",
-      "price": -10
+      "price": 3200
     },
     {
       "abr": "aestheticshaper",
       "category": "Bionic",
       "defname": "AestheticShaper",
-      "price": -10
+      "price": 1383
     },
     {
       "abr": "aestheticnose",
       "category": "Bionic",
       "defname": "AestheticNose",
-      "price": -10
+      "price": 975
     },
     {
       "abr": "loveenhancer",
       "category": "Bionic",
       "defname": "LoveEnhancer",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "detoxifierstomach",
       "category": "Bionic",
       "defname": "DetoxifierStomach",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "reprocessorstomach",
       "category": "Bionic",
       "defname": "ReprocessorStomach",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "nuclearstomach",
       "category": "Bionic",
       "defname": "NuclearStomach",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "circadianassistant",
       "category": "Bionic",
       "defname": "CircadianAssistant",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "circadianhalf-cycler",
       "category": "Bionic",
       "defname": "CircadianHalfCycler",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "mindscrew",
       "category": "Prosthetic",
       "defname": "Mindscrew",
-      "price": -10
+      "price": 350
     },
     {
       "abr": "drillarm",
       "category": "Prosthetic",
       "defname": "DrillArm",
-      "price": -10
+      "price": 708
     },
     {
       "abr": "fieldhand",
       "category": "Prosthetic",
       "defname": "FieldHand",
-      "price": -10
+      "price": 708
     },
     {
       "abr": "handtalon",
       "category": "Prosthetic",
       "defname": "HandTalon",
-      "price": -10
+      "price": 592
     },
     {
       "abr": "elbowblade",
       "category": "Prosthetic",
       "defname": "ElbowBlade",
-      "price": -10
+      "price": 592
     },
     {
       "abr": "kneespike",
       "category": "Prosthetic",
       "defname": "KneeSpike",
-      "price": -10
+      "price": 592
     },
     {
       "abr": "venomfangs",
       "category": "Prosthetic",
       "defname": "VenomFangs",
-      "price": -10
+      "price": 592
     },
     {
       "abr": "venomtalon",
       "category": "Prosthetic",
       "defname": "VenomTalon",
-      "price": -10
+      "price": 592
     },
     {
       "abr": "psylinkneuroformer",
       "category": "Archotech",
       "defname": "PsychicAmplifier",
-      "price": -10
+      "price": 4333
     },
     {
       "abr": "drape",
       "category": "Furniture",
       "defname": "Drape",
-      "price": 617
+      "price": 608
     },
     {
       "abr": "brazier",
@@ -2200,103 +2200,103 @@
       "abr": "grandmeditationthrone",
       "category": "Furniture",
       "defname": "GrandThrone",
-      "price": 2608
+      "price": 2492
     },
     {
       "abr": "unstablepowercell",
       "category": "Special",
       "defname": "UnstablePowerCell",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "mechnode",
       "category": "Special",
       "defname": "Gloomlight",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "shiplandingbeacon",
       "category": "Misc",
       "defname": "ShipLandingBeacon",
-      "price": -10
+      "price": 185
     },
     {
       "abr": "smallnatureshrine",
       "category": "Misc",
       "defname": "NatureShrine_Small",
-      "price": -10
+      "price": 592
     },
     {
       "abr": "largenatureshrine",
       "category": "Misc",
       "defname": "NatureShrine_Large",
-      "price": -10
+      "price": 1183
     },
     {
       "abr": "animusstone",
       "category": "Misc",
       "defname": "AnimusStone",
-      "price": -10
+      "price": 8333
     },
     {
       "abr": "harp",
       "category": "Recreation",
       "defname": "Harp",
-      "price": -10
+      "price": 408
     },
     {
       "abr": "harpsichord",
       "category": "Recreation",
       "defname": "Harpsichord",
-      "price": -10
+      "price": 692
     },
     {
       "abr": "piano",
       "category": "Recreation",
       "defname": "Piano",
-      "price": -10
+      "price": 1117
     },
     {
       "abr": "shieldcore",
       "category": "Items",
       "defname": "BroadshieldCore",
-      "price": -10
+      "price": 583
     },
     {
       "abr": "jumppack",
       "category": "Utility",
       "defname": "Apparel_PackJump",
-      "price": 1500
+      "price": 1075
     },
     {
       "abr": "low-shieldpack",
       "category": "Utility",
       "defname": "Apparel_PackBroadshield",
-      "price": -10
+      "price": 717
     },
     {
       "abr": "eltexhelmet",
       "category": "Headgear",
       "defname": "Apparel_PsyfocusHelmet",
-      "price": 1000
+      "price": 833
     },
     {
       "abr": "eltexskullcap",
       "category": "Headgear",
       "defname": "Apparel_EltexSkullcap",
-      "price": 1000
+      "price": 833
     },
     {
       "abr": "eltexshirt",
       "category": "Apparel",
       "defname": "Apparel_PsyfocusShirt",
-      "price": 750
+      "price": 667
     },
     {
       "abr": "eltexvest",
       "category": "Apparel",
       "defname": "Apparel_PsyfocusVest",
-      "price": 750
+      "price": 833
     },
     {
       "abr": "eltexrobe",
@@ -2332,31 +2332,31 @@
       "abr": "ladieshat",
       "category": "Headgear",
       "defname": "Apparel_HatLadies",
-      "price": -10
+      "price": 203
     },
     {
       "abr": "tophat",
       "category": "Headgear",
       "defname": "Apparel_HatTop",
-      "price": -10
+      "price": 203
     },
     {
       "abr": "coronet",
       "category": "Headgear",
       "defname": "Apparel_Coronet",
-      "price": -10
+      "price": 215
     },
     {
       "abr": "crown",
       "category": "Headgear",
       "defname": "Apparel_Crown",
-      "price": -10
+      "price": 322
     },
     {
       "abr": "stelliccrown",
       "category": "Headgear",
       "defname": "Apparel_CrownStellic",
-      "price": -10
+      "price": 283
     },
     {
       "abr": "cape",
@@ -2368,139 +2368,139 @@
       "abr": "beret",
       "category": "Headgear",
       "defname": "Apparel_Beret",
-      "price": -10
+      "price": 141
     },
     {
       "abr": "prestigereconarmor",
       "category": "Armor",
       "defname": "Apparel_ArmorReconPrestige",
-      "price": 3500
+      "price": 3292
     },
     {
       "abr": "prestigereconhelmet",
       "category": "Headgear",
       "defname": "Apparel_ArmorHelmetReconPrestige",
-      "price": 1500
+      "price": 1192
     },
     {
       "abr": "prestigemarinearmor",
       "category": "Armor",
       "defname": "Apparel_ArmorMarinePrestige",
-      "price": 4500
+      "price": 4217
     },
     {
       "abr": "prestigemarinehelmet",
       "category": "Headgear",
       "defname": "Apparel_ArmorMarineHelmetPrestige",
-      "price": 2000
+      "price": 1417
     },
     {
       "abr": "cataphractarmor",
       "category": "Armor",
       "defname": "Apparel_ArmorCataphract",
-      "price": 5800
+      "price": 5200
     },
     {
       "abr": "cataphracthelmet",
       "category": "Headgear",
       "defname": "Apparel_ArmorHelmetCataphract",
-      "price": 1250
+      "price": 1242
     },
     {
       "abr": "prestigecataphractarmor",
       "category": "Armor",
       "defname": "Apparel_ArmorCataphractPrestige",
-      "price": 6500
+      "price": 6550
     },
     {
       "abr": "prestigecataphracthelmet",
       "category": "Headgear",
       "defname": "Apparel_ArmorHelmetCataphractPrestige",
-      "price": 2500
+      "price": 1925
     },
     {
       "abr": "locustarmor",
       "category": "Armor",
       "defname": "Apparel_ArmorLocust",
-      "price": 4000
+      "price": 3717
     },
     {
       "abr": "grenadierarmor",
       "category": "Armor",
       "defname": "Apparel_ArmorMarineGrenadier",
-      "price": 4000
+      "price": 3842
     },
     {
       "abr": "phoenixarmor",
       "category": "Armor",
       "defname": "Apparel_ArmorCataphractPhoenix",
-      "price": 6000
+      "price": 5800
     },
     {
       "abr": "gunlink",
       "category": "Headgear",
       "defname": "Apparel_Gunlink",
-      "price": -10
+      "price": 575
     },
     {
       "abr": "personamonosword",
       "category": "Persona weapons",
       "defname": "MeleeWeapon_MonoSwordBladelink",
-      "price": 6000
+      "price": 5000
     },
     {
       "abr": "personazeushammer",
       "category": "Persona weapons",
       "defname": "MeleeWeapon_ZeusHammerBladelink",
-      "price": 6000
+      "price": 5000
     },
     {
       "abr": "personaplasmasword",
       "category": "Persona weapons",
       "defname": "MeleeWeapon_PlasmaSwordBladelink",
-      "price": 6000
+      "price": 5000
     },
     {
       "abr": "axe",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Axe",
-      "price": -10
+      "price": 209
     },
     {
       "abr": "warhammer",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Warhammer",
-      "price": -10
+      "price": 608
     },
     {
       "abr": "monosword",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_MonoSword",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "zeushammer",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Zeushammer",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "plasmasword",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_PlasmaSword",
-      "price": 3500
+      "price": 3333
     },
     {
       "abr": "orbitalmechclustertargeter",
       "category": "Utility",
       "defname": "OrbitalTargeterMechCluster",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "eltexstaff",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_PsyfocusStaff",
-      "price": 3500
+      "price": 3333
     },
     {
       "abr": "terrorsculpture",
@@ -2512,103 +2512,103 @@
       "abr": "standingdarklamp",
       "category": "Furniture",
       "defname": "Darklamp",
-      "price": 59
+      "price": 65
     },
     {
       "abr": "sleepaccelerator",
       "category": "Misc",
       "defname": "SleepAccelerator",
-      "price": -10
+      "price": 458
     },
     {
       "abr": "biosculpterpod",
       "category": "Misc",
       "defname": "BiosculpterPod",
-      "price": -10
+      "price": 758
     },
     {
       "abr": "neuralsupercharger",
       "category": "Misc",
       "defname": "NeuralSupercharger",
-      "price": -10
+      "price": 408
     },
     {
       "abr": "christmastree",
       "category": "Misc",
       "defname": "ChristmasTree",
-      "price": -10
+      "price": 263
     },
     {
       "abr": "cannibalplatter",
       "category": "Misc",
       "defname": "CannibalPlatter",
-      "price": -10
+      "price": 220
     },
     {
       "abr": "effigy",
       "category": "Misc",
       "defname": "Effigy",
-      "price": -10
+      "price": 178
     },
     {
       "abr": "sacrificialflag",
       "category": "Misc",
       "defname": "SacrificialFlag",
-      "price": -10
+      "price": 198
     },
     {
       "abr": "pyre",
       "category": "Misc",
       "defname": "Pyre",
-      "price": -10
+      "price": 230
     },
     {
       "abr": "burnbong",
       "category": "Misc",
       "defname": "Burnbong",
-      "price": -10
+      "price": 517
     },
     {
       "abr": "incenseshrine",
       "category": "Misc",
       "defname": "IncenseShrine",
-      "price": -10
+      "price": 272
     },
     {
       "abr": "lectern",
       "category": "Misc",
       "defname": "Lectern",
-      "price": -10
+      "price": 227
     },
     {
       "abr": "stylingstation",
       "category": "Furniture",
       "defname": "StylingStation",
-      "price": 367
+      "price": 375
     },
     {
       "abr": "gibbetcage",
       "category": "Misc",
       "defname": "GibbetCage",
-      "price": -10
+      "price": 210
     },
     {
       "abr": "lightball",
       "category": "Misc",
       "defname": "LightBall",
-      "price": -10
+      "price": 154
     },
     {
       "abr": "loudspeaker",
       "category": "Misc",
       "defname": "Loudspeaker",
-      "price": -10
+      "price": 367
     },
     {
       "abr": "drum",
       "category": "Recreation",
       "defname": "Drum",
-      "price": -10
+      "price": 205
     },
     {
       "abr": "pew",
@@ -2644,67 +2644,67 @@
       "abr": "slabdoublebed",
       "category": "Furniture",
       "defname": "SlabDoubleBed",
-      "price": -10
+      "price": 288
     },
     {
       "abr": "skullspike",
       "category": "Misc",
       "defname": "Skullspike",
-      "price": -10
+      "price": 101
     },
     {
       "abr": "headwrap",
       "category": "Headgear",
       "defname": "Apparel_Headwrap",
-      "price": -10
+      "price": 75
     },
     {
       "abr": "broadwrap",
       "category": "Headgear",
       "defname": "Apparel_Broadwrap",
-      "price": -10
+      "price": 111
     },
     {
       "abr": "visagemask",
       "category": "Headgear",
       "defname": "Apparel_VisageMask",
-      "price": -10
+      "price": 62
     },
     {
       "abr": "slicecap",
       "category": "Headgear",
       "defname": "Apparel_Slicecap",
-      "price": -10
+      "price": 62
     },
     {
       "abr": "slavecollar",
       "category": "Headgear",
       "defname": "Apparel_Collar",
-      "price": -10
+      "price": 94
     },
     {
       "abr": "authoritycap",
       "category": "Headgear",
       "defname": "Apparel_AuthorityCap",
-      "price": -10
+      "price": 92
     },
     {
       "abr": "tailcap",
       "category": "Headgear",
       "defname": "Apparel_Tailcap",
-      "price": -10
+      "price": 75
     },
     {
       "abr": "shadecone",
       "category": "Headgear",
       "defname": "Apparel_Shadecone",
-      "price": -10
+      "price": 94
     },
     {
       "abr": "flophat",
       "category": "Headgear",
       "defname": "Apparel_Flophat",
-      "price": -10
+      "price": 74
     },
     {
       "abr": "slavebodystrap",
@@ -2728,61 +2728,61 @@
       "abr": "torturecrown",
       "category": "Headgear",
       "defname": "Apparel_TortureCrown",
-      "price": -10
+      "price": 91
     },
     {
       "abr": "blindfold",
       "category": "Headgear",
       "defname": "Apparel_Blindfold",
-      "price": -10
+      "price": 74
     },
     {
       "abr": "morbidslab(medium)",
       "category": "Furniture",
       "defname": "MorbidSlab_Medium",
-      "price": -10
+      "price": 342
     },
     {
       "abr": "morbidslab(broad)",
       "category": "Furniture",
       "defname": "MorbidSlab_Broad",
-      "price": -10
+      "price": 508
     },
     {
       "abr": "totemicslab(medium)",
       "category": "Furniture",
       "defname": "TotemicSlab_Medium",
-      "price": -10
+      "price": 342
     },
     {
       "abr": "totemicslab(broad)",
       "category": "Furniture",
       "defname": "TotemicSlab_Broad",
-      "price": -10
+      "price": 508
     },
     {
       "abr": "spikecorefloor-star(medium)",
       "category": "Furniture",
       "defname": "SpikecoreFloorStar_Medium",
-      "price": -10
+      "price": 323
     },
     {
       "abr": "spikecorefloor-star(broad)",
       "category": "Furniture",
       "defname": "SpikecoreFloorStar_Broad",
-      "price": -10
+      "price": 483
     },
     {
       "abr": "rusticrug(medium)",
       "category": "Furniture",
       "defname": "RusticRug_Medium",
-      "price": -10
+      "price": 256
     },
     {
       "abr": "rusticrug(broad)",
       "category": "Furniture",
       "defname": "RusticRug_Broad",
-      "price": -10
+      "price": 383
     },
     {
       "abr": "animalistslab(medium)",
@@ -2800,307 +2800,307 @@
       "abr": "skull",
       "category": "Items",
       "defname": "Skull",
-      "price": -10
+      "price": 8
     },
     {
       "abr": "chalice",
       "category": "Inert relics",
       "defname": "RelicInertCup",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "pendant",
       "category": "Inert relics",
       "defname": "RelicInertPendant",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "box",
       "category": "Inert relics",
       "defname": "RelicInertBox",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "tablet",
       "category": "Inert relics",
       "defname": "RelicInertTablet",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "fragment",
       "category": "Inert relics",
       "defname": "RelicInertFragment",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "hilt",
       "category": "Inert relics",
       "defname": "RelicInertSwordHandle",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "ark",
       "category": "Inert relics",
       "defname": "RelicInertArk",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "cube",
       "category": "Inert relics",
       "defname": "RelicInertCube",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "gauranlenseed",
       "category": "Items",
       "defname": "GauranlenSeed",
-      "price": -10
+      "price": 117
     },
     {
       "abr": "stonegolem",
       "category": "Animal",
       "defname": "TM_StoneGolem",
-      "price": -10
+      "price": 2500
     },
     {
       "abr": "sandstonegolem",
       "category": "Animal",
       "defname": "TM_SandstoneGolem",
-      "price": -10
+      "price": 2500
     },
     {
       "abr": "limestonegolem",
       "category": "Animal",
       "defname": "TM_LimestoneGolem",
-      "price": -10
+      "price": 2500
     },
     {
       "abr": "granitegolem",
       "category": "Animal",
       "defname": "TM_GraniteGolem",
-      "price": -10
+      "price": 2500
     },
     {
       "abr": "slategolem",
       "category": "Animal",
       "defname": "TM_SlateGolem",
-      "price": -10
+      "price": 2500
     },
     {
       "abr": "marblegolem",
       "category": "Animal",
       "defname": "TM_MarbleGolem",
-      "price": -10
+      "price": 2500
     },
     {
       "abr": "mecha-golem",
       "category": "Animal",
       "defname": "TM_MechaGolem",
-      "price": -10
+      "price": 5000
     },
     {
       "abr": "fleshgolem",
       "category": "Animal",
       "defname": "TM_FleshGolem",
-      "price": -10
+      "price": 4500
     },
     {
       "abr": "hollowgolem",
       "category": "Animal",
       "defname": "TM_HollowGolem",
-      "price": -10
+      "price": 9167
     },
     {
       "abr": "maharalgolem",
       "category": "Animal",
       "defname": "TM_MaharalGolem",
-      "price": -10
+      "price": 3000
     },
     {
       "abr": "direwolf",
       "category": "Animals",
       "defname": "TM_Dire_WolfR",
-      "price": -10
+      "price": 3667
     },
     {
       "abr": "scrollofspiritbinding",
       "category": "Magic artifacts",
       "defname": "MagicArtifact_RerollSpiritBond",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "shardofspiritextraction",
       "category": "Magic artifacts",
       "defname": "TM_Artifact_ClassExtraction",
-      "price": 975
+      "price": 1167
     },
     {
       "abr": "essenceofmight",
       "category": "Magic artifacts",
       "defname": "TM_MagicArtifact_MightEssence",
-      "price": 1000
+      "price": 833
     },
     {
       "abr": "essenceofmagic",
       "category": "Magic artifacts",
       "defname": "TM_MagicArtifact_MagicEssence",
-      "price": 1000
+      "price": 833
     },
     {
       "abr": "seedofregrowth",
       "category": "Magic Items",
       "defname": "SeedofRegrowth",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "minorarcanegemofholding",
       "category": "Refined magicyte",
       "defname": "TM_EStone_maxMP_minor",
-      "price": -10
+      "price": 283
     },
     {
       "abr": "arcanegemofholding",
       "category": "Refined magicyte",
       "defname": "TM_EStone_maxMP",
-      "price": -10
+      "price": 650
     },
     {
       "abr": "majorarcanegemofholding",
       "category": "Refined magicyte",
       "defname": "TM_EStone_maxMP_major",
-      "price": 1750
+      "price": 1592
     },
     {
       "abr": "minorarcanegemofregeneration",
       "category": "Refined magicyte",
       "defname": "TM_EStone_mpRegenRate_minor",
-      "price": -10
+      "price": 283
     },
     {
       "abr": "arcanegemofregeneration",
       "category": "Refined magicyte",
       "defname": "TM_EStone_mpRegenRate",
-      "price": -10
+      "price": 650
     },
     {
       "abr": "majorarcanegemofregeneration",
       "category": "Refined magicyte",
       "defname": "TM_EStone_mpRegenRate_major",
-      "price": 1750
+      "price": 1592
     },
     {
       "abr": "minorarcanegemofconservation",
       "category": "Refined magicyte",
       "defname": "TM_EStone_mpCost_minor",
-      "price": -10
+      "price": 283
     },
     {
       "abr": "arcanegemofconservation",
       "category": "Refined magicyte",
       "defname": "TM_EStone_mpCost",
-      "price": -10
+      "price": 650
     },
     {
       "abr": "majorarcanegemofconservation",
       "category": "Refined magicyte",
       "defname": "TM_EStone_mpCost_major",
-      "price": 1750
+      "price": 1592
     },
     {
       "abr": "minorarcanegemofacceleration",
       "category": "Refined magicyte",
       "defname": "TM_EStone_coolDown_minor",
-      "price": -10
+      "price": 283
     },
     {
       "abr": "arcanegemofacceleration",
       "category": "Refined magicyte",
       "defname": "TM_EStone_coolDown",
-      "price": -10
+      "price": 650
     },
     {
       "abr": "majorarcanegemofacceleration",
       "category": "Refined magicyte",
       "defname": "TM_EStone_coolDown_major",
-      "price": 1750
+      "price": 1592
     },
     {
       "abr": "minorarcanegemoflearning",
       "category": "Refined magicyte",
       "defname": "TM_EStone_xpGain_minor",
-      "price": -10
+      "price": 283
     },
     {
       "abr": "arcanegemoflearning",
       "category": "Refined magicyte",
       "defname": "TM_EStone_xpGain",
-      "price": -10
+      "price": 650
     },
     {
       "abr": "majorarcanegemoflearning",
       "category": "Refined magicyte",
       "defname": "TM_EStone_xpGain_major",
-      "price": 1750
+      "price": 1592
     },
     {
       "abr": "minorarcanegemofresistance",
       "category": "Refined magicyte",
       "defname": "TM_EStone_arcaneRes_minor",
-      "price": -10
+      "price": 283
     },
     {
       "abr": "arcanegemofresistance",
       "category": "Refined magicyte",
       "defname": "TM_EStone_arcaneRes",
-      "price": -10
+      "price": 650
     },
     {
       "abr": "majorarcanegemofresistance",
       "category": "Refined magicyte",
       "defname": "TM_EStone_arcaneRes_major",
-      "price": 1750
+      "price": 1592
     },
     {
       "abr": "minorarcanegemofforce",
       "category": "Refined magicyte",
       "defname": "TM_EStone_arcaneDmg_minor",
-      "price": -10
+      "price": 283
     },
     {
       "abr": "arcanegemofforce",
       "category": "Refined magicyte",
       "defname": "TM_EStone_arcaneDmg",
-      "price": -10
+      "price": 650
     },
     {
       "abr": "majorarcanegemofforce",
       "category": "Refined magicyte",
       "defname": "TM_EStone_arcaneDmg_major",
-      "price": 1750
+      "price": 1592
     },
     {
       "abr": "minorarcanegemofwonder",
       "category": "Refined magicyte",
       "defname": "TM_EStone_wonder_minor",
-      "price": -10
+      "price": 1983
     },
     {
       "abr": "arcanegemofwonder",
       "category": "Refined magicyte",
       "defname": "TM_EStone_wonder",
-      "price": -10
+      "price": 4417
     },
     {
       "abr": "majorarcanegemofwonder",
       "category": "Refined magicyte",
       "defname": "TM_EStone_wonder_major",
-      "price": 1750
+      "price": 10917
     },
     {
       "abr": "unrefinedmagicyte",
       "category": "Refined magicyte",
       "defname": "RawMagicyte",
-      "price": -10
+      "price": 8
     },
     {
       "abr": "manaweave",
@@ -3112,385 +3112,385 @@
       "abr": "arcalleum",
       "category": "Raw resources",
       "defname": "TM_Arcalleum",
-      "price": 28
+      "price": 22
     },
     {
       "abr": "demonhide",
       "category": "Leathers",
       "defname": "TM_Demonhide",
-      "price": 29
+      "price": 27
     },
     {
       "abr": "demonscale",
       "category": "Raw resources",
       "defname": "TM_Demonscale",
-      "price": 35
+      "price": 30
     },
     {
       "abr": "arcanescript:???",
       "category": "Skill books",
       "defname": "BookOfQuestion",
-      "price": -10
+      "price": 2500
     },
     {
       "abr": "tornscript:fire",
       "category": "Skill books",
       "defname": "Torn_BookOfInnerFire",
-      "price": 3000
+      "price": 2917
     },
     {
       "abr": "tornscript:ice",
       "category": "Skill books",
       "defname": "Torn_BookOfHeartOfFrost",
-      "price": 3000
+      "price": 2917
     },
     {
       "abr": "tornscript:lightning",
       "category": "Skill books",
       "defname": "Torn_BookOfStormBorn",
-      "price": 3000
+      "price": 2917
     },
     {
       "abr": "tornscript:power",
       "category": "Skill books",
       "defname": "Torn_BookOfArcanist",
-      "price": 3000
+      "price": 2917
     },
     {
       "abr": "tornscript:paladin",
       "category": "Skill books",
       "defname": "Torn_BookOfValiant",
-      "price": 3000
+      "price": 2917
     },
     {
       "abr": "tornscript:summoning",
       "category": "Skill books",
       "defname": "Torn_BookOfSummoner",
-      "price": 3000
+      "price": 2917
     },
     {
       "abr": "tornscript:nature",
       "category": "Skill books",
       "defname": "Torn_BookOfNature",
-      "price": 3000
+      "price": 2917
     },
     {
       "abr": "tornscript:necromancy",
       "category": "Skill books",
       "defname": "Torn_BookOfUndead",
-      "price": 3000
+      "price": 2917
     },
     {
       "abr": "tornscript:priest",
       "category": "Skill books",
       "defname": "Torn_BookOfPriest",
-      "price": 3000
+      "price": 2917
     },
     {
       "abr": "tornscript:bard",
       "category": "Skill books",
       "defname": "Torn_BookOfBard",
-      "price": 3000
+      "price": 2917
     },
     {
       "abr": "tornscript:demonology",
       "category": "Skill books",
       "defname": "Torn_BookOfDemons",
-      "price": 3000
+      "price": 2917
     },
     {
       "abr": "tornscript:geomancy",
       "category": "Skill books",
       "defname": "Torn_BookOfEarth",
-      "price": 3000
+      "price": 2917
     },
     {
       "abr": "tornscript:technomancy",
       "category": "Skill books",
       "defname": "Torn_BookOfMagitech",
-      "price": 3000
+      "price": 2917
     },
     {
       "abr": "tornscript:hemomancy",
       "category": "Skill books",
       "defname": "Torn_BookOfHemomancy",
-      "price": 3000
+      "price": 2917
     },
     {
       "abr": "tornscript:enchanter",
       "category": "Skill books",
       "defname": "Torn_BookOfEnchanter",
-      "price": 3000
+      "price": 2917
     },
     {
       "abr": "tornscript:chronomancy",
       "category": "Skill books",
       "defname": "Torn_BookOfChronomancer",
-      "price": 3000
+      "price": 2917
     },
     {
       "abr": "tornscript:chaos",
       "category": "Skill books",
       "defname": "Torn_BookOfChaos",
-      "price": 3000
+      "price": 2917
     },
     {
       "abr": "tornscript:brightmage",
       "category": "Skill books",
       "defname": "Torn_BookOfTheSun",
-      "price": 3000
+      "price": 2917
     },
     {
       "abr": "tornscript:shaman",
       "category": "Skill books",
       "defname": "Torn_BookOfShamanism",
-      "price": 3000
+      "price": 2917
     },
     {
       "abr": "tornscript:golemancer",
       "category": "Skill books",
       "defname": "Torn_BookOfGolemancy",
-      "price": 3000
+      "price": 2917
     },
     {
       "abr": "arcanetome:fire",
       "category": "Skill books",
       "defname": "BookOfInnerFire",
-      "price": 6000
+      "price": 5500
     },
     {
       "abr": "arcanetome:ice",
       "category": "Skill books",
       "defname": "BookOfHeartOfFrost",
-      "price": 6000
+      "price": 5500
     },
     {
       "abr": "arcanetome:lightning",
       "category": "Skill books",
       "defname": "BookOfStormBorn",
-      "price": 6000
+      "price": 5500
     },
     {
       "abr": "arcanetome:power",
       "category": "Skill books",
       "defname": "BookOfArcanist",
-      "price": 6000
+      "price": 5500
     },
     {
       "abr": "divinetome:paladin",
       "category": "Skill books",
       "defname": "BookOfValiant",
-      "price": -10
+      "price": 5500
     },
     {
       "abr": "arcanetome:summoning",
       "category": "Skill books",
       "defname": "BookOfSummoner",
-      "price": 6000
+      "price": 5500
     },
     {
       "abr": "arcanetome:nature",
       "category": "Skill books",
       "defname": "BookOfDruid",
-      "price": 6000
+      "price": 5500
     },
     {
       "abr": "arcanetome:necromancer",
       "category": "Skill books",
       "defname": "BookOfNecromancer",
-      "price": 6000
+      "price": 5500
     },
     {
       "abr": "arcanetome:priest",
       "category": "Skill books",
       "defname": "BookOfPriest",
-      "price": 6000
+      "price": 5500
     },
     {
       "abr": "arcanetome:bard",
       "category": "Skill books",
       "defname": "BookOfBard",
-      "price": 6000
+      "price": 5500
     },
     {
       "abr": "arcanetome:demonology",
       "category": "Skill books",
       "defname": "BookOfDemons",
-      "price": 6000
+      "price": 5500
     },
     {
       "abr": "arcanetome:earth",
       "category": "Skill books",
       "defname": "BookOfEarth",
-      "price": 6000
+      "price": 5500
     },
     {
       "abr": "arcanetome:technomancy",
       "category": "Skill books",
       "defname": "BookOfMagitech",
-      "price": 6000
+      "price": 5500
     },
     {
       "abr": "arcanetome:hemomancy",
       "category": "Skill books",
       "defname": "BookOfHemomancy",
-      "price": 6000
+      "price": 5500
     },
     {
       "abr": "arcanetome:enchanter",
       "category": "Skill books",
       "defname": "BookOfEnchanter",
-      "price": 6000
+      "price": 5500
     },
     {
       "abr": "arcanetome:chronomancer",
       "category": "Skill books",
       "defname": "BookOfChronomancer",
-      "price": 6000
+      "price": 5500
     },
     {
       "abr": "arcanetome:chaosmage",
       "category": "Skill books",
       "defname": "BookOfChaos",
-      "price": 6000
+      "price": 5500
     },
     {
       "abr": "arcanetome:brightmage",
       "category": "Skill books",
       "defname": "BookOfTheSun",
-      "price": 6000
+      "price": 5500
     },
     {
       "abr": "arcanetome:shaman",
       "category": "Skill books",
       "defname": "BookOfShamanism",
-      "price": 6000
+      "price": 5500
     },
     {
       "abr": "arcanetome:golemancer",
       "category": "Skill books",
       "defname": "BookOfGolemancy",
-      "price": 6000
+      "price": 5500
     },
     {
       "abr": "combatform:gladiator",
       "category": "Skill books",
       "defname": "BookOfGladiator",
-      "price": 6000
+      "price": 4292
     },
     {
       "abr": "combatpower:psionic",
       "category": "Skill books",
       "defname": "BookOfPsionic",
-      "price": 6000
+      "price": 4750
     },
     {
       "abr": "combatform:faceless",
       "category": "Skill books",
       "defname": "BookOfFaceless",
-      "price": 6000
+      "price": 4292
     },
     {
       "abr": "combatstyle:sniper",
       "category": "Skill books",
       "defname": "BookOfSniper",
-      "price": 6000
+      "price": 4292
     },
     {
       "abr": "combatstyle:bladedancer",
       "category": "Skill books",
       "defname": "BookOfBladedancer",
-      "price": 6000
+      "price": 4292
     },
     {
       "abr": "combatstyle:ranger",
       "category": "Skill books",
       "defname": "BookOfRanger",
-      "price": 6000
+      "price": 4292
     },
     {
       "abr": "combatstyle:deathknight",
       "category": "Skill books",
       "defname": "BookOfDeathKnight",
-      "price": 6000
+      "price": 4292
     },
     {
       "abr": "combatstyle:monk",
       "category": "Skill books",
       "defname": "BookOfMonk",
-      "price": 6000
+      "price": 4292
     },
     {
       "abr": "combatstyle:commander",
       "category": "Skill books",
       "defname": "BookOfCommander",
-      "price": 6000
+      "price": 4292
     },
     {
       "abr": "serum:supersoldier",
       "category": "Skill books",
       "defname": "BookOfSuperSoldier",
-      "price": -10
+      "price": 5500
     },
     {
       "abr": "arcanetome:shadow",
       "category": "Skill books",
       "defname": "BookOfShadow",
-      "price": 6000
+      "price": 5500
     },
     {
       "abr": "combatstyle:apothecary",
       "category": "Skill books",
       "defname": "BookOfApothecary",
-      "price": 6000
+      "price": 4292
     },
     {
       "abr": "magespell:arcanebolt",
       "category": "Scrolls",
       "defname": "SpellOf_ArcaneBolt",
-      "price": 1000
+      "price": 950
     },
     {
       "abr": "magespell:blink",
       "category": "Scrolls",
       "defname": "SpellOf_Blink",
-      "price": 750
+      "price": 833
     },
     {
       "abr": "magespell:blur",
       "category": "Scrolls",
       "defname": "SpellOf_Blur",
-      "price": 750
+      "price": 967
     },
     {
       "abr": "magespell:magiccooler",
       "category": "Scrolls",
       "defname": "SpellOf_Cooler",
-      "price": 750
+      "price": 633
     },
     {
       "abr": "magespell:dirtdevil",
       "category": "Scrolls",
       "defname": "SpellOf_DirtDevil",
-      "price": 1000
+      "price": 967
     },
     {
       "abr": "magespell:emp",
       "category": "Scrolls",
       "defname": "SpellOf_EMP",
-      "price": 1000
+      "price": 967
     },
     {
       "abr": "magespell:extinguish",
       "category": "Scrolls",
       "defname": "SpellOf_Extinguish",
-      "price": 600
+      "price": 567
     },
     {
       "abr": "magespell:heal",
       "category": "Scrolls",
       "defname": "SpellOf_Heal",
-      "price": 1000
+      "price": 767
     },
     {
       "abr": "firespell:heatshield",
@@ -3502,121 +3502,121 @@
       "abr": "magespell:magicheater",
       "category": "Scrolls",
       "defname": "SpellOf_Heater",
-      "price": 750
+      "price": 633
     },
     {
       "abr": "magespell:ignite",
       "category": "Scrolls",
       "defname": "SpellOf_Ignite",
-      "price": 1000
+      "price": 950
     },
     {
       "abr": "magespell:magelight",
       "category": "Scrolls",
       "defname": "SpellOf_MageLight",
-      "price": 750
+      "price": 633
     },
     {
       "abr": "magespell:powernode",
       "category": "Scrolls",
       "defname": "SpellOf_PowerNode",
-      "price": 1250
+      "price": 1017
     },
     {
       "abr": "magespell:rain",
       "category": "Scrolls",
       "defname": "SpellOf_Rain",
-      "price": 500
+      "price": 433
     },
     {
       "abr": "magespell:snapfreeze",
       "category": "Scrolls",
       "defname": "SpellOf_SnapFreeze",
-      "price": 1000
+      "price": 950
     },
     {
       "abr": "magespell:smokecloud",
       "category": "Scrolls",
       "defname": "SpellOf_SmokeCloud",
-      "price": 750
+      "price": 700
     },
     {
       "abr": "magespell:sunlight",
       "category": "Scrolls",
       "defname": "SpellOf_Sunlight",
-      "price": 1250
+      "price": 1117
     },
     {
       "abr": "golemancerspell:siphonbrand",
       "category": "Scrolls",
       "defname": "SpellOf_BrandSiphon",
-      "price": 1500
+      "price": 1567
     },
     {
       "abr": "golemancerspell:fitnessbrand",
       "category": "Scrolls",
       "defname": "SpellOf_BrandFitness",
-      "price": 1500
+      "price": 1333
     },
     {
       "abr": "golemancerspell:emotionbrand",
       "category": "Scrolls",
       "defname": "SpellOf_BrandEmotion",
-      "price": 1500
+      "price": 1567
     },
     {
       "abr": "golemancerspell:vitalitybrand",
       "category": "Scrolls",
       "defname": "SpellOf_BrandVitality",
-      "price": 1500
+      "price": 1333
     },
     {
       "abr": "golemancerspell:protectionbrand",
       "category": "Scrolls",
       "defname": "SpellOf_BrandProtection",
-      "price": 1500
+      "price": 1567
     },
     {
       "abr": "golemancerspell:awarenessbrand",
       "category": "Scrolls",
       "defname": "SpellOf_BrandAwareness",
-      "price": 1500
+      "price": 1333
     },
     {
       "abr": "lightningspell:chargebattery",
       "category": "Scrolls",
       "defname": "SpellOf_ChargeBattery",
-      "price": 1000
+      "price": 833
     },
     {
       "abr": "firespell:cauterizewound",
       "category": "Scrolls",
       "defname": "SpellOf_CauterizeWound",
-      "price": 750
+      "price": 533
     },
     {
       "abr": "bardspell:discord",
       "category": "Scrolls",
       "defname": "SpellOf_Discord",
-      "price": 1250
+      "price": 1267
     },
     {
       "abr": "firespell:dryground",
       "category": "Scrolls",
       "defname": "SpellOf_DryGround",
-      "price": 800
+      "price": 900
     },
     {
       "abr": "icespell:moisturizeground",
       "category": "Scrolls",
       "defname": "SpellOf_WetGround",
-      "price": 1000
+      "price": 900
     },
     {
       "abr": "magespell:magicwardrobe",
       "category": "Scrolls",
       "defname": "SpellOf_MagicWardrobe",
-      "price": 2500
+      "price": 2333
     },
     {
       "abr": "magespell:invisibility",
@@ -3628,31 +3628,31 @@
       "abr": "magespell:lightningtrap",
       "category": "Scrolls",
       "defname": "SpellOf_LightningTrap",
-      "price": 1500
+      "price": 2000
     },
     {
       "abr": "magespell:manashield",
       "category": "Scrolls",
       "defname": "SpellOf_ManaShield",
-      "price": 2000
+      "price": 1600
     },
     {
       "abr": "holycasterspell:shieldother",
       "category": "Scrolls",
       "defname": "SpellOf_ShieldOther",
-      "price": 1500
+      "price": 1267
     },
     {
       "abr": "magespell:spellmending",
       "category": "Scrolls",
       "defname": "SpellOf_SpellMending",
-      "price": 1750
+      "price": 1792
     },
     {
       "abr": "magespell:siphonmana",
       "category": "Scrolls",
       "defname": "SpellOf_SiphonMana",
-      "price": 1250
+      "price": 1267
     },
     {
       "abr": "magespell:summonminion",
@@ -3664,139 +3664,139 @@
       "abr": "magespell:teleport",
       "category": "Scrolls",
       "defname": "SpellOf_Teleport",
-      "price": 2250
+      "price": 2200
     },
     {
       "abr": "magespell:transfermana",
       "category": "Scrolls",
       "defname": "SpellOf_TransferMana",
-      "price": 1250
+      "price": 1267
     },
     {
       "abr": "empathability:fadeemotions",
       "category": "Scrolls",
       "defname": "SpellOf_FadeEmotions",
-      "price": 1350
+      "price": 1267
     },
     {
       "abr": "enchanterspell:blankmind",
       "category": "Scrolls",
       "defname": "SpellOf_BlankMind",
-      "price": 1350
+      "price": 1367
     },
     {
       "abr": "druidspell:briarpatch",
       "category": "Scrolls",
       "defname": "SpellOf_BriarPatch",
-      "price": 1000
+      "price": 950
     },
     {
       "abr": "druidspell:fertilelands",
       "category": "Scrolls",
       "defname": "SpellOf_FertileLands",
-      "price": 1250
+      "price": 1233
     },
     {
       "abr": "icespell:alterstorm",
       "category": "Scrolls",
       "defname": "SpellOf_AlterStorm",
-      "price": 1500
+      "price": 1417
     },
     {
       "abr": "technomancerspell:mechanitereprogramming",
       "category": "Scrolls",
       "defname": "SpellOf_MechaniteReprogramming",
-      "price": 1500
+      "price": 1417
     },
     {
       "abr": "technomancerspell:overdrive",
       "category": "Scrolls",
       "defname": "SpellOf_Overdrive",
-      "price": 750
+      "price": 800
     },
     {
       "abr": "technomancerspell:sabotage",
       "category": "Scrolls",
       "defname": "SpellOf_Sabotage",
-      "price": 600
+      "price": 667
     },
     {
       "abr": "technomancerspell:kineticshield",
       "category": "Scrolls",
       "defname": "SpellOf_TechnoShield",
-      "price": 1000
+      "price": 833
     },
     {
       "abr": "bardspell:battlehymn",
       "category": "Scrolls",
       "defname": "SpellOf_BattleHymn",
-      "price": 3000
+      "price": 2750
     },
     {
       "abr": "icespell:blizzard",
       "category": "Scrolls",
       "defname": "SpellOf_Blizzard",
-      "price": 3750
+      "price": 3583
     },
     {
       "abr": "bloodmagespell:bloodmoon",
       "category": "Scrolls",
       "defname": "SpellOf_BloodMoon",
-      "price": 4000
+      "price": 3750
     },
     {
       "abr": "lightningspell:eyeofthestorm",
       "category": "Scrolls",
       "defname": "SpellOf_EyeOfTheStorm",
-      "price": 3500
+      "price": 3583
     },
     {
       "abr": "firespell:firestorm",
       "category": "Scrolls",
       "defname": "SpellOf_Firestorm",
-      "price": 3750
+      "price": 3583
     },
     {
       "abr": "arcanespell:gateway",
       "category": "Scrolls",
       "defname": "SpellOf_FoldReality",
-      "price": 5000
+      "price": 4767
     },
     {
       "abr": "shamanspell:guardianspirit",
       "category": "Scrolls",
       "defname": "SpellOf_GuardianSpirit",
-      "price": 4000
+      "price": 3767
     },
     {
       "abr": "paladinspell:holywrath",
       "category": "Scrolls",
       "defname": "SpellOf_HolyWrath",
-      "price": 3250
+      "price": 3167
     },
     {
       "abr": "necromancerspell:lichform",
       "category": "Scrolls",
       "defname": "SpellOf_LichForm",
-      "price": 4500
+      "price": 4292
     },
     {
       "abr": "golemancerspell:livingwall",
       "category": "Scrolls",
       "defname": "SpellOf_LivingWall",
-      "price": 3750
+      "price": 3667
     },
     {
       "abr": "geomancerspell:meteor",
       "category": "Scrolls",
       "defname": "SpellOf_Meteor",
-      "price": 3000
+      "price": 2750
     },
     {
       "abr": "technomancerspell:orbitalstrike",
       "category": "Scrolls",
       "defname": "SpellOf_OrbitalStrike",
-      "price": 3000
+      "price": 2833
     },
     {
       "abr": "warlockspell:psychicshock",
@@ -3808,19 +3808,19 @@
       "abr": "chronomancerspell:recall",
       "category": "Scrolls",
       "defname": "SpellOf_Recall",
-      "price": 3500
+      "price": 3333
     },
     {
       "abr": "druidspell:regrowlimb",
       "category": "Scrolls",
       "defname": "SpellOf_RegrowLimb",
-      "price": 3000
+      "price": 3100
     },
     {
       "abr": "priestspell:resurrection",
       "category": "Scrolls",
       "defname": "SpellOf_Resurrection",
-      "price": 6000
+      "price": 6250
     },
     {
       "abr": "succubusspell:scorn",
@@ -3832,43 +3832,43 @@
       "abr": "enchanterspell:shapeshift",
       "category": "Scrolls",
       "defname": "SpellOf_Shapeshift",
-      "price": 3500
+      "price": 3333
     },
     {
       "abr": "summonerspell:summonpoppi",
       "category": "Scrolls",
       "defname": "SpellOf_SummonPoppi",
-      "price": 3750
+      "price": 3767
     },
     {
       "abr": "brightmagespell:spiritoflight",
       "category": "Scrolls",
       "defname": "SpellOf_SpiritOfLight",
-      "price": 4000
+      "price": 3767
     },
     {
       "abr": "fighterskill:throwingknife",
       "category": "Scrolls",
       "defname": "SkillOf_ThrowingKnife",
-      "price": 1500
+      "price": 1583
     },
     {
       "abr": "fighterskill:burningfury",
       "category": "Scrolls",
       "defname": "SkillOf_BurningFury",
-      "price": 1500
+      "price": 1583
     },
     {
       "abr": "fighterskill:fightersfocus",
       "category": "Scrolls",
       "defname": "SkillOf_FightersFocus",
-      "price": 1500
+      "price": 1333
     },
     {
       "abr": "fighterskill:gearrepair",
       "category": "Scrolls",
       "defname": "SkillOf_GearRepair",
-      "price": 1250
+      "price": 1167
     },
     {
       "abr": "fighterskill:heavyblow",
@@ -3880,25 +3880,25 @@
       "abr": "fighterskill:innerhealing",
       "category": "Scrolls",
       "defname": "SkillOf_InnerHealing",
-      "price": 1000
+      "price": 833
     },
     {
       "abr": "fighterskill:legion",
       "category": "Scrolls",
       "defname": "SkillOf_Legion",
-      "price": 1250
+      "price": 1333
     },
     {
       "abr": "fighterskill:pommelstrike",
       "category": "Scrolls",
       "defname": "SkillOf_PommelStrike",
-      "price": 1750
+      "price": 1667
     },
     {
       "abr": "fighterskill:sprint",
       "category": "Scrolls",
       "defname": "SkillOf_Sprint",
-      "price": 1000
+      "price": 833
     },
     {
       "abr": "fighterskill:strongback",
@@ -3910,7 +3910,7 @@
       "abr": "fighterskill:taunt",
       "category": "Scrolls",
       "defname": "SkillOf_Taunt",
-      "price": 1750
+      "price": 1667
     },
     {
       "abr": "fighterskill:tempeststrike",
@@ -3922,37 +3922,37 @@
       "abr": "fighterskill:thickskin",
       "category": "Scrolls",
       "defname": "SkillOf_ThickSkin",
-      "price": 1000
+      "price": 667
     },
     {
       "abr": "apothecaryrecipe:bliss",
       "category": "Scrolls",
       "defname": "SkillOf_HerbalBliss",
-      "price": 1000
+      "price": 950
     },
     {
       "abr": "apothecaryrecipe:clarity",
       "category": "Scrolls",
       "defname": "SkillOf_HerbalClarity",
-      "price": 1750
+      "price": 1733
     },
     {
       "abr": "gemofarcaneinsight",
       "category": "Magic artifacts",
       "defname": "GemstoneOfInsight_Magic",
-      "price": -10
+      "price": 5000
     },
     {
       "abr": "gemofphysicalinsight",
       "category": "Magic artifacts",
       "defname": "GemstoneOfInsight_Might",
-      "price": -10
+      "price": 4000
     },
     {
       "abr": "elephantspear",
       "category": "Melee",
       "defname": "TM_ElephantSpear",
-      "price": 1500
+      "price": 1333
     },
     {
       "abr": "elephanttusk",
@@ -3964,181 +3964,181 @@
       "abr": "elephantbow",
       "category": "Ranged",
       "defname": "TM_ElephantBow",
-      "price": 2000
+      "price": 2083
     },
     {
       "abr": "thrumboaxe",
       "category": "Melee",
       "defname": "TM_ThrumboAxe",
-      "price": 7000
+      "price": 7750
     },
     {
       "abr": "thrumbosaber",
       "category": "Melee",
       "defname": "TM_ThrumboSaber",
-      "price": 6000
+      "price": 5833
     },
     {
       "abr": "glorymaul",
       "category": "Melee",
       "defname": "TM_GloryMaul",
-      "price": 3000
+      "price": 2825
     },
     {
       "abr": "decimation",
       "category": "Melee",
       "defname": "TM_Decimation",
-      "price": -10
+      "price": 6058
     },
     {
       "abr": "ruunbled",
       "category": "Melee",
       "defname": "TM_Ruunbled",
-      "price": -10
+      "price": 13333
     },
     {
       "abr": "thrumbow",
       "category": "Ranged",
       "defname": "TM_ThrumBow",
-      "price": 6500
+      "price": 7467
     },
     {
       "abr": "demon'sfang",
       "category": "Melee",
       "defname": "TM_DemonFang",
-      "price": -10
+      "price": 6150
     },
     {
       "abr": "wandoffire",
       "category": "Magic foci",
       "defname": "TM_FireWand",
-      "price": 1000
+      "price": 800
     },
     {
       "abr": "wandofice",
       "category": "Magic foci",
       "defname": "TM_IceWand",
-      "price": 1000
+      "price": 800
     },
     {
       "abr": "wandoflightning",
       "category": "Magic foci",
       "defname": "TM_LightningWand",
-      "price": 1000
+      "price": 800
     },
     {
       "abr": "staffofthedefender",
       "category": "Magic foci",
       "defname": "TM_DefenderStaff",
-      "price": 5500
+      "price": 5583
     },
     {
       "abr": "staffofblazingpower",
       "category": "Magic foci",
       "defname": "TM_BlazingPowerStaff",
-      "price": 6500
+      "price": 6250
     },
     {
       "abr": "manapotion",
       "category": "Drugs",
       "defname": "ManaPotion",
-      "price": 152
+      "price": 150
     },
     {
       "abr": "wanderer'scloak",
       "category": "Magic apparel",
       "defname": "TM_MaestersCloak",
-      "price": 1500
+      "price": 1375
     },
     {
       "abr": "cloakofsupremacy",
       "category": "Magic apparel",
       "defname": "DemonLordCloak",
-      "price": 4500
+      "price": 4233
     },
     {
       "abr": "magerobe",
       "category": "Magic apparel",
       "defname": "DarkRobe",
-      "price": 4000
+      "price": 3767
     },
     {
       "abr": "ancientmail",
       "category": "Magic apparel",
       "defname": "AncientMail",
-      "price": 3000
+      "price": 2742
     },
     {
       "abr": "armorofthevaliant",
       "category": "Magic apparel",
       "defname": "RoyalArmor",
-      "price": 3000
+      "price": 2750
     },
     {
       "abr": "dreamcatcherbuckskin",
       "category": "Magic apparel",
       "defname": "TM_DreamcatcherBuckskin",
-      "price": 4500
+      "price": 4242
     },
     {
       "abr": "robesofthearchmage",
       "category": "Magic apparel",
       "defname": "ArchMageRobe",
-      "price": 6000
+      "price": 5525
     },
     {
       "abr": "wizardhat",
       "category": "Magic apparel",
       "defname": "TM_WizardHat",
-      "price": 500
+      "price": 392
     },
     {
       "abr": "arcanehood",
       "category": "Magic apparel",
       "defname": "ArcaneHood",
-      "price": 1000
+      "price": 817
     },
     {
       "abr": "hoodofmadness",
       "category": "Magic apparel",
       "defname": "HoodOfMadness",
-      "price": 1100
+      "price": 1008
     },
     {
       "abr": "helmofthevaliant",
       "category": "Magic apparel",
       "defname": "RoyalHelm",
-      "price": 1000
+      "price": 975
     },
     {
       "abr": "paragon'shelm",
       "category": "Magic apparel",
       "defname": "ParagonHelm",
-      "price": 2000
+      "price": 1725
     },
     {
       "abr": "dreamcatchercoronet",
       "category": "Magic apparel",
       "defname": "TM_DreamcatcherCoronet",
-      "price": 3500
+      "price": 3008
     },
     {
       "abr": "bracersofthepacifist",
       "category": "Magic artifacts",
       "defname": "TM_Artifact_BracersOfThePacifist",
-      "price": 6500
+      "price": 6375
     },
     {
       "abr": "bracersofdefense",
       "category": "Magic artifacts",
       "defname": "TM_Artifact_BracersOfDefense",
-      "price": 1500
+      "price": 1483
     },
     {
       "abr": "bracersofdeflection",
       "category": "Magic artifacts",
       "defname": "TM_Artifact_BracersOfDeflection",
-      "price": 1500
+      "price": 1558
     },
     {
       "abr": "ringofkeenintellect",
@@ -4150,1027 +4150,1027 @@
       "abr": "ringofblood",
       "category": "Magic artifacts",
       "defname": "TM_Artifact_RingOfBlood",
-      "price": 3500
+      "price": 3167
     },
     {
       "abr": "ringoftheeternalblue",
       "category": "Magic artifacts",
       "defname": "TM_Artifact_RingOfEternalBlue",
-      "price": 3500
+      "price": 3333
     },
     {
       "abr": "ringofmalice",
       "category": "Magic artifacts",
       "defname": "TM_Artifact_RingOfMalice",
-      "price": 3500
+      "price": 3167
     },
     {
       "abr": "orbofconviction",
       "category": "Magic artifacts",
       "defname": "TM_Artifact_OrbOfConviction",
-      "price": -10
+      "price": 2500
     },
     {
       "abr": "orbofsouls(empty)",
       "category": "Magic artifacts",
       "defname": "TM_Artifact_OrbOfSouls",
-      "price": 6000
+      "price": 2500
     },
     {
       "abr": "orbofsouls(filled)",
       "category": "Magic artifacts",
       "defname": "TM_Artifact_OrbOfSouls_Full",
-      "price": -10
+      "price": 2500
     },
     {
       "abr": "orboftheeternal",
       "category": "Magic artifacts",
       "defname": "TM_Artifact_OrbOfEternal",
-      "price": -10
+      "price": 2500
     },
     {
       "abr": "necroticorb",
       "category": "Magic artifacts",
       "defname": "TM_Artifact_NecroticOrb",
-      "price": -10
+      "price": 3000
     },
     {
       "abr": "pomanafruit",
       "category": "Vegetarian",
       "defname": "TM_RawPomanasyrrium",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "mashedpomana",
       "category": "Vegetarian",
       "defname": "TM_RawPomanaMash",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "syrrium",
       "category": "Drugs",
       "defname": "TM_Syrrium",
-      "price": -10
+      "price": 75
     },
     {
       "abr": "unfinishedtornscript",
       "category": "Skill books",
       "defname": "UnfinishedArcane",
-      "price": -10
+      "price": 2333
     },
     {
       "abr": "unfinishedarcanebook",
       "category": "Skill books",
       "defname": "UnfinishedAdvArcane",
-      "price": -10
+      "price": 4392
     },
     {
       "abr": "unfinishedmartialbook",
       "category": "Skill books",
       "defname": "UnfinishedMartial",
-      "price": -10
+      "price": 3425
     },
     {
       "abr": "bearmeat",
       "category": "Meat",
       "defname": "Meat_Bear_Grizzly",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "birdmeat",
       "category": "Meat",
       "defname": "Meat_Cassowary",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "cougarmeat",
       "category": "Meat",
       "defname": "Meat_Cougar",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "panthermeat",
       "category": "Meat",
       "defname": "Meat_Panther",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "lynxmeat",
       "category": "Meat",
       "defname": "Meat_Lynx",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "catmeat",
       "category": "Meat",
       "defname": "Meat_Cat",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "yorkshireterriermeat",
       "category": "Meat",
       "defname": "Meat_YorkshireTerrier",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "guineapigmeat",
       "category": "Meat",
       "defname": "Meat_GuineaPig",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "labradorretrievermeat",
       "category": "Meat",
       "defname": "Meat_LabradorRetriever",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "huskymeat",
       "category": "Meat",
       "defname": "Meat_Husky",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "monkeymeat",
       "category": "Meat",
       "defname": "Meat_Monkey",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "chickenmeat",
       "category": "Meat",
       "defname": "Meat_Chicken",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "duckmeat",
       "category": "Meat",
       "defname": "Meat_Duck",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "turkeymeat",
       "category": "Meat",
       "defname": "Meat_Turkey",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "beef",
       "category": "Meat",
       "defname": "Meat_Cow",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "boomalopemeat",
       "category": "Meat",
       "defname": "Meat_Boomalope",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "muffalomeat",
       "category": "Meat",
       "defname": "Meat_Muffalo",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "bisonmeat",
       "category": "Meat",
       "defname": "Meat_Bison",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "dromedarymeat",
       "category": "Meat",
       "defname": "Meat_Dromedary",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "goatmeat",
       "category": "Meat",
       "defname": "Meat_Goat",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "elkmeat",
       "category": "Meat",
       "defname": "Meat_Elk",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "yakbeef",
       "category": "Meat",
       "defname": "Meat_Yak",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "cariboumeat",
       "category": "Meat",
       "defname": "Meat_Caribou",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "horsemeat",
       "category": "Meat",
       "defname": "Meat_Horse",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "donkeymeat",
       "category": "Meat",
       "defname": "Meat_Donkey",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "elephantmeat",
       "category": "Meat",
       "defname": "Meat_Elephant",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "rhinocerosmeat",
       "category": "Meat",
       "defname": "Meat_Rhinoceros",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "haremeat",
       "category": "Meat",
       "defname": "Meat_Hare",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "insectmeat",
       "category": "Meat",
       "defname": "Meat_Megaspider",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "thrumbomeat",
       "category": "Meat",
       "defname": "Meat_Thrumbo",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "cobrameat",
       "category": "Meat",
       "defname": "Meat_Cobra",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "tortoisemeat",
       "category": "Meat",
       "defname": "Meat_Tortoise",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "alphabeavermeat",
       "category": "Meat",
       "defname": "Meat_Alphabeaver",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "pork",
       "category": "Meat",
       "defname": "Meat_Pig",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "ibexmeat",
       "category": "Meat",
       "defname": "Meat_Ibex",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "venison",
       "category": "Meat",
       "defname": "Meat_Deer",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "gazellemeat",
       "category": "Meat",
       "defname": "Meat_Gazelle",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "chinchillameat",
       "category": "Meat",
       "defname": "Meat_Chinchilla",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "sheepmeat",
       "category": "Meat",
       "defname": "Meat_Sheep",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "alpacameat",
       "category": "Meat",
       "defname": "Meat_Alpaca",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "megaslothmeat",
       "category": "Meat",
       "defname": "Meat_Megasloth",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "capybarameat",
       "category": "Meat",
       "defname": "Meat_Capybara",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "squirrelmeat",
       "category": "Meat",
       "defname": "Meat_Squirrel",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "ratmeat",
       "category": "Meat",
       "defname": "Meat_Rat",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "boomratmeat",
       "category": "Meat",
       "defname": "Meat_Boomrat",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "raccoonmeat",
       "category": "Meat",
       "defname": "Meat_Raccoon",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "iguanameat",
       "category": "Meat",
       "defname": "Meat_Iguana",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "wargmeat",
       "category": "Meat",
       "defname": "Meat_Warg",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "wolfmeat",
       "category": "Meat",
       "defname": "Meat_Wolf_Timber",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "foxmeat",
       "category": "Meat",
       "defname": "Meat_Fox_Fennec",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "humanmeat",
       "category": "Meat",
       "defname": "Meat_Human",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "immaturedryadmeat",
       "category": "Meat",
       "defname": "Meat_Dryad_Basic",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "hollowgolemmeat",
       "category": "Meat",
       "defname": "Meat_TM_HollowGolem",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "demonflesh",
       "category": "Meat",
       "defname": "Meat_TM_DemonR",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "demonflesh",
       "category": "Meat",
       "defname": "Meat_TM_LesserDemonR",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "wolfmeat",
       "category": "Meat",
       "defname": "Meat_TM_Dire_WolfR",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "elementaldust",
       "category": "Meat",
       "defname": "Meat_TM_LesserEarth_ElementalR",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "elementaldust",
       "category": "Meat",
       "defname": "Meat_TM_Earth_ElementalR",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "elementaldust",
       "category": "Meat",
       "defname": "Meat_TM_GreaterEarth_ElementalR",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "elementaldust",
       "category": "Meat",
       "defname": "Meat_TM_LesserFire_ElementalR",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "elementaldust",
       "category": "Meat",
       "defname": "Meat_TM_Fire_ElementalR",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "elementaldust",
       "category": "Meat",
       "defname": "Meat_TM_GreaterFire_ElementalR",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "elementaldust",
       "category": "Meat",
       "defname": "Meat_TM_LesserWater_ElementalR",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "elementaldust",
       "category": "Meat",
       "defname": "Meat_TM_Water_ElementalR",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "elementaldust",
       "category": "Meat",
       "defname": "Meat_TM_GreaterWater_ElementalR",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "elementaldust",
       "category": "Meat",
       "defname": "Meat_TM_LesserWind_ElementalR",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "elementaldust",
       "category": "Meat",
       "defname": "Meat_TM_Wind_ElementalR",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "elementaldust",
       "category": "Meat",
       "defname": "Meat_TM_GreaterWind_ElementalR",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "mysterymeat",
       "category": "Meat",
       "defname": "Meat_TM_MinionR",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "mysterymeat",
       "category": "Meat",
       "defname": "Meat_TM_GreaterMinionR",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "stone",
       "category": "Meat",
       "defname": "Meat_TM_Lesser_SentinelR",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "stone",
       "category": "Meat",
       "defname": "Meat_TM_SentinelR",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "stone",
       "category": "Meat",
       "defname": "Meat_TM_Greater_SentinelR",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "skeletonlichmeat",
       "category": "Meat",
       "defname": "Meat_TM_SkeletonLichR",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "giantskeletonmeat",
       "category": "Meat",
       "defname": "Meat_TM_GiantSkeletonR",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "skeletonmeat",
       "category": "Meat",
       "defname": "Meat_TM_SkeletonR",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "spiritbearmeat",
       "category": "Meat",
       "defname": "Meat_TM_SpiritBearR",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "spiritmongoosemeat",
       "category": "Meat",
       "defname": "Meat_TM_SpiritMongooseR",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "spiritcrowmeat",
       "category": "Meat",
       "defname": "Meat_TM_SpiritCrowR",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "meat",
       "category": "Meat",
       "defname": "Meat_TM_SpiritWolfR",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "poppimeat",
       "category": "Meat",
       "defname": "Meat_TM_Poppi",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "techprint(cataphractarmor)",
       "category": "Techprints",
       "defname": "Techprint_CataphractArmor",
-      "price": -10
+      "price": 5000
     },
     {
       "abr": "techprint(jumppacks)",
       "category": "Techprints",
       "defname": "Techprint_JumpPack",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "techprint(specializedlimbs)",
       "category": "Techprints",
       "defname": "Techprint_SpecializedLimbs",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "techprint(compactweaponry)",
       "category": "Techprints",
       "defname": "Techprint_CompactWeaponry",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "techprint(poisonsynthesis)",
       "category": "Techprints",
       "defname": "Techprint_VenomSynthesis",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "techprint(artificialmetabolism)",
       "category": "Techprints",
       "defname": "Techprint_ArtificialMetabolism",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "techprint(neuralcomputation)",
       "category": "Techprints",
       "defname": "Techprint_NeuralComputation",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "techprint(skinhardening)",
       "category": "Techprints",
       "defname": "Techprint_SkinHardening",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "techprint(healingfactors)",
       "category": "Techprints",
       "defname": "Techprint_HealingFactors",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "techprint(fleshshaping)",
       "category": "Techprints",
       "defname": "Techprint_FleshShaping",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "techprint(molecularanalysis)",
       "category": "Techprints",
       "defname": "Techprint_MolecularAnalysis",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "techprint(circadianinfluence)",
       "category": "Techprints",
       "defname": "Techprint_CircadianInfluence",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "psytrainer(painblock)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Painblock",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "psytrainer(stun)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Stun",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "psytrainer(burden)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Burden",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "psytrainer(blindingpulse)",
       "category": "Psytrainers",
       "defname": "Psytrainer_BlindingPulse",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "psytrainer(neuralheatdump)",
       "category": "Psytrainers",
       "defname": "Psytrainer_EntropyDump",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "psytrainer(beckon)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Beckon",
-      "price": -10
+      "price": 917
     },
     {
       "abr": "psytrainer(vertigopulse)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VertigoPulse",
-      "price": -10
+      "price": 917
     },
     {
       "abr": "psytrainer(chaosskip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_ChaosSkip",
-      "price": -10
+      "price": 917
     },
     {
       "abr": "psytrainer(skip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Skip",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "psytrainer(wallraise)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Wallraise",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "psytrainer(smokepop)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Smokepop",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "psytrainer(focus)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Focus",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "psytrainer(berserk)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Berserk",
-      "price": -10
+      "price": 1417
     },
     {
       "abr": "psytrainer(invisibility)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Invisibility",
-      "price": -10
+      "price": 1417
     },
     {
       "abr": "psytrainer(berserkpulse)",
       "category": "Psytrainers",
       "defname": "Psytrainer_BerserkPulse",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "psytrainer(manhunterpulse)",
       "category": "Psytrainers",
       "defname": "Psytrainer_ManhunterPulse",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "psytrainer(masschaosskip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_MassChaosSkip",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "psytrainer(waterskip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Waterskip",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "psytrainer(flashstorm)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Flashstorm",
-      "price": -10
+      "price": 1417
     },
     {
       "abr": "psytrainer(skipshield)",
       "category": "Psytrainers",
       "defname": "Psytrainer_BulletShield",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "psytrainer(solarpinhole)",
       "category": "Psytrainers",
       "defname": "Psytrainer_SolarPinhole",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "psytrainer(wordoftrust)",
       "category": "Psytrainers",
       "defname": "Psytrainer_WordOfTrust",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "psytrainer(wordofjoy)",
       "category": "Psytrainers",
       "defname": "Psytrainer_WordOfJoy",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "psytrainer(wordoflove)",
       "category": "Psytrainers",
       "defname": "Psytrainer_WordOfLove",
-      "price": -10
+      "price": 917
     },
     {
       "abr": "psytrainer(wordofserenity)",
       "category": "Psytrainers",
       "defname": "Psytrainer_WordOfSerenity",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "psytrainer(wordofinspiration)",
       "category": "Psytrainers",
       "defname": "Psytrainer_WordOfInspiration",
-      "price": -10
+      "price": 1417
     },
     {
       "abr": "psytrainer(farskip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Farskip",
-      "price": -10
+      "price": 1417
     },
     {
       "abr": "psytrainer(neuroquake)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Neuroquake",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "psytrainer(chunkskip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Chunkskip",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "skilltrainer(shooting)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Shooting",
-      "price": 5000
+      "price": 1250
     },
     {
       "abr": "skilltrainer(melee)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Melee",
-      "price": 5000
+      "price": 1250
     },
     {
       "abr": "skilltrainer(construction)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Construction",
-      "price": 5000
+      "price": 1250
     },
     {
       "abr": "skilltrainer(mining)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Mining",
-      "price": 5000
+      "price": 1250
     },
     {
       "abr": "skilltrainer(cooking)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Cooking",
-      "price": 5000
+      "price": 1250
     },
     {
       "abr": "skilltrainer(plants)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Plants",
-      "price": 5000
+      "price": 1250
     },
     {
       "abr": "skilltrainer(animals)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Animals",
-      "price": 5000
+      "price": 1250
     },
     {
       "abr": "skilltrainer(crafting)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Crafting",
-      "price": 5000
+      "price": 1250
     },
     {
       "abr": "skilltrainer(artistic)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Artistic",
-      "price": 5000
+      "price": 1250
     },
     {
       "abr": "skilltrainer(medical)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Medicine",
-      "price": 5000
+      "price": 1250
     },
     {
       "abr": "skilltrainer(social)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Social",
-      "price": 5000
+      "price": 1250
     },
     {
       "abr": "skilltrainer(intellectual)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Intellectual",
-      "price": 5000
+      "price": 1250
     },
     {
       "abr": "advancedanimalprostheticstable",
       "category": "Production",
       "defname": "VEF_AdvancedAnimalImplantsTable",
-      "price": -10
+      "price": 2342
     },
     {
       "abr": "ammocrate",
       "category": "Furniture",
       "defname": "VFES_AmmoCrate",
-      "price": 492
+      "price": 533
     },
     {
       "abr": "animalprostheticstable",
       "category": "Production",
       "defname": "TableAnimalProsthetics",
-      "price": -10
+      "price": 367
     },
     {
       "abr": "archerytarget",
       "category": "Recreation",
       "defname": "ArcheryTarget",
-      "price": -10
+      "price": 248
     },
     {
       "abr": "archotechshieldgenerator",
       "category": "Special",
       "defname": "VFES_ShieldGenerator_Archotech",
-      "price": 10000
+      "price": 4667
     },
     {
       "abr": "artillery",
       "category": "Security",
       "defname": "VFES_Turret_Artillery",
-      "price": -10
+      "price": 1408
     },
     {
       "abr": "beartrap",
       "category": "Security",
       "defname": "VFES_BearTrap",
-      "price": -10
+      "price": 236
     },
     {
       "abr": "bionicanimalarm",
       "category": "Animal Body Part",
       "defname": "BionicArmAnimal",
-      "price": -10
+      "price": 892
     },
     {
       "abr": "bionicanimalbrainstimulator",
       "category": "Animal Body Part",
       "defname": "AnimalBrainStimulator",
-      "price": -10
+      "price": 1508
     },
     {
       "abr": "bionicanimalearimplant",
       "category": "Animal Body Part",
       "defname": "EarAnimalBionic",
-      "price": -10
+      "price": 867
     },
     {
       "abr": "bionicanimaleye",
       "category": "Animal Body Part",
       "defname": "BionicEyeAnimal",
-      "price": -10
+      "price": 867
     },
     {
       "abr": "bionicanimalheart",
       "category": "Animal Body Part",
       "defname": "BionicAnimalHeart",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "bionicanimaljaw",
       "category": "Animal Body Part",
       "defname": "JawAnimalBionic",
-      "price": -10
+      "price": 867
     },
     {
       "abr": "bionicanimalkidney",
       "category": "Animal Body Part",
       "defname": "BionicAnimalKidney",
-      "price": -10
+      "price": 483
     },
     {
       "abr": "bionicanimalleg",
       "category": "Animal Body Part",
       "defname": "BionicLegAnimal",
-      "price": -10
+      "price": 892
     },
     {
       "abr": "bionicanimalliver",
       "category": "Animal Body Part",
       "defname": "BionicAnimalLiver",
-      "price": -10
+      "price": 483
     },
     {
       "abr": "bionicanimallung",
       "category": "Animal Body Part",
       "defname": "BionicAnimalLung",
-      "price": -10
+      "price": 483
     },
     {
       "abr": "bionicanimalspine",
       "category": "Animal Body Part",
       "defname": "SpineAnimalBionic",
-      "price": 1008
+      "price": 1050
     },
     {
       "abr": "bionicanimalstomach",
       "category": "Animal Body Part",
       "defname": "BionicAnimalStomach",
-      "price": -10
+      "price": 492
     },
     {
       "abr": "chargeturret",
       "category": "Security",
       "defname": "VFES_Turret_ChargeTurret",
-      "price": -10
+      "price": 1358
     },
     {
       "abr": "chemfuelbarrel",
       "category": "Security",
       "defname": "VFES_ChemfuelBarrel",
-      "price": -10
+      "price": 296
     },
     {
       "abr": "decoy",
       "category": "Security",
       "defname": "VFES_Turret_Decoy",
-      "price": -10
+      "price": 140
     },
     {
       "abr": "deployableturret",
       "category": "Security",
       "defname": "VFES_Turret_FloorTurret",
-      "price": -10
+      "price": 983
     },
     {
       "abr": "doormat",
@@ -5182,13 +5182,13 @@
       "abr": "doormat(blue)",
       "category": "Furniture",
       "defname": "LT_DoorMatBlue",
-      "price": 7
+      "price": 8
     },
     {
       "abr": "doormat(green)",
       "category": "Furniture",
       "defname": "LT_DoorMatGreen",
-      "price": 7
+      "price": 8
     },
     {
       "abr": "doormat(orange)",
@@ -5200,19 +5200,19 @@
       "abr": "doormat(red)",
       "category": "Furniture",
       "defname": "LT_DoorMatRed",
-      "price": 7
+      "price": 8
     },
     {
       "abr": "doormat(teal)",
       "category": "Furniture",
       "defname": "LT_DoorMatTeal",
-      "price": 9
+      "price": 8
     },
     {
       "abr": "flameturret",
       "category": "Security",
       "defname": "VFES_Turret_Flame",
-      "price": -10
+      "price": 958
     },
     {
       "abr": "grandstatueofcolonist",
@@ -5224,19 +5224,19 @@
       "abr": "landmine",
       "category": "Security",
       "defname": "VFES_Landmine",
-      "price": -10
+      "price": 261
     },
     {
       "abr": "largedoormat",
       "category": "Furniture",
       "defname": "LT_DoorMatBigLeather",
-      "price": 12
+      "price": 13
     },
     {
       "abr": "largedoormat(blue)",
       "category": "Furniture",
       "defname": "LT_DoorMatBigBlue",
-      "price": 12
+      "price": 13
     },
     {
       "abr": "largedoormat(green)",
@@ -5254,13 +5254,13 @@
       "abr": "largedoormat(red)",
       "category": "Furniture",
       "defname": "LT_DoorMatBigRed",
-      "price": 15
+      "price": 13
     },
     {
       "abr": "largedoormat(teal)",
       "category": "Furniture",
       "defname": "LT_DoorMatBigTeal",
-      "price": 12
+      "price": 13
     },
     {
       "abr": "largestatueofcolonist",
@@ -5272,85 +5272,85 @@
       "abr": "martialartstarget",
       "category": "Recreation",
       "defname": "MartialArtsTarget",
-      "price": -10
+      "price": 251
     },
     {
       "abr": "militaryturret",
       "category": "Security",
       "defname": "VFES_Turret_MilitaryTurret",
-      "price": -10
+      "price": 842
     },
     {
       "abr": "psychicpylon",
       "category": "Special",
       "defname": "VFES_PsychicPylon",
-      "price": -10
+      "price": 2167
     },
     {
       "abr": "searchlight",
       "category": "Security",
       "defname": "VFES_Turret_Searchlight",
-      "price": -10
+      "price": 475
     },
     {
       "abr": "sentrygun",
       "category": "Security",
       "defname": "VFES_Turret_SentryGun",
-      "price": -10
+      "price": 1058
     },
     {
       "abr": "shootingtarget",
       "category": "Recreation",
       "defname": "ShootingRangeTarget",
-      "price": -10
+      "price": 325
     },
     {
       "abr": "simpleanimalearimplant",
       "category": "Animal Body Part",
       "defname": "EarAnimalSimple",
-      "price": -10
+      "price": 121
     },
     {
       "abr": "simpleanimaljawimplant",
       "category": "Animal Body Part",
       "defname": "JawAnimalSimple",
-      "price": -10
+      "price": 121
     },
     {
       "abr": "simpleanimalnose",
       "category": "Animal Body Part",
       "defname": "NoseAnimalSimple",
-      "price": -10
+      "price": 121
     },
     {
       "abr": "simpleanimalspine",
       "category": "Animal Body Part",
       "defname": "SpineAnimalSimple",
-      "price": 215
+      "price": 202
     },
     {
       "abr": "simpleprostheticanimalarm",
       "category": "Animal Body Part",
       "defname": "SimpleProstheticArmAnimal",
-      "price": -10
+      "price": 218
     },
     {
       "abr": "simpleprostheticanimalleg",
       "category": "Animal Body Part",
       "defname": "SimpleProstheticLegAnimal",
-      "price": -10
+      "price": 218
     },
     {
       "abr": "simpleprostheticanimaltail",
       "category": "Animal Body Part",
       "defname": "ProstheticTailAnimal",
-      "price": -10
+      "price": 112
     },
     {
       "abr": "smallshieldgenerator",
       "category": "Security",
       "defname": "VFES_ShieldGenerator_Small",
-      "price": -10
+      "price": 3983
     },
     {
       "abr": "statueofcolonist",
@@ -5362,2047 +5362,2047 @@
       "abr": "walldarklight",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightDark",
-      "price": 15
+      "price": 16
     },
     {
       "abr": "walllight",
       "category": "Furniture",
       "defname": "Lighting_MURWallLight",
-      "price": 15
+      "price": 16
     },
     {
       "abr": "walllight(azure)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightAzure",
-      "price": 15
+      "price": 16
     },
     {
       "abr": "walllight(blue)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightBlue",
-      "price": 15
+      "price": 16
     },
     {
       "abr": "walllight(chartreuse)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightChartreuse",
-      "price": 15
+      "price": 16
     },
     {
       "abr": "walllight(cyan)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightCyan",
-      "price": 15
+      "price": 16
     },
     {
       "abr": "walllight(green)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightGreen",
-      "price": 15
+      "price": 16
     },
     {
       "abr": "walllight(magenta)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightMagenta",
-      "price": 15
+      "price": 16
     },
     {
       "abr": "walllight(orange)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightOrange",
-      "price": 15
+      "price": 16
     },
     {
       "abr": "walllight(red)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightRed",
-      "price": 15
+      "price": 16
     },
     {
       "abr": "walllight(rose)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightRose",
-      "price": 15
+      "price": 16
     },
     {
       "abr": "walllight(springgreen)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightSpringGreen",
-      "price": 15
+      "price": 16
     },
     {
       "abr": "walllight(violet)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightViolet",
-      "price": 15
+      "price": 16
     },
     {
       "abr": "walllight(yellow)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightYellow",
-      "price": 15
+      "price": 16
     },
     {
       "abr": "wallsunlight",
       "category": "Furniture",
       "defname": "Lighting_MURWallSunLight",
-      "price": 29
+      "price": 32
     },
     {
       "abr": "woolcloth",
       "category": "Textiles",
       "defname": "WoolCloth",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "woolloom",
       "category": "Production",
       "defname": "BenchWoolLoom",
-      "price": -10
+      "price": 148
     },
     {
       "abr": "advancedbionicarm",
       "category": "Ultratech",
       "defname": "AdvancedBionicArm",
-      "price": 3417
+      "price": 3450
     },
     {
       "abr": "advancedbionicear",
       "category": "Ultratech",
       "defname": "AdvancedBionicEar",
-      "price": -10
+      "price": 2075
     },
     {
       "abr": "advancedbioniceye",
       "category": "Ultratech",
       "defname": "AdvancedBionicEye",
-      "price": -10
+      "price": 2150
     },
     {
       "abr": "advancedbionicfoot",
       "category": "Ultratech",
       "defname": "AdvancedBionicFoot",
-      "price": -10
+      "price": 2042
     },
     {
       "abr": "advancedbionichand",
       "category": "Ultratech",
       "defname": "AdvancedBionicHand",
-      "price": -10
+      "price": 2042
     },
     {
       "abr": "advancedbionicleg",
       "category": "Ultratech",
       "defname": "AdvancedBionicLeg",
-      "price": -10
+      "price": 3450
     },
     {
       "abr": "advancedbionicspine",
       "category": "Ultratech",
       "defname": "AdvancedBionicSpine",
-      "price": 3975
+      "price": 2733
     },
     {
       "abr": "advancedmulti-analyzer",
       "category": "Misc",
       "defname": "AdvancedMultiAnalyzer",
-      "price": -10
+      "price": 4225
     },
     {
       "abr": "advancedpowerarm",
       "category": "Ultratech",
       "defname": "AdvancedPowerArm",
-      "price": 5250
+      "price": 5225
     },
     {
       "abr": "advancedvest",
       "category": "Armor",
       "defname": "VAE_Apparel_AdvancedVest",
-      "price": -10
+      "price": 725
     },
     {
-      "abr": "apricots",
+      "abr": "peaches",
       "category": "Raw fruits",
       "defname": "VCE_RawPeach",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "artificialnose",
       "category": "Prosthetic",
       "defname": "ArtificialNose",
-      "price": -10
+      "price": 330
     },
     {
       "abr": "balaclava",
       "category": "Headgear",
       "defname": "VAE_Headgear_Balaclava",
-      "price": -10
+      "price": 97
     },
     {
       "abr": "bearberries",
       "category": "Raw fruits",
       "defname": "VCE_Bearberry",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "beets",
       "category": "Vegetarian",
       "defname": "VCE_RawBeets",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "bionicbrainpal",
       "category": "Bionic",
       "defname": "BionicTacticalImplant",
-      "price": -10
+      "price": 5000
     },
     {
       "abr": "bionicfoot",
       "category": "Bionic",
       "defname": "BionicFoot",
-      "price": -10
+      "price": 983
     },
     {
       "abr": "bionichand",
       "category": "Bionic",
       "defname": "BionicHand",
-      "price": -10
+      "price": 983
     },
     {
       "abr": "bionicjaw",
       "category": "Bionic",
       "defname": "BionicJaw",
-      "price": -10
+      "price": 908
     },
     {
-      "abr": "blackbeautyaubergines",
+      "abr": "eggplants",
       "category": "Vegetarian",
       "defname": "VCE_RawEggplant",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "bulletproofvest",
       "category": "Armor",
       "defname": "VAE_Apparel_BulletproofVest",
-      "price": 1500
+      "price": 1100
     },
     {
       "abr": "cabbages",
       "category": "Vegetarian",
       "defname": "VCE_RawCabbage",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "chainmail",
       "category": "Armor",
       "defname": "VAE_Apparel_Chainmail",
-      "price": 500
+      "price": 417
     },
     {
       "abr": "chestplate",
       "category": "Armor",
       "defname": "VAE_Apparel_Chestplate",
-      "price": 500
+      "price": 383
     },
     {
       "abr": "cleanerbasestation",
       "category": "Furniture",
       "defname": "AIRobot_RechargeStation_Cleaner",
-      "price": 1825
+      "price": 1917
     },
     {
       "abr": "cleaningbot",
       "category": "Animal",
       "defname": "AIRobot_Cleaner",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "curtain(tribal)(1x1)",
       "category": "Buildings",
       "defname": "HeronCurtainTribal",
-      "price": -10
+      "price": 88
     },
     {
       "abr": "curtain(tribal)(2x1)",
       "category": "Buildings",
       "defname": "HeronCurtainTribalDouble",
-      "price": -10
+      "price": 177
     },
     {
       "abr": "curtain(tribal)(3x1)",
       "category": "Buildings",
       "defname": "HeronCurtainTribalTriple",
-      "price": -10
+      "price": 265
     },
     {
       "abr": "electricrepairbench",
       "category": "Production",
       "defname": "ElectricTableRepair",
-      "price": -10
+      "price": 583
     },
     {
       "abr": "electronicbrainpal",
       "category": "Bionic",
       "defname": "ElectronicTacticalImplant",
-      "price": -10
+      "price": 3083
     },
     {
       "abr": "exoskeletonsuit",
       "category": "Ultratech",
       "defname": "ExoskeletonSuit",
-      "price": -10
+      "price": 3708
     },
     {
       "abr": "flakgoggles",
       "category": "Headgear",
       "defname": "VAE_Headgear_BallisticGoggles",
-      "price": 200
+      "price": 172
     },
     {
       "abr": "gambeson",
       "category": "Armor",
       "defname": "VAE_Apparel_Gambeson",
-      "price": -10
+      "price": 280
     },
     {
       "abr": "ghilliehood",
       "category": "Headgear",
       "defname": "VAE_Headgear_GhillieHood",
-      "price": -10
+      "price": 153
     },
     {
       "abr": "ghilliesuit",
       "category": "Armor",
       "defname": "VAE_Apparel_GhillieSuit",
-      "price": -10
+      "price": 342
     },
     {
-      "abr": "grannysmithapples",
+      "abr": "apples",
       "category": "Raw fruits",
       "defname": "VCE_RawApple",
-      "price": -10
+      "price": 2
     },
     {
-      "abr": "grosmichelbananas",
+      "abr": "bananas",
       "category": "Raw fruits",
       "defname": "VCE_RawBanana",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "haulerbasestation",
       "category": "Furniture",
       "defname": "AIRobot_RechargeStation_Hauler",
-      "price": 3050
+      "price": 2917
     },
     {
       "abr": "haulingbot",
       "category": "Animal",
       "defname": "AIRobot_Hauler",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "hazmathood",
       "category": "Headgear",
       "defname": "VAE_Headgear_HAZMATMask",
-      "price": -10
+      "price": 308
     },
     {
       "abr": "hazmatsuit",
       "category": "Armor",
       "defname": "VAE_Apparel_HAZMATSuit",
-      "price": -10
+      "price": 933
     },
     {
       "abr": "improvedcabinet",
       "category": "Misc",
       "defname": "ToolCabinetA",
-      "price": -10
+      "price": 917
     },
     {
       "abr": "infusionamplifier",
       "category": "Artifacts",
       "defname": "InfusedAmplifier",
-      "price": 5000
+      "price": 1083
     },
     {
       "abr": "infusionamplifier(empty)",
       "category": "Artifacts",
       "defname": "InfusedAmplifierEmpty",
-      "price": 2500
+      "price": 750
     },
     {
       "abr": "kitchencupboard",
       "category": "Misc",
       "defname": "KitchenCupboard",
-      "price": -10
+      "price": 176
     },
     {
       "abr": "lightplatearmor",
       "category": "Armor",
       "defname": "VAE_Apparel_LightPlateArmor",
-      "price": -10
+      "price": 542
     },
     {
-      "abr": "mammothgoldpumpkins",
+      "abr": "pumpkins",
       "category": "Vegetarian",
       "defname": "VCE_RawPumpkin",
-      "price": -10
+      "price": 2
     },
     {
-      "abr": "mandarins",
+      "abr": "oranges",
       "category": "Raw fruits",
       "defname": "VCE_RawOrange",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "marineboots",
       "category": "Handwear and footwear",
       "defname": "VAE_Footwear_MarineBoots",
-      "price": 1000
+      "price": 733
     },
     {
       "abr": "marinegloves",
       "category": "Handwear and footwear",
       "defname": "VAE_Handwear_MarineGloves",
-      "price": 1000
+      "price": 733
     },
     {
       "abr": "mechaniccabinet",
       "category": "Misc",
       "defname": "ToolCabinetB",
-      "price": -10
+      "price": 1558
     },
     {
       "abr": "omni-spectrumgoggles",
       "category": "Headgear",
       "defname": "VAE_Headgear_NightVisionGoggles",
-      "price": -10
+      "price": 608
     },
     {
       "abr": "onions",
       "category": "Vegetarian",
       "defname": "VCE_RawOnion",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "pears",
       "category": "Raw fruits",
       "defname": "VCE_RawPear",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "peas",
       "category": "Vegetarian",
       "defname": "VCE_RawPeas",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "peppers",
       "category": "Vegetarian",
       "defname": "VCE_RawPepper",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "plateboots",
       "category": "Handwear and footwear",
       "defname": "VAE_Footwear_PlateBoots",
-      "price": 250
+      "price": 207
     },
     {
       "abr": "plategloves",
       "category": "Handwear and footwear",
       "defname": "VAE_Handwear_PlateGloves",
-      "price": 250
+      "price": 173
     },
     {
       "abr": "platehelmet",
       "category": "Headgear",
       "defname": "VAE_Apparel_PlateHelmet",
-      "price": 250
+      "price": 207
     },
     {
       "abr": "plateshoulderpads",
       "category": "Armor",
       "defname": "VAE_Apparel_PlateShoulderpads",
-      "price": 500
+      "price": 181
     },
     {
       "abr": "plums",
       "category": "Raw fruits",
       "defname": "VCE_RawPlum",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "powerarm",
       "category": "Bionic",
       "defname": "PowerArm",
-      "price": -10
+      "price": 3500
     },
     {
       "abr": "prestigesiegebreakerarmor",
       "category": "Armor",
       "defname": "VAE_Apparel_RoyalSiegeArmor",
-      "price": 7000
+      "price": 6758
     },
     {
       "abr": "prestigesiegebreakerhelmet",
       "category": "Headgear",
       "defname": "VAE_Headgear_RoyalSiegeHelmet",
-      "price": 2500
+      "price": 1958
     },
     {
       "abr": "prestigetrooperarmor",
       "category": "Armor",
       "defname": "VAE_Apparel_RoyalTrooperArmor",
-      "price": 3000
+      "price": 2425
     },
     {
       "abr": "prestigetrooperhelmet",
       "category": "Headgear",
       "defname": "VAE_Headgear_RoyalTrooperHelmet",
-      "price": 1000
+      "price": 992
     },
     {
       "abr": "pricklypears",
       "category": "Raw fruits",
       "defname": "VCE_RawPricklyPear",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "prunes",
       "category": "Raw fruits",
       "defname": "VCE_RawPrunes",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "quiltedvest",
       "category": "Armor",
       "defname": "VAE_Apparel_QuiltedVest",
-      "price": -10
+      "price": 210
     },
     {
       "abr": "railgun",
       "category": "Ranged weapons",
       "defname": "Gun_RailgunMKI",
-      "price": 2750
+      "price": 2667
     },
     {
-      "abr": "redbeefsteaktomatoes",
+      "abr": "tomatoes",
       "category": "Vegetarian",
       "defname": "VCE_RawTomatoes",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "repairkit",
       "category": "Manufactured",
       "defname": "RepairKit",
-      "price": -10
+      "price": 30
     },
     {
-      "abr": "sakuranbo",
+      "abr": "cherries",
       "category": "Raw fruits",
       "defname": "VCE_RawCherry",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "scientistcabinet",
       "category": "Misc",
       "defname": "ToolCabinetC",
-      "price": -10
+      "price": 2425
     },
     {
       "abr": "siegebreakerarmor",
       "category": "Armor",
       "defname": "VAE_Apparel_HeavyMarineArmor",
-      "price": 6000
+      "price": 5367
     },
     {
       "abr": "siegebreakerhelmet",
       "category": "Headgear",
       "defname": "VAE_Headgear_HeavyMarineHelmet",
-      "price": 1250
+      "price": 1233
     },
     {
       "abr": "simpleprostheticfoot",
       "category": "Prosthetic",
       "defname": "SimpleProstheticFoot",
-      "price": -10
+      "price": 475
     },
     {
       "abr": "simpleprosthetichand",
       "category": "Prosthetic",
       "defname": "SimpleProstheticHand",
-      "price": -10
+      "price": 475
     },
     {
       "abr": "stomach",
       "category": "Natural",
       "defname": "Stomach",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "stonewarmask",
       "category": "Headgear",
       "defname": "VAE_Headgear_StoneWarMask",
-      "price": -10
+      "price": 127
     },
     {
       "abr": "surgicalinstruments",
       "category": "Misc",
       "defname": "SurgicalInstruments",
-      "price": -10
+      "price": 792
     },
     {
       "abr": "surgicallamp",
       "category": "Misc",
       "defname": "SurgicalLamp",
-      "price": -10
+      "price": 198
     },
     {
       "abr": "synthetickidney",
       "category": "Bionic",
       "defname": "SyntheticKidney",
-      "price": -10
+      "price": 1183
     },
     {
       "abr": "syntheticliver",
       "category": "Bionic",
       "defname": "SyntheticLiver",
-      "price": -10
+      "price": 1183
     },
     {
       "abr": "syntheticlung",
       "category": "Bionic",
       "defname": "SyntheticLung",
-      "price": -10
+      "price": 1183
     },
     {
       "abr": "trooperarmor",
       "category": "Armor",
       "defname": "VAE_Apparel_TrooperArmor",
-      "price": -10
+      "price": 1917
     },
     {
       "abr": "trooperhelmet",
       "category": "Headgear",
       "defname": "VAE_Headgear_TrooperHelmet",
-      "price": -10
+      "price": 792
     },
     {
       "abr": "woodenarmor",
       "category": "Armor",
       "defname": "VAE_Apparel_WoodenArmor",
-      "price": -10
+      "price": 300
     },
     {
       "abr": "youthserum",
       "category": "Items",
       "defname": "MechSerumYouth",
-      "price": -10
+      "price": 2333
     },
     {
       "abr": "ancientairconditioner",
       "category": "Misc",
       "defname": "AncientAirConditioner",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "ancientatm",
       "category": "Misc",
       "defname": "AncientATM",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "ancientbarrel",
       "category": "Misc",
       "defname": "AncientBarrel",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "ancientbed",
       "category": "Misc",
       "defname": "AncientBed",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "ancientcentipedeshell",
       "category": "Misc",
       "defname": "AncientCentipedeShell",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "ancientcommsconsole",
       "category": "Misc",
       "defname": "AncientCommsConsole",
-      "price": -10
+      "price": 12
     },
     {
       "abr": "ancientconcretebarrier",
       "category": "Misc",
       "defname": "AncientConcreteBarrier",
-      "price": -10
+      "price": 51
     },
     {
       "abr": "ancientcontainer",
       "category": "Misc",
       "defname": "AncientContainer",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "ancientcrate",
       "category": "Misc",
       "defname": "AncientCrate",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "ancientcryptosleepcasket",
       "category": "Misc",
       "defname": "AncientCryptosleepCasket",
-      "price": -10
+      "price": 617
     },
     {
       "abr": "ancientdisplaybank",
       "category": "Misc",
       "defname": "AncientDisplayBank",
-      "price": -10
+      "price": 9
     },
     {
       "abr": "ancientenemyterminal",
       "category": "Misc",
       "defname": "AncientEnemyTerminal",
-      "price": -10
+      "price": 6
     },
     {
       "abr": "ancientengineblock",
       "category": "Misc",
       "defname": "AncientRustedEngineBlock",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "ancientequipmentblocks",
       "category": "Misc",
       "defname": "AncientEquipmentBlocks",
-      "price": -10
+      "price": 12
     },
     {
       "abr": "ancientfence",
       "category": "Misc",
       "defname": "AncientFence",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "ancientgenerator",
       "category": "Misc",
       "defname": "AncientGenerator",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "ancientgiantwheel",
       "category": "Misc",
       "defname": "AncientGiantWheel",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "ancienthydrant",
       "category": "Misc",
       "defname": "AncientHydrant",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "ancientkitchensink",
       "category": "Misc",
       "defname": "AncientKitchenSink",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "ancientlamppost",
       "category": "Misc",
       "defname": "AncientLamppost",
-      "price": -10
+      "price": 50
     },
     {
       "abr": "ancientlargecrate",
       "category": "Misc",
       "defname": "AncientLargeCrate",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "ancientlockerbank",
       "category": "Misc",
       "defname": "AncientLockerBank",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "ancientlongcrate",
       "category": "Misc",
       "defname": "AncientLongCrate",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "ancientmachine",
       "category": "Misc",
       "defname": "AncientMachine",
-      "price": -10
+      "price": 18
     },
     {
       "abr": "ancientmechdropbeacon",
       "category": "Misc",
       "defname": "AncientMechDropBeacon",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "ancientmechanoidshell",
       "category": "Misc",
       "defname": "AncientMechanoidShell",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "ancientmega-cannonbarrel",
       "category": "Misc",
       "defname": "AncientMegaCannonBarrel",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "ancientmega-cannonplatform",
       "category": "Misc",
       "defname": "AncientMegaCannonTripod",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "ancientmicrowave",
       "category": "Misc",
       "defname": "AncientMicrowave",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "ancientmilitarycrate",
       "category": "Misc",
       "defname": "AncientMilitaryCrate",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "ancientnavbeacon",
       "category": "Misc",
       "defname": "AncientShipBeacon",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "ancientoperatingtable",
       "category": "Misc",
       "defname": "AncientOperatingTable",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "ancientoven",
       "category": "Misc",
       "defname": "AncientOven",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "ancientpipes",
       "category": "Misc",
       "defname": "AncientPipes",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "ancientpostbox",
       "category": "Misc",
       "defname": "AncientPostbox",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "ancientrazorwire",
       "category": "Misc",
       "defname": "AncientRazorWire",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "ancientrefrigerator",
       "category": "Misc",
       "defname": "AncientRefrigerator",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "ancientsecurityturret",
       "category": "Misc",
       "defname": "AncientSecurityTurret",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "ancientshoppingcart",
       "category": "Misc",
       "defname": "AncientShoppingCart",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "ancientsmallcrate",
       "category": "Misc",
       "defname": "AncientSmallCrate",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "ancientspacercrate",
       "category": "Misc",
       "defname": "AncientSpacerCrate",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "ancientstoragecylinder",
       "category": "Misc",
       "defname": "AncientStorageCylinder",
-      "price": -10
+      "price": 12
     },
     {
       "abr": "ancientstove",
       "category": "Misc",
       "defname": "AncientStove",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "ancientsystemrack",
       "category": "Misc",
       "defname": "AncientSystemRack",
-      "price": -10
+      "price": 9
     },
     {
       "abr": "ancientterminal",
       "category": "Misc",
       "defname": "AncientTerminal_Worshipful",
-      "price": -10
+      "price": 6
     },
     {
       "abr": "ancientterminal",
       "category": "Misc",
       "defname": "AncientTerminal",
-      "price": -10
+      "price": 6
     },
     {
       "abr": "ancienttoilet",
       "category": "Misc",
       "defname": "AncientToilet",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "ancientunstablefuelnode",
       "category": "Misc",
       "defname": "AncientFuelNode",
-      "price": -10
+      "price": 18
     },
     {
       "abr": "ancientvendingmachine",
       "category": "Misc",
       "defname": "AncientVendingMachine",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "ancientwashingmachine",
       "category": "Misc",
       "defname": "AncientWashingMachine",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "ancientwheel",
       "category": "Misc",
       "defname": "AncientWheel",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "animalflap",
       "category": "Misc",
       "defname": "AnimalFlap",
-      "price": -10
+      "price": 88
     },
     {
       "abr": "autobong",
       "category": "Misc",
       "defname": "Autobong",
-      "price": -10
+      "price": 567
     },
     {
       "abr": "autocannonturret",
       "category": "Misc",
       "defname": "Turret_Autocannon",
-      "price": -10
+      "price": 2117
     },
     {
       "abr": "autodoor(1x1)",
       "category": "Misc",
       "defname": "Autodoor",
-      "price": -10
+      "price": 323
     },
     {
       "abr": "autodoor(2x1)",
       "category": "Misc",
       "defname": "PH_AutodoorDouble",
-      "price": -10
+      "price": 650
     },
     {
       "abr": "autodoor(3x1)",
       "category": "Misc",
       "defname": "PH_AutodoorTriple",
-      "price": -10
+      "price": 967
     },
     {
       "abr": "ballista",
       "category": "Misc",
       "defname": "VFES_Turret_Ballista",
-      "price": -10
+      "price": 650
     },
     {
       "abr": "barbedwire",
       "category": "Misc",
       "defname": "VFES_BarbedWire",
-      "price": -10
+      "price": 35
     },
     {
       "abr": "barricade",
       "category": "Misc",
       "defname": "Barricade",
-      "price": -10
+      "price": 19
     },
     {
       "abr": "barrier",
       "category": "Misc",
       "defname": "VFES_Barrier",
-      "price": -10
+      "price": 39
     },
     {
       "abr": "blastdoor(1x1)",
       "category": "Misc",
       "defname": "PH_DoorBlastSingle",
-      "price": -10
+      "price": 600
     },
     {
       "abr": "blastdoor(2x1)",
       "category": "Misc",
       "defname": "PH_DoorBlastDoor",
-      "price": -10
+      "price": 1150
     },
     {
       "abr": "blastdoor(3x2)",
       "category": "Misc",
       "defname": "PH_DoorThickBlastDoor",
-      "price": -10
+      "price": 2300
     },
     {
       "abr": "campfire",
       "category": "Misc",
       "defname": "Campfire",
-      "price": -10
+      "price": 41
     },
     {
       "abr": "catapult",
       "category": "Misc",
       "defname": "VFES_Turret_Catapult",
-      "price": -10
+      "price": 1192
     },
     {
       "abr": "cavalryspikes",
       "category": "Misc",
       "defname": "VFES_CavalrySpikes",
-      "price": -10
+      "price": 12
     },
     {
       "abr": "chargecomplex",
       "category": "Misc",
       "defname": "VFES_Turret_ChargeComplex",
-      "price": -10
+      "price": 1692
     },
     {
       "abr": "chargerailgun",
       "category": "Misc",
       "defname": "VFES_Turret_ChargeRailgunTurret",
-      "price": -10
+      "price": 4658
     },
     {
       "abr": "chemfuelpoweredgenerator",
       "category": "Misc",
       "defname": "ChemfuelPoweredGenerator",
-      "price": -10
+      "price": 492
     },
     {
       "abr": "column",
       "category": "Misc",
       "defname": "Column",
-      "price": -10
+      "price": 71
     },
     {
       "abr": "commsconsole",
       "category": "Misc",
       "defname": "CommsConsole",
-      "price": -10
+      "price": 608
     },
     {
       "abr": "cooler",
       "category": "Misc",
       "defname": "Cooler",
-      "price": -10
+      "price": 458
     },
     {
       "abr": "count-downactivator",
       "category": "Misc",
       "defname": "ActivatorCountdown",
-      "price": -10
+      "price": 107
     },
     {
       "abr": "cryptosleepcasket",
       "category": "Misc",
       "defname": "CryptosleepCasket",
-      "price": 1217
+      "price": 1183
     },
     {
       "abr": "darktorch",
       "category": "Misc",
       "defname": "Darktorch",
-      "price": -10
+      "price": 41
     },
     {
       "abr": "deployablebarrier",
       "category": "Misc",
       "defname": "VFES_DeployableBarrier",
-      "price": -10
+      "price": 96
     },
     {
       "abr": "door(1x1)",
       "category": "Misc",
       "defname": "Door",
-      "price": -10
+      "price": 88
     },
     {
       "abr": "door(2x1)",
       "category": "Misc",
       "defname": "PH_DoorDouble",
-      "price": -10
+      "price": 177
     },
     {
       "abr": "door(3x1)",
       "category": "Misc",
       "defname": "PH_DoorTriple",
-      "price": -10
+      "price": 265
     },
     {
       "abr": "doorbutton",
       "category": "Misc",
       "defname": "PH_DoorButton",
-      "price": -10
+      "price": 86
     },
     {
       "abr": "doorlever",
       "category": "Misc",
       "defname": "PH_DoorLever",
-      "price": -10
+      "price": 70
     },
     {
       "abr": "doubleautocannon",
       "category": "Misc",
       "defname": "VFES_Turret_AutocannonDouble",
-      "price": -10
+      "price": 3475
     },
     {
       "abr": "electriccrematorium",
       "category": "Misc",
       "defname": "ElectricCrematorium",
-      "price": -10
+      "price": 700
     },
     {
       "abr": "empcannon",
       "category": "Misc",
       "defname": "VFES_Turret_EMPTurret",
-      "price": -10
+      "price": 4225
     },
     {
       "abr": "fence",
       "category": "Misc",
       "defname": "Fence",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "fencegate",
       "category": "Misc",
       "defname": "FenceGate",
-      "price": -10
+      "price": 86
     },
     {
       "abr": "floorlight(corner)",
       "category": "Misc",
       "defname": "FloorLightCorner",
-      "price": -10
+      "price": 30
     },
     {
       "abr": "floorlight(corner)blue",
       "category": "Misc",
       "defname": "FloorLightCorner_Blue",
-      "price": -10
+      "price": 30
     },
     {
       "abr": "floorlight(corner)green",
       "category": "Misc",
       "defname": "FloorLightCorner_Green",
-      "price": -10
+      "price": 30
     },
     {
       "abr": "floorlight(corner)purple",
       "category": "Misc",
       "defname": "FloorLightCorner_Purple",
-      "price": -10
+      "price": 30
     },
     {
       "abr": "floorlight(corner)red",
       "category": "Misc",
       "defname": "FloorLightCorner_Red",
-      "price": -10
+      "price": 30
     },
     {
       "abr": "floorlight(corner)yellow",
       "category": "Misc",
       "defname": "FloorLightCorner_Yellow",
-      "price": -10
+      "price": 30
     },
     {
       "abr": "floorlight(inversecorner)",
       "category": "Misc",
       "defname": "FloorLightInverseCorner",
-      "price": -10
+      "price": 11
     },
     {
       "abr": "floorlight(inversecorner)blue",
       "category": "Misc",
       "defname": "FloorLightInverseCorner_Blue",
-      "price": -10
+      "price": 11
     },
     {
       "abr": "floorlight(inversecorner)green",
       "category": "Misc",
       "defname": "FloorLightInverseCorner_Green",
-      "price": -10
+      "price": 11
     },
     {
       "abr": "floorlight(inversecorner)purple",
       "category": "Misc",
       "defname": "FloorLightInverseCorner_Purple",
-      "price": -10
+      "price": 11
     },
     {
       "abr": "floorlight(inversecorner)red",
       "category": "Misc",
       "defname": "FloorLightInverseCorner_Red",
-      "price": -10
+      "price": 11
     },
     {
       "abr": "floorlight(inversecorner)yellow",
       "category": "Misc",
       "defname": "FloorLightInverseCorner_Yellow",
-      "price": -10
+      "price": 11
     },
     {
       "abr": "floorlight(middlestripe)",
       "category": "Misc",
       "defname": "FloorLightStripeMiddle",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "floorlight(middlestripe)blue",
       "category": "Misc",
       "defname": "FloorLightStripeMiddle_Blue",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "floorlight(middlestripe)green",
       "category": "Misc",
       "defname": "FloorLightStripeMiddle_Green",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "floorlight(middlestripe)purple",
       "category": "Misc",
       "defname": "FloorLightStripeMiddle_Purple",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "floorlight(middlestripe)red",
       "category": "Misc",
       "defname": "FloorLightStripeMiddle_Red",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "floorlight(middlestripe)yellow",
       "category": "Misc",
       "defname": "FloorLightStripeMiddle_Yellow",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "floorlight(plus)",
       "category": "Misc",
       "defname": "FloorLightPlus",
-      "price": -10
+      "price": 30
     },
     {
       "abr": "floorlight(plus)blue",
       "category": "Misc",
       "defname": "FloorLightPlus_Blue",
-      "price": -10
+      "price": 30
     },
     {
       "abr": "floorlight(plus)green",
       "category": "Misc",
       "defname": "FloorLightPlus_Green",
-      "price": -10
+      "price": 30
     },
     {
       "abr": "floorlight(plus)purple",
       "category": "Misc",
       "defname": "FloorLightPlus_Purple",
-      "price": -10
+      "price": 30
     },
     {
       "abr": "floorlight(plus)red",
       "category": "Misc",
       "defname": "FloorLightPlus_Red",
-      "price": -10
+      "price": 30
     },
     {
       "abr": "floorlight(plus)yellow",
       "category": "Misc",
       "defname": "FloorLightPlus_Yellow",
-      "price": -10
+      "price": 30
     },
     {
       "abr": "floorlight(smallcorner)",
       "category": "Misc",
       "defname": "FloorLightCornerSmall",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "floorlight(smallcorner)blue",
       "category": "Misc",
       "defname": "FloorLightCornerSmall_Blue",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "floorlight(smallcorner)green",
       "category": "Misc",
       "defname": "FloorLightCornerSmall_Green",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "floorlight(smallcorner)purple",
       "category": "Misc",
       "defname": "FloorLightCornerSmall_Purple",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "floorlight(smallcorner)red",
       "category": "Misc",
       "defname": "FloorLightCornerSmall_Red",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "floorlight(smallcorner)yellow",
       "category": "Misc",
       "defname": "FloorLightCornerSmall_Yellow",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "floorlight(smalldiagonalstripe)",
       "category": "Misc",
       "defname": "FloorLightSmallStripeDiagonal",
-      "price": -10
+      "price": 13
     },
     {
       "abr": "floorlight(smalldiagonalstripe)blue",
       "category": "Misc",
       "defname": "FloorLightSmallStripeDiagonal_Blue",
-      "price": -10
+      "price": 13
     },
     {
       "abr": "floorlight(smalldiagonalstripe)green",
       "category": "Misc",
       "defname": "FloorLightSmallStripeDiagonal_Green",
-      "price": -10
+      "price": 13
     },
     {
       "abr": "floorlight(smalldiagonalstripe)purple",
       "category": "Misc",
       "defname": "FloorLightSmallStripeDiagonal_Purple",
-      "price": -10
+      "price": 13
     },
     {
       "abr": "floorlight(smalldiagonalstripe)red",
       "category": "Misc",
       "defname": "FloorLightSmallStripeDiagonal_Red",
-      "price": -10
+      "price": 13
     },
     {
       "abr": "floorlight(smalldiagonalstripe)yellow",
       "category": "Misc",
       "defname": "FloorLightSmallStripeDiagonal_Yellow",
-      "price": -10
+      "price": 13
     },
     {
       "abr": "floorlight(smallinversecorner)",
       "category": "Misc",
       "defname": "FloorLightInverseCornerSmall",
-      "price": -10
+      "price": 7
     },
     {
       "abr": "floorlight(smallinversecorner)blue",
       "category": "Misc",
       "defname": "FloorLightInverseCornerSmall_Blue",
-      "price": -10
+      "price": 7
     },
     {
       "abr": "floorlight(smallinversecorner)green",
       "category": "Misc",
       "defname": "FloorLightInverseCornerSmall_Green",
-      "price": -10
+      "price": 7
     },
     {
       "abr": "floorlight(smallinversecorner)purple",
       "category": "Misc",
       "defname": "FloorLightInverseCornerSmall_Purple",
-      "price": -10
+      "price": 7
     },
     {
       "abr": "floorlight(smallinversecorner)red",
       "category": "Misc",
       "defname": "FloorLightInverseCornerSmall_Red",
-      "price": -10
+      "price": 7
     },
     {
       "abr": "floorlight(smallinversecorner)yellow",
       "category": "Misc",
       "defname": "FloorLightInverseCornerSmall_Yellow",
-      "price": -10
+      "price": 7
     },
     {
       "abr": "floorlight(smallmiddlestripe)",
       "category": "Misc",
       "defname": "FloorLightSmallStripeMiddle",
-      "price": -10
+      "price": 13
     },
     {
       "abr": "floorlight(smallmiddlestripe)blue",
       "category": "Misc",
       "defname": "FloorLightSmallStripeMiddle_Blue",
-      "price": -10
+      "price": 13
     },
     {
       "abr": "floorlight(smallmiddlestripe)green",
       "category": "Misc",
       "defname": "FloorLightSmallStripeMiddle_Green",
-      "price": -10
+      "price": 13
     },
     {
       "abr": "floorlight(smallmiddlestripe)purple",
       "category": "Misc",
       "defname": "FloorLightSmallStripeMiddle_Purple",
-      "price": -10
+      "price": 13
     },
     {
       "abr": "floorlight(smallmiddlestripe)red",
       "category": "Misc",
       "defname": "FloorLightSmallStripeMiddle_Red",
-      "price": -10
+      "price": 13
     },
     {
       "abr": "floorlight(smallmiddlestripe)yellow",
       "category": "Misc",
       "defname": "FloorLightSmallStripeMiddle_Yellow",
-      "price": -10
+      "price": 13
     },
     {
       "abr": "floorlight(smallstripe)",
       "category": "Misc",
       "defname": "FloorLightSmallStripe",
-      "price": -10
+      "price": 13
     },
     {
       "abr": "floorlight(smallstripe)blue",
       "category": "Misc",
       "defname": "FloorLightSmallStripe_Blue",
-      "price": -10
+      "price": 13
     },
     {
       "abr": "floorlight(smallstripe)green",
       "category": "Misc",
       "defname": "FloorLightSmallStripe_Green",
-      "price": -10
+      "price": 13
     },
     {
       "abr": "floorlight(smallstripe)purple",
       "category": "Misc",
       "defname": "FloorLightSmallStripe_Purple",
-      "price": -10
+      "price": 13
     },
     {
       "abr": "floorlight(smallstripe)red",
       "category": "Misc",
       "defname": "FloorLightSmallStripe_Red",
-      "price": -10
+      "price": 13
     },
     {
       "abr": "floorlight(smallstripe)yellow",
       "category": "Misc",
       "defname": "FloorLightSmallStripe_Yellow",
-      "price": -10
+      "price": 13
     },
     {
       "abr": "floorlight(square)",
       "category": "Misc",
       "defname": "FloorLightSquare",
-      "price": -10
+      "price": 40
     },
     {
       "abr": "floorlight(square)blue",
       "category": "Misc",
       "defname": "FloorLightSquare_Blue",
-      "price": -10
+      "price": 40
     },
     {
       "abr": "floorlight(square)green",
       "category": "Misc",
       "defname": "FloorLightSquare_Green",
-      "price": -10
+      "price": 40
     },
     {
       "abr": "floorlight(square)purple",
       "category": "Misc",
       "defname": "FloorLightSquare_Purple",
-      "price": -10
+      "price": 40
     },
     {
       "abr": "floorlight(square)red",
       "category": "Misc",
       "defname": "FloorLightSquare_Red",
-      "price": -10
+      "price": 40
     },
     {
       "abr": "floorlight(square)yellow",
       "category": "Misc",
       "defname": "FloorLightSquare_Yellow",
-      "price": -10
+      "price": 40
     },
     {
       "abr": "floorlight(stripe)",
       "category": "Misc",
       "defname": "FloorLightStripe",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "floorlight(stripe)",
       "category": "Misc",
       "defname": "FloorLightTriangleCorner",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "floorlight(stripe)",
       "category": "Misc",
       "defname": "FloorLightTriangle",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "floorlight(stripe)blue",
       "category": "Misc",
       "defname": "FloorLightStripe_Blue",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "floorlight(stripe)blue",
       "category": "Misc",
       "defname": "FloorLightTriangleCorner_Blue",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "floorlight(stripe)blue",
       "category": "Misc",
       "defname": "FloorLightTriangle_Blue",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "floorlight(stripe)green",
       "category": "Misc",
       "defname": "FloorLightStripe_Green",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "floorlight(stripe)green",
       "category": "Misc",
       "defname": "FloorLightTriangleCorner_Green",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "floorlight(stripe)green",
       "category": "Misc",
       "defname": "FloorLightTriangle_Green",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "floorlight(stripe)purple",
       "category": "Misc",
       "defname": "FloorLightStripe_Purple",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "floorlight(stripe)purple",
       "category": "Misc",
       "defname": "FloorLightTriangleCorner_Purple",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "floorlight(stripe)purple",
       "category": "Misc",
       "defname": "FloorLightTriangle_Purple",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "floorlight(stripe)red",
       "category": "Misc",
       "defname": "FloorLightStripe_Red",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "floorlight(stripe)red",
       "category": "Misc",
       "defname": "FloorLightTriangleCorner_Red",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "floorlight(stripe)red",
       "category": "Misc",
       "defname": "FloorLightTriangle_Red",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "floorlight(stripe)yellow",
       "category": "Misc",
       "defname": "FloorLightStripe_Yellow",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "floorlight(stripe)yellow",
       "category": "Misc",
       "defname": "FloorLightTriangleCorner_Yellow",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "floorlight(stripe)yellow",
       "category": "Misc",
       "defname": "FloorLightTriangle_Yellow",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "fungusdarktorch",
       "category": "Misc",
       "defname": "DarktorchFungus",
-      "price": -10
+      "price": 37
     },
     {
       "abr": "gate(2x1)",
       "category": "Misc",
       "defname": "PH_GateDoubleThick",
-      "price": -10
+      "price": 350
     },
     {
       "abr": "geothermalgenerator",
       "category": "Misc",
       "defname": "GeothermalGenerator",
-      "price": -10
+      "price": 1575
     },
     {
       "abr": "grandaltar",
       "category": "Misc",
       "defname": "Altar_Grand",
-      "price": -10
+      "price": 1183
     },
     {
       "abr": "grandstele",
       "category": "Misc",
       "defname": "SteleGrand",
-      "price": -10
+      "price": 933
     },
     {
       "abr": "grave",
       "category": "Misc",
       "defname": "Grave",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "ground-penetratingscanner",
       "category": "Misc",
       "defname": "GroundPenetratingScanner",
-      "price": -10
+      "price": 1092
     },
     {
       "abr": "hermeticcrate",
       "category": "Misc",
       "defname": "AncientHermeticCrate",
-      "price": -10
+      "price": 6
     },
     {
       "abr": "hmgcomplex",
       "category": "Misc",
       "defname": "VFES_Turret_HMGComplex",
-      "price": -10
+      "price": 750
     },
     {
       "abr": "hopper",
       "category": "Misc",
       "defname": "Hopper",
-      "price": -10
+      "price": 49
     },
     {
       "abr": "hydroponicsbasin",
       "category": "Misc",
       "defname": "HydroponicsBasin",
-      "price": -10
+      "price": 383
     },
     {
       "abr": "ideogram",
       "category": "Misc",
       "defname": "Ideogram",
-      "price": -10
+      "price": 308
     },
     {
       "abr": "jaildoor",
       "category": "Misc",
       "defname": "PH_DoorJail",
-      "price": -10
+      "price": 375
     },
     {
       "abr": "largealtar",
       "category": "Misc",
       "defname": "Altar_Large",
-      "price": -10
+      "price": 783
     },
     {
       "abr": "largeshieldgenerator",
       "category": "Misc",
       "defname": "VFES_ShieldGenerator_Large",
-      "price": -10
+      "price": 7458
     },
     {
       "abr": "largestele",
       "category": "Misc",
       "defname": "SteleLarge",
-      "price": -10
+      "price": 467
     },
     {
       "abr": "long-rangemineralscanner",
       "category": "Misc",
       "defname": "LongRangeMineralScanner",
-      "price": -10
+      "price": 1683
     },
     {
       "abr": "mechassembler",
       "category": "Misc",
       "defname": "MechAssembler",
-      "price": -10
+      "price": 467
     },
     {
       "abr": "mechcapsule",
       "category": "Misc",
       "defname": "MechCapsule",
-      "price": -10
+      "price": 467
     },
     {
       "abr": "mechdropbeacon",
       "category": "Misc",
       "defname": "MechDropBeacon",
-      "price": -10
+      "price": 105
     },
     {
       "abr": "mechhigh-shield",
       "category": "Misc",
       "defname": "ShieldGeneratorMortar",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "mechlow-shield",
       "category": "Misc",
       "defname": "ShieldGeneratorBullets",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "mediumaltar",
       "category": "Misc",
       "defname": "Altar_Medium",
-      "price": -10
+      "price": 425
     },
     {
       "abr": "miniquarry",
       "category": "Misc",
       "defname": "QRY_MiniQuarry",
-      "price": -10
+      "price": 260
     },
     {
       "abr": "moisturepump",
       "category": "Misc",
       "defname": "MoisturePump",
-      "price": -10
+      "price": 458
     },
     {
       "abr": "nutrientpastedispenser",
       "category": "Misc",
       "defname": "NutrientPasteDispenser",
-      "price": -10
+      "price": 567
     },
     {
       "abr": "over-wallcooler",
       "category": "Misc",
       "defname": "Cooler_Over",
-      "price": -10
+      "price": 458
     },
     {
       "abr": "over-wallcooler(wide)",
       "category": "Misc",
       "defname": "Cooler_Over2W",
-      "price": -10
+      "price": 458
     },
     {
       "abr": "over-wallvent",
       "category": "Misc",
       "defname": "Vent_Over",
-      "price": -10
+      "price": 97
     },
     {
       "abr": "passivecooler",
       "category": "Misc",
       "defname": "PassiveCooler",
-      "price": -10
+      "price": 101
     },
     {
       "abr": "platform",
       "category": "Misc",
       "defname": "VFES_Platform",
-      "price": -10
+      "price": 40
     },
     {
       "abr": "podlauncher",
       "category": "Misc",
       "defname": "PodLauncher",
-      "price": -10
+      "price": 230
     },
     {
       "abr": "powerconduit",
       "category": "Misc",
       "defname": "PowerConduit",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "powerconduit",
       "category": "Misc",
       "defname": "KCSG_PowerConduit",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "powerswitch",
       "category": "Misc",
       "defname": "PowerSwitch",
-      "price": -10
+      "price": 102
     },
     {
       "abr": "proximityactivator",
       "category": "Misc",
       "defname": "ActivatorProximity",
-      "price": -10
+      "price": 107
     },
     {
       "abr": "quarry",
       "category": "Misc",
       "defname": "QRY_Quarry",
-      "price": -10
+      "price": 617
     },
     {
       "abr": "quarryplatform",
       "category": "Misc",
       "defname": "QRY_Platform",
-      "price": -10
+      "price": 168
     },
     {
       "abr": "reliquary",
       "category": "Misc",
       "defname": "Reliquary",
-      "price": -10
+      "price": 2492
     },
     {
       "abr": "remotedoor(1x1)",
       "category": "Misc",
       "defname": "PH_DoorRemoteSingle",
-      "price": -10
+      "price": 206
     },
     {
       "abr": "remotedoor(2x1)",
       "category": "Misc",
       "defname": "PH_DoorRemoteDouble",
-      "price": -10
+      "price": 408
     },
     {
       "abr": "remotedoor(3x1)",
       "category": "Misc",
       "defname": "PH_DoorRemoteTriple",
-      "price": -10
+      "price": 617
     },
     {
       "abr": "rocketturret",
       "category": "Misc",
       "defname": "VFES_Turret_TriRocket",
-      "price": -10
+      "price": 3058
     },
     {
       "abr": "sandbags",
       "category": "Misc",
       "defname": "Sandbags",
-      "price": -10
+      "price": 18
     },
     {
       "abr": "sarcophagus",
       "category": "Misc",
       "defname": "Sarcophagus",
-      "price": -10
+      "price": 214
     },
     {
       "abr": "securitycrate",
       "category": "Misc",
       "defname": "AncientSecurityCrate",
-      "price": -10
+      "price": 12
     },
     {
       "abr": "sensorcluster",
       "category": "Misc",
       "defname": "Ship_SensorCluster",
-      "price": -10
+      "price": 3008
     },
     {
       "abr": "shipcomputercore",
       "category": "Misc",
       "defname": "Ship_ComputerCore",
-      "price": -10
+      "price": 9742
     },
     {
       "abr": "shipcryptosleepcasket",
       "category": "Misc",
       "defname": "Ship_CryptosleepCasket",
-      "price": -10
+      "price": 1725
     },
     {
       "abr": "shipengine",
       "category": "Misc",
       "defname": "Ship_Engine",
-      "price": -10
+      "price": 5925
     },
     {
       "abr": "shipreactor",
       "category": "Misc",
       "defname": "Ship_Reactor",
-      "price": -10
+      "price": 9067
     },
     {
       "abr": "shipstructuralbeam",
       "category": "Misc",
       "defname": "Ship_Beam",
-      "price": -10
+      "price": 1775
     },
     {
       "abr": "shortwall",
       "category": "Misc",
       "defname": "VFES_ShortWall",
-      "price": -10
+      "price": 14
     },
     {
       "abr": "smallaltar",
       "category": "Misc",
       "defname": "Altar_Small",
-      "price": -10
+      "price": 197
     },
     {
       "abr": "solargenerator",
       "category": "Misc",
       "defname": "SolarGenerator",
-      "price": -10
+      "price": 492
     },
     {
       "abr": "squarefloorlamp",
       "category": "Misc",
       "defname": "FloorTileLightSquare",
-      "price": -10
+      "price": 10
     },
     {
       "abr": "torchlamp",
       "category": "Misc",
       "defname": "TorchLamp",
-      "price": -10
+      "price": 41
     },
     {
       "abr": "tradingterminal",
       "category": "Misc",
       "defname": "VTE_TradingTerminal",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "transportpod",
       "category": "Misc",
       "defname": "TransportPod",
-      "price": -10
+      "price": 253
     },
     {
       "abr": "trench",
       "category": "Misc",
       "defname": "VFES_Trench",
-      "price": -10
+      "price": 40
     },
     {
       "abr": "uraniumslugturret",
       "category": "Misc",
       "defname": "Turret_Sniper",
-      "price": -10
+      "price": 2408
     },
     {
       "abr": "vent",
       "category": "Misc",
       "defname": "Vent",
-      "price": -10
+      "price": 97
     },
     {
       "abr": "wall",
       "category": "Misc",
       "defname": "Wall",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "watermillgenerator",
       "category": "Misc",
       "defname": "WatermillGenerator",
-      "price": -10
+      "price": 1000
     },
     {
       "abr": "waterproofconduit",
       "category": "Misc",
       "defname": "WaterproofConduit",
-      "price": -10
+      "price": 32
     },
     {
       "abr": "windturbine",
       "category": "Misc",
       "defname": "WindTurbine",
-      "price": -10
+      "price": 442
     },
     {
       "abr": "wood-firedgenerator",
       "category": "Misc",
       "defname": "WoodFiredGenerator",
-      "price": -10
+      "price": 442
     },
     {
       "abr": "animalsbook",
       "category": "Books",
       "defname": "VBE_BookAnimals",
-      "price": -10
+      "price": 2258
     },
     {
       "abr": "artbook",
       "category": "Books",
       "defname": "VBE_BookArt",
-      "price": -10
+      "price": 2258
     },
     {
       "abr": "bloodrune",
@@ -7456,19 +7456,19 @@
       "abr": "constructionbook",
       "category": "Books",
       "defname": "VBE_BookConstruction",
-      "price": -10
+      "price": 2258
     },
     {
       "abr": "cookingbook",
       "category": "Books",
       "defname": "VBE_BookCooking",
-      "price": -10
+      "price": 2258
     },
     {
       "abr": "craftingbook",
       "category": "Books",
       "defname": "VBE_BookCrafting",
-      "price": -10
+      "price": 2258
     },
     {
       "abr": "crimsonblossom",
@@ -7522,7 +7522,7 @@
       "abr": "growingbook",
       "category": "Books",
       "defname": "VBE_BookGrowing",
-      "price": -10
+      "price": 2258
     },
     {
       "abr": "harvester",
@@ -7534,7 +7534,7 @@
       "abr": "intellectualbook",
       "category": "Books",
       "defname": "VBE_BookIntellectual",
-      "price": -10
+      "price": 2258
     },
     {
       "abr": "lesserbloodrune",
@@ -7558,19 +7558,19 @@
       "abr": "medicalbook",
       "category": "Books",
       "defname": "VBE_BookMedical",
-      "price": -10
+      "price": 2258
     },
     {
       "abr": "meleebook",
       "category": "Books",
       "defname": "VBE_BookMelee",
-      "price": -10
+      "price": 2258
     },
     {
       "abr": "miningbook",
       "category": "Books",
       "defname": "VBE_BookMining",
-      "price": -10
+      "price": 2258
     },
     {
       "abr": "newspaper",
@@ -7636,7 +7636,7 @@
       "abr": "shootingbook",
       "category": "Books",
       "defname": "VBE_BookShooting",
-      "price": -10
+      "price": 2258
     },
     {
       "abr": "shredder",
@@ -7648,7 +7648,7 @@
       "abr": "socialbook",
       "category": "Books",
       "defname": "VBE_BookSocial",
-      "price": -10
+      "price": 2258
     },
     {
       "abr": "steelthrumboianhorn",
@@ -8278,13 +8278,13 @@
       "abr": "advancedarchotecharm",
       "category": "Prosthetic",
       "defname": "AdvancedArchotechArm",
-      "price": 50000
+      "price": 33333
     },
     {
       "abr": "advancedarchotechleg",
       "category": "Prosthetic",
       "defname": "AdvancedArchotechLeg",
-      "price": 50000
+      "price": 33333
     },
     {
       "abr": "advancedbionicjaw",
@@ -8308,79 +8308,79 @@
       "abr": "archotechbrainmelder",
       "category": "Prosthetic",
       "defname": "ArchotechBrainMelder",
-      "price": 50000
+      "price": 33333
     },
     {
       "abr": "archotechdeathclaw",
       "category": "Prosthetic",
       "defname": "ArchotechDeathClaw",
-      "price": 50000
+      "price": 35000
     },
     {
       "abr": "archotechdenture",
       "category": "Prosthetic",
       "defname": "ArchotechDenture",
-      "price": 10000
+      "price": 4667
     },
     {
       "abr": "archotechear",
       "category": "Prosthetic",
       "defname": "ArchotechEar",
-      "price": 10000
+      "price": 4667
     },
     {
       "abr": "archotechheart",
       "category": "Prosthetic",
       "defname": "ArchotechHeart",
-      "price": 10000
+      "price": 4667
     },
     {
       "abr": "archotechkidney",
       "category": "Prosthetic",
       "defname": "ArchotechKidney",
-      "price": 10000
+      "price": 4667
     },
     {
       "abr": "archotechliver",
       "category": "Prosthetic",
       "defname": "ArchotechLiver",
-      "price": 10000
+      "price": 4667
     },
     {
       "abr": "archotechlung",
       "category": "Prosthetic",
       "defname": "ArchotechLung",
-      "price": 10000
+      "price": 4667
     },
     {
       "abr": "archotechmembrane",
       "category": "Prosthetic",
       "defname": "ArchotechMembrane",
-      "price": 75000
+      "price": 41667
     },
     {
       "abr": "archotechobliterator",
       "category": "Prosthetic",
       "defname": "ArchotechObliterator",
-      "price": 50000
+      "price": 35000
     },
     {
       "abr": "archotechpelvis",
       "category": "Prosthetic",
       "defname": "ArchotechPelvis",
-      "price": 10000
+      "price": 4667
     },
     {
       "abr": "archotechspine",
       "category": "Prosthetic",
       "defname": "ArchotechSpine",
-      "price": 10000
+      "price": 4667
     },
     {
       "abr": "archotechstomach",
       "category": "Prosthetic",
       "defname": "ArchotechStomach",
-      "price": 10000
+      "price": 4667
     },
     {
       "abr": "arm",
@@ -8596,13 +8596,13 @@
       "abr": "syntheticheart",
       "category": "Bionic",
       "defname": "BionicHeart",
-      "price": 1633
+      "price": 1467
     },
     {
       "abr": "syntheticstomach",
       "category": "Bionic",
       "defname": "BionicStomach",
-      "price": 1308
+      "price": 1183
     },
     {
       "abr": "tacticalcorneaimplant",
@@ -8626,13 +8626,13 @@
       "abr": "largecommonchest",
       "category": "Loot boxes",
       "defname": "LootBoxSilverLarge",
-      "price": 4000
+      "price": 583
     },
     {
       "abr": "largegoldenchest",
       "category": "Loot boxes",
       "defname": "LootBoxGoldLarge",
-      "price": 5000
+      "price": 1500
     },
     {
       "abr": "mysteriousredchest",
@@ -8644,25 +8644,25 @@
       "abr": "pandorasbox",
       "category": "Loot boxes",
       "defname": "LootBoxPandora",
-      "price": 6000
+      "price": 667
     },
     {
       "abr": "smallcommonchest",
       "category": "Loot boxes",
       "defname": "LootBoxSilverSmall",
-      "price": 1000
+      "price": 133
     },
     {
       "abr": "smallgoldenchest",
       "category": "Loot boxes",
       "defname": "LootBoxGoldSmall",
-      "price": 3000
+      "price": 500
     },
     {
       "abr": "treasurechest",
       "category": "Loot boxes",
       "defname": "LootBoxTreasure",
-      "price": 2000
+      "price": 200
     },
     {
       "abr": "zombrella",
