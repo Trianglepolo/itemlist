@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 800,
+		"price": 80000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 2600,
+		"price": 800000,
 		"karmatype": "Bad"
 	},
 	{
@@ -47,7 +47,7 @@
 	},
 	{
 		"abr": "snowhard",
-		"price": 450,
+		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
@@ -219,31 +219,6 @@
 		"abr": "militaryaid",
 		"price": 3500,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "raid",
-		"price": 6000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "dropraid",
-		"price": 6000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "sapperraid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "siegeraid",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "mechanoidraid",
-		"price": 7500,
-		"karmatype": "Bad"
 	},
 	{
 		"abr": "infestation",
@@ -426,5 +401,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 85
+	"total": 80
 }
