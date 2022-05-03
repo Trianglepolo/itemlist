@@ -131,11 +131,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "maninblack",
-		"price": 350,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "madanimal",
 		"price": 200,
 		"karmatype": "Bad"
@@ -192,18 +187,13 @@
 	},
 	{
 		"abr": "skillincrease",
-		"price": 2500,
+		"price": 4000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "party",
 		"price": 5000,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "alphabeavers",
-		"price": 600,
-		"karmatype": "Bad"
 	},
 	{
 		"abr": "shippartpoison",
@@ -216,13 +206,8 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "militaryaid",
-		"price": 3500,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "infestation",
-		"price": 2500,
+		"price": 7500,
 		"karmatype": "Bad"
 	},
 	{
@@ -247,7 +232,7 @@
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 7500,
+		"price": 12500,
 		"karmatype": "Good"
 	},
 	{
@@ -286,16 +271,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "torytalkervote",
-		"price": 750,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "hodlbotvote",
-		"price": 600,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "reviveall",
 		"price": 30000,
 		"karmatype": "Good"
@@ -307,12 +282,12 @@
 	},
 	{
 		"abr": "healall",
-		"price": 7500,
+		"price": 20000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healanypawn",
-		"price": 2000,
+		"price": 8500,
 		"karmatype": "Good"
 	},
 	{
@@ -327,7 +302,7 @@
 	},
 	{
 		"abr": "passionshuffle",
-		"price": 3500,
+		"price": 5000,
 		"karmatype": "Neutral"
 	},
 	{
@@ -342,22 +317,17 @@
 	},
 	{
 		"abr": "fullheal",
-		"price": 6000,
+		"price": 10000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "passion",
-		"price": 7000,
+		"price": 5500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removepassion",
-		"price": 5000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "backpack",
-		"price": 1,
+		"price": 2500,
 		"karmatype": "Neutral"
 	},
 	{
@@ -401,5 +371,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 80
+	"total": 74
 }
