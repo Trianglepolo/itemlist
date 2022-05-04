@@ -12,16 +12,22 @@
     "version": "9.0.1"
   },
   {
-    "author": "UnlimitedHugs",
-    "name": "Allow Tool",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "jecrell and contributors",
     "name": "JecsTools",
     "steamId": "932008009",
     "version": "1.3.0.4"
+  },
+  {
+    "author": "Torann",
+    "name": "A RimWorld of Magic",
+    "steamId": "1201382956",
+    "version": "2.5.7.2"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Allow Tool",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Fluffy",

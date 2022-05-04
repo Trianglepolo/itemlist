@@ -6748,19 +6748,19 @@
       "abr": "ahuizotl",
       "category": "Animals",
       "defname": "MM_Ahuizotl",
-      "price": 583
+      "price": -10
     },
     {
       "abr": "basilisk",
       "category": "Animals",
       "defname": "MM_Basilisk",
-      "price": 750
+      "price": -10
     },
     {
       "abr": "basiliskegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "MM_EggBasiliskFertilized",
-      "price": 15
+      "price": -10
     },
     {
       "abr": "basin",
@@ -6790,7 +6790,7 @@
       "abr": "biosolids",
       "category": "Waste",
       "defname": "Biosolids",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "biosolidscomposter",
@@ -6802,25 +6802,25 @@
       "abr": "catoblepas",
       "category": "Animals",
       "defname": "MM_Catoblepas",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "cerberus",
       "category": "Animals",
       "defname": "MM_Cerberus",
-      "price": 500
+      "price": -10
     },
     {
       "abr": "ceryneianhind",
       "category": "Animals",
       "defname": "MM_CeryneianHind",
-      "price": 583
+      "price": -10
     },
     {
       "abr": "chimera",
       "category": "Animals",
       "defname": "MM_Chimera",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "compoundbow",
@@ -6838,19 +6838,19 @@
       "abr": "erymanthianboar",
       "category": "Animals",
       "defname": "MM_ErymanthianBoar",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "fenghuang",
       "category": "Animals",
       "defname": "MM_Fenghuang",
-      "price": 625
+      "price": -10
     },
     {
       "abr": "fenghuangegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "MM_EggFenghuangFertilized",
-      "price": 15
+      "price": -10
     },
     {
       "abr": "firebreathimplant",
@@ -6874,13 +6874,13 @@
       "abr": "griffin",
       "category": "Animals",
       "defname": "MM_Griffin",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "griffinegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "MM_EggGriffinFertilized",
-      "price": 15
+      "price": -10
     },
     {
       "abr": "halberd",
@@ -6904,7 +6904,7 @@
       "abr": "heavymagicalleather",
       "category": "Leathers",
       "defname": "MM_HeavyMagicalLeather",
-      "price": 8
+      "price": -10
     },
     {
       "abr": "hotwatertank",
@@ -6916,25 +6916,25 @@
       "abr": "ieltxu",
       "category": "Animals",
       "defname": "MM_Ieltxu",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "ieltxuegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "MM_EggIeltxuFertilized",
-      "price": 15
+      "price": -10
     },
     {
       "abr": "kappa",
       "category": "Animals",
       "defname": "MM_Kappa",
-      "price": 583
+      "price": -10
     },
     {
       "abr": "kitsune",
       "category": "Animals",
       "defname": "MM_Kitsune",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "latrine",
@@ -6946,19 +6946,19 @@
       "abr": "lernaeanhydra",
       "category": "Animals",
       "defname": "MM_LernaeanHydra",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "lesserwyvern",
       "category": "Animals",
       "defname": "MM_LesserWyvern",
-      "price": 2083
+      "price": -10
     },
     {
       "abr": "lightmagicalleather",
       "category": "Leathers",
       "defname": "MM_LightMagicalLeather",
-      "price": 6
+      "price": -10
     },
     {
       "abr": "litterbox",
@@ -6982,7 +6982,7 @@
       "abr": "manticore",
       "category": "Animals",
       "defname": "MM_Manticore",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "musket",
@@ -6994,7 +6994,7 @@
       "abr": "pegasus",
       "category": "Animals",
       "defname": "MM_Pegasus",
-      "price": 917
+      "price": -10
     },
     {
       "abr": "petrifyinggazeimplant",
@@ -7006,13 +7006,13 @@
       "abr": "phoenix",
       "category": "Animals",
       "defname": "MM_Phoenix",
-      "price": 917
+      "price": -10
     },
     {
       "abr": "phoenixegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "MM_EggPhoenixFertilized",
-      "price": 17
+      "price": -10
     },
     {
       "abr": "pickaxe",
@@ -7030,19 +7030,19 @@
       "abr": "qilin",
       "category": "Animals",
       "defname": "MM_Qilin",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "salamander",
       "category": "Animals",
       "defname": "MM_Salamander",
-      "price": 750
+      "price": -10
     },
     {
       "abr": "salamanderegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "MM_EggSalamanderFertilized",
-      "price": 15
+      "price": -10
     },
     {
       "abr": "saunaseating",
@@ -7066,7 +7066,7 @@
       "abr": "tlilcoatl",
       "category": "Animals",
       "defname": "MM_Tlilcoatl",
-      "price": 750
+      "price": -10
     },
     {
       "abr": "toxicbreathimplant",
@@ -7078,7 +7078,7 @@
       "abr": "unicorn",
       "category": "Animals",
       "defname": "MM_Unicorn",
-      "price": 917
+      "price": -10
     },
     {
       "abr": "venomousquillimplant",
@@ -7102,13 +7102,13 @@
       "abr": "wildminotaur",
       "category": "Animals",
       "defname": "MM_WildMinotaur",
-      "price": 583
+      "price": -10
     },
     {
       "abr": "will-o'-wisp",
       "category": "Animals",
       "defname": "MM_WillOWisp",
-      "price": 250
+      "price": -10
     },
     {
       "abr": "wispfireimplant",
@@ -7120,8 +7120,1784 @@
       "abr": "xiezhi",
       "category": "Animals",
       "defname": "MM_Xiezhi",
-      "price": 833
+      "price": -10
+    },
+    {
+      "abr": "ancientmail",
+      "category": "Magic apparel",
+      "defname": "AncientMail",
+      "price": -10
+    },
+    {
+      "abr": "apothecaryrecipe:bliss",
+      "category": "Scrolls",
+      "defname": "SkillOf_HerbalBliss",
+      "price": -10
+    },
+    {
+      "abr": "apothecaryrecipe:clarity",
+      "category": "Scrolls",
+      "defname": "SkillOf_HerbalClarity",
+      "price": -10
+    },
+    {
+      "abr": "arcalleum",
+      "category": "Raw resources",
+      "defname": "TM_Arcalleum",
+      "price": -10
+    },
+    {
+      "abr": "arcanegemofacceleration",
+      "category": "Refined magicyte",
+      "defname": "TM_EStone_coolDown",
+      "price": -10
+    },
+    {
+      "abr": "arcanegemofconservation",
+      "category": "Refined magicyte",
+      "defname": "TM_EStone_mpCost",
+      "price": -10
+    },
+    {
+      "abr": "arcanegemofforce",
+      "category": "Refined magicyte",
+      "defname": "TM_EStone_arcaneDmg",
+      "price": -10
+    },
+    {
+      "abr": "arcanegemofholding",
+      "category": "Refined magicyte",
+      "defname": "TM_EStone_maxMP",
+      "price": -10
+    },
+    {
+      "abr": "arcanegemoflearning",
+      "category": "Refined magicyte",
+      "defname": "TM_EStone_xpGain",
+      "price": -10
+    },
+    {
+      "abr": "arcanegemofregeneration",
+      "category": "Refined magicyte",
+      "defname": "TM_EStone_mpRegenRate",
+      "price": -10
+    },
+    {
+      "abr": "arcanegemofresistance",
+      "category": "Refined magicyte",
+      "defname": "TM_EStone_arcaneRes",
+      "price": -10
+    },
+    {
+      "abr": "arcanegemofwonder",
+      "category": "Refined magicyte",
+      "defname": "TM_EStone_wonder",
+      "price": -10
+    },
+    {
+      "abr": "arcanehood",
+      "category": "Magic apparel",
+      "defname": "ArcaneHood",
+      "price": -10
+    },
+    {
+      "abr": "arcanescript:???",
+      "category": "Skill books",
+      "defname": "BookOfQuestion",
+      "price": -10
+    },
+    {
+      "abr": "arcanespell:gateway",
+      "category": "Scrolls",
+      "defname": "SpellOf_FoldReality",
+      "price": -10
+    },
+    {
+      "abr": "arcanetome:bard",
+      "category": "Skill books",
+      "defname": "BookOfBard",
+      "price": -10
+    },
+    {
+      "abr": "arcanetome:brightmage",
+      "category": "Skill books",
+      "defname": "BookOfTheSun",
+      "price": -10
+    },
+    {
+      "abr": "arcanetome:chaosmage",
+      "category": "Skill books",
+      "defname": "BookOfChaos",
+      "price": -10
+    },
+    {
+      "abr": "arcanetome:chronomancer",
+      "category": "Skill books",
+      "defname": "BookOfChronomancer",
+      "price": -10
+    },
+    {
+      "abr": "arcanetome:demonology",
+      "category": "Skill books",
+      "defname": "BookOfDemons",
+      "price": -10
+    },
+    {
+      "abr": "arcanetome:earth",
+      "category": "Skill books",
+      "defname": "BookOfEarth",
+      "price": -10
+    },
+    {
+      "abr": "arcanetome:enchanter",
+      "category": "Skill books",
+      "defname": "BookOfEnchanter",
+      "price": -10
+    },
+    {
+      "abr": "arcanetome:fire",
+      "category": "Skill books",
+      "defname": "BookOfInnerFire",
+      "price": -10
+    },
+    {
+      "abr": "arcanetome:golemancer",
+      "category": "Skill books",
+      "defname": "BookOfGolemancy",
+      "price": -10
+    },
+    {
+      "abr": "arcanetome:hemomancy",
+      "category": "Skill books",
+      "defname": "BookOfHemomancy",
+      "price": -10
+    },
+    {
+      "abr": "arcanetome:ice",
+      "category": "Skill books",
+      "defname": "BookOfHeartOfFrost",
+      "price": -10
+    },
+    {
+      "abr": "arcanetome:lightning",
+      "category": "Skill books",
+      "defname": "BookOfStormBorn",
+      "price": -10
+    },
+    {
+      "abr": "arcanetome:nature",
+      "category": "Skill books",
+      "defname": "BookOfDruid",
+      "price": -10
+    },
+    {
+      "abr": "arcanetome:necromancer",
+      "category": "Skill books",
+      "defname": "BookOfNecromancer",
+      "price": -10
+    },
+    {
+      "abr": "arcanetome:power",
+      "category": "Skill books",
+      "defname": "BookOfArcanist",
+      "price": -10
+    },
+    {
+      "abr": "arcanetome:priest",
+      "category": "Skill books",
+      "defname": "BookOfPriest",
+      "price": -10
+    },
+    {
+      "abr": "arcanetome:shadow",
+      "category": "Skill books",
+      "defname": "BookOfShadow",
+      "price": -10
+    },
+    {
+      "abr": "arcanetome:shaman",
+      "category": "Skill books",
+      "defname": "BookOfShamanism",
+      "price": -10
+    },
+    {
+      "abr": "arcanetome:summoning",
+      "category": "Skill books",
+      "defname": "BookOfSummoner",
+      "price": -10
+    },
+    {
+      "abr": "arcanetome:technomancy",
+      "category": "Skill books",
+      "defname": "BookOfMagitech",
+      "price": -10
+    },
+    {
+      "abr": "armorofthevaliant",
+      "category": "Magic apparel",
+      "defname": "RoyalArmor",
+      "price": -10
+    },
+    {
+      "abr": "bardspell:battlehymn",
+      "category": "Scrolls",
+      "defname": "SpellOf_BattleHymn",
+      "price": -10
+    },
+    {
+      "abr": "bardspell:discord",
+      "category": "Scrolls",
+      "defname": "SpellOf_Discord",
+      "price": -10
+    },
+    {
+      "abr": "bloodmagespell:bloodmoon",
+      "category": "Scrolls",
+      "defname": "SpellOf_BloodMoon",
+      "price": -10
+    },
+    {
+      "abr": "bracersofdefense",
+      "category": "Magic artifacts",
+      "defname": "TM_Artifact_BracersOfDefense",
+      "price": -10
+    },
+    {
+      "abr": "bracersofdeflection",
+      "category": "Magic artifacts",
+      "defname": "TM_Artifact_BracersOfDeflection",
+      "price": -10
+    },
+    {
+      "abr": "bracersofthepacifist",
+      "category": "Magic artifacts",
+      "defname": "TM_Artifact_BracersOfThePacifist",
+      "price": -10
+    },
+    {
+      "abr": "brightmagespell:spiritoflight",
+      "category": "Scrolls",
+      "defname": "SpellOf_SpiritOfLight",
+      "price": -10
+    },
+    {
+      "abr": "chronomancerspell:recall",
+      "category": "Scrolls",
+      "defname": "SpellOf_Recall",
+      "price": -10
+    },
+    {
+      "abr": "cloakofsupremacy",
+      "category": "Magic apparel",
+      "defname": "DemonLordCloak",
+      "price": -10
+    },
+    {
+      "abr": "combatform:faceless",
+      "category": "Skill books",
+      "defname": "BookOfFaceless",
+      "price": -10
+    },
+    {
+      "abr": "combatform:gladiator",
+      "category": "Skill books",
+      "defname": "BookOfGladiator",
+      "price": -10
+    },
+    {
+      "abr": "combatpower:psionic",
+      "category": "Skill books",
+      "defname": "BookOfPsionic",
+      "price": -10
+    },
+    {
+      "abr": "combatstyle:apothecary",
+      "category": "Skill books",
+      "defname": "BookOfApothecary",
+      "price": -10
+    },
+    {
+      "abr": "combatstyle:bladedancer",
+      "category": "Skill books",
+      "defname": "BookOfBladedancer",
+      "price": -10
+    },
+    {
+      "abr": "combatstyle:commander",
+      "category": "Skill books",
+      "defname": "BookOfCommander",
+      "price": -10
+    },
+    {
+      "abr": "combatstyle:deathknight",
+      "category": "Skill books",
+      "defname": "BookOfDeathKnight",
+      "price": -10
+    },
+    {
+      "abr": "combatstyle:monk",
+      "category": "Skill books",
+      "defname": "BookOfMonk",
+      "price": -10
+    },
+    {
+      "abr": "combatstyle:ranger",
+      "category": "Skill books",
+      "defname": "BookOfRanger",
+      "price": -10
+    },
+    {
+      "abr": "combatstyle:sniper",
+      "category": "Skill books",
+      "defname": "BookOfSniper",
+      "price": -10
+    },
+    {
+      "abr": "decimation",
+      "category": "Melee",
+      "defname": "TM_Decimation",
+      "price": -10
+    },
+    {
+      "abr": "demonflesh",
+      "category": "Meat",
+      "defname": "Meat_TM_DemonR",
+      "price": -10
+    },
+    {
+      "abr": "demonflesh",
+      "category": "Meat",
+      "defname": "Meat_TM_LesserDemonR",
+      "price": -10
+    },
+    {
+      "abr": "demonhide",
+      "category": "Leathers",
+      "defname": "TM_Demonhide",
+      "price": -10
+    },
+    {
+      "abr": "demon'sfang",
+      "category": "Melee",
+      "defname": "TM_DemonFang",
+      "price": -10
+    },
+    {
+      "abr": "demonscale",
+      "category": "Raw resources",
+      "defname": "TM_Demonscale",
+      "price": -10
+    },
+    {
+      "abr": "direwolf",
+      "category": "Animals",
+      "defname": "TM_Dire_WolfR",
+      "price": -10
+    },
+    {
+      "abr": "divinetome:paladin",
+      "category": "Skill books",
+      "defname": "BookOfValiant",
+      "price": -10
+    },
+    {
+      "abr": "dreamcatcherbuckskin",
+      "category": "Magic apparel",
+      "defname": "TM_DreamcatcherBuckskin",
+      "price": -10
+    },
+    {
+      "abr": "dreamcatchercoronet",
+      "category": "Magic apparel",
+      "defname": "TM_DreamcatcherCoronet",
+      "price": -10
+    },
+    {
+      "abr": "druidspell:briarpatch",
+      "category": "Scrolls",
+      "defname": "SpellOf_BriarPatch",
+      "price": -10
+    },
+    {
+      "abr": "druidspell:fertilelands",
+      "category": "Scrolls",
+      "defname": "SpellOf_FertileLands",
+      "price": -10
+    },
+    {
+      "abr": "druidspell:regrowlimb",
+      "category": "Scrolls",
+      "defname": "SpellOf_RegrowLimb",
+      "price": -10
+    },
+    {
+      "abr": "elementaldust",
+      "category": "Meat",
+      "defname": "Meat_TM_LesserEarth_ElementalR",
+      "price": -10
+    },
+    {
+      "abr": "elementaldust",
+      "category": "Meat",
+      "defname": "Meat_TM_Earth_ElementalR",
+      "price": -10
+    },
+    {
+      "abr": "elementaldust",
+      "category": "Meat",
+      "defname": "Meat_TM_GreaterEarth_ElementalR",
+      "price": -10
+    },
+    {
+      "abr": "elementaldust",
+      "category": "Meat",
+      "defname": "Meat_TM_LesserFire_ElementalR",
+      "price": -10
+    },
+    {
+      "abr": "elementaldust",
+      "category": "Meat",
+      "defname": "Meat_TM_Fire_ElementalR",
+      "price": -10
+    },
+    {
+      "abr": "elementaldust",
+      "category": "Meat",
+      "defname": "Meat_TM_GreaterFire_ElementalR",
+      "price": -10
+    },
+    {
+      "abr": "elementaldust",
+      "category": "Meat",
+      "defname": "Meat_TM_LesserWater_ElementalR",
+      "price": -10
+    },
+    {
+      "abr": "elementaldust",
+      "category": "Meat",
+      "defname": "Meat_TM_Water_ElementalR",
+      "price": -10
+    },
+    {
+      "abr": "elementaldust",
+      "category": "Meat",
+      "defname": "Meat_TM_GreaterWater_ElementalR",
+      "price": -10
+    },
+    {
+      "abr": "elementaldust",
+      "category": "Meat",
+      "defname": "Meat_TM_LesserWind_ElementalR",
+      "price": -10
+    },
+    {
+      "abr": "elementaldust",
+      "category": "Meat",
+      "defname": "Meat_TM_Wind_ElementalR",
+      "price": -10
+    },
+    {
+      "abr": "elementaldust",
+      "category": "Meat",
+      "defname": "Meat_TM_GreaterWind_ElementalR",
+      "price": -10
+    },
+    {
+      "abr": "elephantbow",
+      "category": "Ranged",
+      "defname": "TM_ElephantBow",
+      "price": -10
+    },
+    {
+      "abr": "elephantspear",
+      "category": "Melee",
+      "defname": "TM_ElephantSpear",
+      "price": -10
+    },
+    {
+      "abr": "elephanttusk",
+      "category": "Melee",
+      "defname": "TM_ElephantTusk",
+      "price": -10
+    },
+    {
+      "abr": "empathability:fadeemotions",
+      "category": "Scrolls",
+      "defname": "SpellOf_FadeEmotions",
+      "price": -10
+    },
+    {
+      "abr": "enchanterspell:blankmind",
+      "category": "Scrolls",
+      "defname": "SpellOf_BlankMind",
+      "price": -10
+    },
+    {
+      "abr": "enchanterspell:shapeshift",
+      "category": "Scrolls",
+      "defname": "SpellOf_Shapeshift",
+      "price": -10
+    },
+    {
+      "abr": "essenceofmagic",
+      "category": "Magic artifacts",
+      "defname": "TM_MagicArtifact_MagicEssence",
+      "price": -10
+    },
+    {
+      "abr": "essenceofmight",
+      "category": "Magic artifacts",
+      "defname": "TM_MagicArtifact_MightEssence",
+      "price": -10
+    },
+    {
+      "abr": "fighterskill:burningfury",
+      "category": "Scrolls",
+      "defname": "SkillOf_BurningFury",
+      "price": -10
+    },
+    {
+      "abr": "fighterskill:fightersfocus",
+      "category": "Scrolls",
+      "defname": "SkillOf_FightersFocus",
+      "price": -10
+    },
+    {
+      "abr": "fighterskill:gearrepair",
+      "category": "Scrolls",
+      "defname": "SkillOf_GearRepair",
+      "price": -10
+    },
+    {
+      "abr": "fighterskill:heavyblow",
+      "category": "Scrolls",
+      "defname": "SkillOf_HeavyBlow",
+      "price": -10
+    },
+    {
+      "abr": "fighterskill:innerhealing",
+      "category": "Scrolls",
+      "defname": "SkillOf_InnerHealing",
+      "price": -10
+    },
+    {
+      "abr": "fighterskill:legion",
+      "category": "Scrolls",
+      "defname": "SkillOf_Legion",
+      "price": -10
+    },
+    {
+      "abr": "fighterskill:pommelstrike",
+      "category": "Scrolls",
+      "defname": "SkillOf_PommelStrike",
+      "price": -10
+    },
+    {
+      "abr": "fighterskill:sprint",
+      "category": "Scrolls",
+      "defname": "SkillOf_Sprint",
+      "price": -10
+    },
+    {
+      "abr": "fighterskill:strongback",
+      "category": "Scrolls",
+      "defname": "SkillOf_StrongBack",
+      "price": -10
+    },
+    {
+      "abr": "fighterskill:taunt",
+      "category": "Scrolls",
+      "defname": "SkillOf_Taunt",
+      "price": -10
+    },
+    {
+      "abr": "fighterskill:tempeststrike",
+      "category": "Scrolls",
+      "defname": "SkillOf_TempestStrike",
+      "price": -10
+    },
+    {
+      "abr": "fighterskill:thickskin",
+      "category": "Scrolls",
+      "defname": "SkillOf_ThickSkin",
+      "price": -10
+    },
+    {
+      "abr": "fighterskill:throwingknife",
+      "category": "Scrolls",
+      "defname": "SkillOf_ThrowingKnife",
+      "price": -10
+    },
+    {
+      "abr": "firespell:cauterizewound",
+      "category": "Scrolls",
+      "defname": "SpellOf_CauterizeWound",
+      "price": -10
+    },
+    {
+      "abr": "firespell:dryground",
+      "category": "Scrolls",
+      "defname": "SpellOf_DryGround",
+      "price": -10
+    },
+    {
+      "abr": "firespell:firestorm",
+      "category": "Scrolls",
+      "defname": "SpellOf_Firestorm",
+      "price": -10
+    },
+    {
+      "abr": "firespell:heatshield",
+      "category": "Scrolls",
+      "defname": "SpellOf_HeatShield",
+      "price": -10
+    },
+    {
+      "abr": "fleshgolem",
+      "category": "Animal",
+      "defname": "TM_FleshGolem",
+      "price": -10
+    },
+    {
+      "abr": "gemofarcaneinsight",
+      "category": "Magic artifacts",
+      "defname": "GemstoneOfInsight_Magic",
+      "price": -10
+    },
+    {
+      "abr": "gemofphysicalinsight",
+      "category": "Magic artifacts",
+      "defname": "GemstoneOfInsight_Might",
+      "price": -10
+    },
+    {
+      "abr": "geomancerspell:meteor",
+      "category": "Scrolls",
+      "defname": "SpellOf_Meteor",
+      "price": -10
+    },
+    {
+      "abr": "giantskeletonmeat",
+      "category": "Meat",
+      "defname": "Meat_TM_GiantSkeletonR",
+      "price": -10
+    },
+    {
+      "abr": "glorymaul",
+      "category": "Melee",
+      "defname": "TM_GloryMaul",
+      "price": -10
+    },
+    {
+      "abr": "golemancerspell:awarenessbrand",
+      "category": "Scrolls",
+      "defname": "SpellOf_BrandAwareness",
+      "price": -10
+    },
+    {
+      "abr": "golemancerspell:emotionbrand",
+      "category": "Scrolls",
+      "defname": "SpellOf_BrandEmotion",
+      "price": -10
+    },
+    {
+      "abr": "golemancerspell:fitnessbrand",
+      "category": "Scrolls",
+      "defname": "SpellOf_BrandFitness",
+      "price": -10
+    },
+    {
+      "abr": "golemancerspell:livingwall",
+      "category": "Scrolls",
+      "defname": "SpellOf_LivingWall",
+      "price": -10
+    },
+    {
+      "abr": "golemancerspell:protectionbrand",
+      "category": "Scrolls",
+      "defname": "SpellOf_BrandProtection",
+      "price": -10
+    },
+    {
+      "abr": "golemancerspell:siphonbrand",
+      "category": "Scrolls",
+      "defname": "SpellOf_BrandSiphon",
+      "price": -10
+    },
+    {
+      "abr": "golemancerspell:vitalitybrand",
+      "category": "Scrolls",
+      "defname": "SpellOf_BrandVitality",
+      "price": -10
+    },
+    {
+      "abr": "granitegolem",
+      "category": "Animal",
+      "defname": "TM_GraniteGolem",
+      "price": -10
+    },
+    {
+      "abr": "helmofthevaliant",
+      "category": "Magic apparel",
+      "defname": "RoyalHelm",
+      "price": -10
+    },
+    {
+      "abr": "hollowgolem",
+      "category": "Animal",
+      "defname": "TM_HollowGolem",
+      "price": -10
+    },
+    {
+      "abr": "hollowgolemmeat",
+      "category": "Meat",
+      "defname": "Meat_TM_HollowGolem",
+      "price": -10
+    },
+    {
+      "abr": "holycasterspell:shieldother",
+      "category": "Scrolls",
+      "defname": "SpellOf_ShieldOther",
+      "price": -10
+    },
+    {
+      "abr": "hoodofmadness",
+      "category": "Magic apparel",
+      "defname": "HoodOfMadness",
+      "price": -10
+    },
+    {
+      "abr": "icespell:alterstorm",
+      "category": "Scrolls",
+      "defname": "SpellOf_AlterStorm",
+      "price": -10
+    },
+    {
+      "abr": "icespell:blizzard",
+      "category": "Scrolls",
+      "defname": "SpellOf_Blizzard",
+      "price": -10
+    },
+    {
+      "abr": "icespell:moisturizeground",
+      "category": "Scrolls",
+      "defname": "SpellOf_WetGround",
+      "price": -10
+    },
+    {
+      "abr": "lightningspell:chargebattery",
+      "category": "Scrolls",
+      "defname": "SpellOf_ChargeBattery",
+      "price": -10
+    },
+    {
+      "abr": "lightningspell:eyeofthestorm",
+      "category": "Scrolls",
+      "defname": "SpellOf_EyeOfTheStorm",
+      "price": -10
+    },
+    {
+      "abr": "limestonegolem",
+      "category": "Animal",
+      "defname": "TM_LimestoneGolem",
+      "price": -10
+    },
+    {
+      "abr": "magerobe",
+      "category": "Magic apparel",
+      "defname": "DarkRobe",
+      "price": -10
+    },
+    {
+      "abr": "magespell:arcanebolt",
+      "category": "Scrolls",
+      "defname": "SpellOf_ArcaneBolt",
+      "price": -10
+    },
+    {
+      "abr": "magespell:blink",
+      "category": "Scrolls",
+      "defname": "SpellOf_Blink",
+      "price": -10
+    },
+    {
+      "abr": "magespell:blur",
+      "category": "Scrolls",
+      "defname": "SpellOf_Blur",
+      "price": -10
+    },
+    {
+      "abr": "magespell:dirtdevil",
+      "category": "Scrolls",
+      "defname": "SpellOf_DirtDevil",
+      "price": -10
+    },
+    {
+      "abr": "magespell:emp",
+      "category": "Scrolls",
+      "defname": "SpellOf_EMP",
+      "price": -10
+    },
+    {
+      "abr": "magespell:extinguish",
+      "category": "Scrolls",
+      "defname": "SpellOf_Extinguish",
+      "price": -10
+    },
+    {
+      "abr": "magespell:heal",
+      "category": "Scrolls",
+      "defname": "SpellOf_Heal",
+      "price": -10
+    },
+    {
+      "abr": "magespell:ignite",
+      "category": "Scrolls",
+      "defname": "SpellOf_Ignite",
+      "price": -10
+    },
+    {
+      "abr": "magespell:invisibility",
+      "category": "Scrolls",
+      "defname": "SpellOf_Invisibility",
+      "price": -10
+    },
+    {
+      "abr": "magespell:lightningtrap",
+      "category": "Scrolls",
+      "defname": "SpellOf_LightningTrap",
+      "price": -10
+    },
+    {
+      "abr": "magespell:magelight",
+      "category": "Scrolls",
+      "defname": "SpellOf_MageLight",
+      "price": -10
+    },
+    {
+      "abr": "magespell:magiccooler",
+      "category": "Scrolls",
+      "defname": "SpellOf_Cooler",
+      "price": -10
+    },
+    {
+      "abr": "magespell:magicheater",
+      "category": "Scrolls",
+      "defname": "SpellOf_Heater",
+      "price": -10
+    },
+    {
+      "abr": "magespell:magicwardrobe",
+      "category": "Scrolls",
+      "defname": "SpellOf_MagicWardrobe",
+      "price": -10
+    },
+    {
+      "abr": "magespell:manashield",
+      "category": "Scrolls",
+      "defname": "SpellOf_ManaShield",
+      "price": -10
+    },
+    {
+      "abr": "magespell:powernode",
+      "category": "Scrolls",
+      "defname": "SpellOf_PowerNode",
+      "price": -10
+    },
+    {
+      "abr": "magespell:rain",
+      "category": "Scrolls",
+      "defname": "SpellOf_Rain",
+      "price": -10
+    },
+    {
+      "abr": "magespell:siphonmana",
+      "category": "Scrolls",
+      "defname": "SpellOf_SiphonMana",
+      "price": -10
+    },
+    {
+      "abr": "magespell:smokecloud",
+      "category": "Scrolls",
+      "defname": "SpellOf_SmokeCloud",
+      "price": -10
+    },
+    {
+      "abr": "magespell:snapfreeze",
+      "category": "Scrolls",
+      "defname": "SpellOf_SnapFreeze",
+      "price": -10
+    },
+    {
+      "abr": "magespell:spellmending",
+      "category": "Scrolls",
+      "defname": "SpellOf_SpellMending",
+      "price": -10
+    },
+    {
+      "abr": "magespell:summonminion",
+      "category": "Scrolls",
+      "defname": "SpellOf_SummonMinion",
+      "price": -10
+    },
+    {
+      "abr": "magespell:sunlight",
+      "category": "Scrolls",
+      "defname": "SpellOf_Sunlight",
+      "price": -10
+    },
+    {
+      "abr": "magespell:teleport",
+      "category": "Scrolls",
+      "defname": "SpellOf_Teleport",
+      "price": -10
+    },
+    {
+      "abr": "magespell:transfermana",
+      "category": "Scrolls",
+      "defname": "SpellOf_TransferMana",
+      "price": -10
+    },
+    {
+      "abr": "maharalgolem",
+      "category": "Animal",
+      "defname": "TM_MaharalGolem",
+      "price": -10
+    },
+    {
+      "abr": "majorarcanegemofacceleration",
+      "category": "Refined magicyte",
+      "defname": "TM_EStone_coolDown_major",
+      "price": -10
+    },
+    {
+      "abr": "majorarcanegemofconservation",
+      "category": "Refined magicyte",
+      "defname": "TM_EStone_mpCost_major",
+      "price": -10
+    },
+    {
+      "abr": "majorarcanegemofforce",
+      "category": "Refined magicyte",
+      "defname": "TM_EStone_arcaneDmg_major",
+      "price": -10
+    },
+    {
+      "abr": "majorarcanegemofholding",
+      "category": "Refined magicyte",
+      "defname": "TM_EStone_maxMP_major",
+      "price": -10
+    },
+    {
+      "abr": "majorarcanegemoflearning",
+      "category": "Refined magicyte",
+      "defname": "TM_EStone_xpGain_major",
+      "price": -10
+    },
+    {
+      "abr": "majorarcanegemofregeneration",
+      "category": "Refined magicyte",
+      "defname": "TM_EStone_mpRegenRate_major",
+      "price": -10
+    },
+    {
+      "abr": "majorarcanegemofresistance",
+      "category": "Refined magicyte",
+      "defname": "TM_EStone_arcaneRes_major",
+      "price": -10
+    },
+    {
+      "abr": "majorarcanegemofwonder",
+      "category": "Refined magicyte",
+      "defname": "TM_EStone_wonder_major",
+      "price": -10
+    },
+    {
+      "abr": "manapotion",
+      "category": "Drugs",
+      "defname": "ManaPotion",
+      "price": -10
+    },
+    {
+      "abr": "manaweave",
+      "category": "Textiles",
+      "defname": "TM_Manaweave",
+      "price": -10
+    },
+    {
+      "abr": "marblegolem",
+      "category": "Animal",
+      "defname": "TM_MarbleGolem",
+      "price": -10
+    },
+    {
+      "abr": "mashedpomana",
+      "category": "Vegetarian",
+      "defname": "TM_RawPomanaMash",
+      "price": -10
+    },
+    {
+      "abr": "meat",
+      "category": "Meat",
+      "defname": "Meat_TM_SpiritWolfR",
+      "price": -10
+    },
+    {
+      "abr": "mecha-golem",
+      "category": "Animal",
+      "defname": "TM_MechaGolem",
+      "price": -10
+    },
+    {
+      "abr": "minorarcanegemofacceleration",
+      "category": "Refined magicyte",
+      "defname": "TM_EStone_coolDown_minor",
+      "price": -10
+    },
+    {
+      "abr": "minorarcanegemofconservation",
+      "category": "Refined magicyte",
+      "defname": "TM_EStone_mpCost_minor",
+      "price": -10
+    },
+    {
+      "abr": "minorarcanegemofforce",
+      "category": "Refined magicyte",
+      "defname": "TM_EStone_arcaneDmg_minor",
+      "price": -10
+    },
+    {
+      "abr": "minorarcanegemofholding",
+      "category": "Refined magicyte",
+      "defname": "TM_EStone_maxMP_minor",
+      "price": -10
+    },
+    {
+      "abr": "minorarcanegemoflearning",
+      "category": "Refined magicyte",
+      "defname": "TM_EStone_xpGain_minor",
+      "price": -10
+    },
+    {
+      "abr": "minorarcanegemofregeneration",
+      "category": "Refined magicyte",
+      "defname": "TM_EStone_mpRegenRate_minor",
+      "price": -10
+    },
+    {
+      "abr": "minorarcanegemofresistance",
+      "category": "Refined magicyte",
+      "defname": "TM_EStone_arcaneRes_minor",
+      "price": -10
+    },
+    {
+      "abr": "minorarcanegemofwonder",
+      "category": "Refined magicyte",
+      "defname": "TM_EStone_wonder_minor",
+      "price": -10
+    },
+    {
+      "abr": "mysterymeat",
+      "category": "Meat",
+      "defname": "Meat_TM_MinionR",
+      "price": -10
+    },
+    {
+      "abr": "mysterymeat",
+      "category": "Meat",
+      "defname": "Meat_TM_GreaterMinionR",
+      "price": -10
+    },
+    {
+      "abr": "necromancerspell:lichform",
+      "category": "Scrolls",
+      "defname": "SpellOf_LichForm",
+      "price": -10
+    },
+    {
+      "abr": "necroticorb",
+      "category": "Magic artifacts",
+      "defname": "TM_Artifact_NecroticOrb",
+      "price": -10
+    },
+    {
+      "abr": "orbofconviction",
+      "category": "Magic artifacts",
+      "defname": "TM_Artifact_OrbOfConviction",
+      "price": -10
+    },
+    {
+      "abr": "orbofsouls(empty)",
+      "category": "Magic artifacts",
+      "defname": "TM_Artifact_OrbOfSouls",
+      "price": -10
+    },
+    {
+      "abr": "orbofsouls(filled)",
+      "category": "Magic artifacts",
+      "defname": "TM_Artifact_OrbOfSouls_Full",
+      "price": -10
+    },
+    {
+      "abr": "orboftheeternal",
+      "category": "Magic artifacts",
+      "defname": "TM_Artifact_OrbOfEternal",
+      "price": -10
+    },
+    {
+      "abr": "paladinspell:holywrath",
+      "category": "Scrolls",
+      "defname": "SpellOf_HolyWrath",
+      "price": -10
+    },
+    {
+      "abr": "paragon'shelm",
+      "category": "Magic apparel",
+      "defname": "ParagonHelm",
+      "price": -10
+    },
+    {
+      "abr": "pomanafruit",
+      "category": "Vegetarian",
+      "defname": "TM_RawPomanasyrrium",
+      "price": -10
+    },
+    {
+      "abr": "poppimeat",
+      "category": "Meat",
+      "defname": "Meat_TM_Poppi",
+      "price": -10
+    },
+    {
+      "abr": "priestspell:resurrection",
+      "category": "Scrolls",
+      "defname": "SpellOf_Resurrection",
+      "price": -10
+    },
+    {
+      "abr": "ringofblood",
+      "category": "Magic artifacts",
+      "defname": "TM_Artifact_RingOfBlood",
+      "price": -10
+    },
+    {
+      "abr": "ringofkeenintellect",
+      "category": "Magic artifacts",
+      "defname": "TM_Artifact_RingOfKeenIntellect",
+      "price": -10
+    },
+    {
+      "abr": "ringofmalice",
+      "category": "Magic artifacts",
+      "defname": "TM_Artifact_RingOfMalice",
+      "price": -10
+    },
+    {
+      "abr": "ringoftheeternalblue",
+      "category": "Magic artifacts",
+      "defname": "TM_Artifact_RingOfEternalBlue",
+      "price": -10
+    },
+    {
+      "abr": "robesofthearchmage",
+      "category": "Magic apparel",
+      "defname": "ArchMageRobe",
+      "price": -10
+    },
+    {
+      "abr": "ruunbled",
+      "category": "Melee",
+      "defname": "TM_Ruunbled",
+      "price": -10
+    },
+    {
+      "abr": "salteddemonflesh",
+      "category": "Salted meat",
+      "defname": "Meat_TM_DemonRSalted",
+      "price": -10
+    },
+    {
+      "abr": "salteddemonflesh",
+      "category": "Salted meat",
+      "defname": "Meat_TM_LesserDemonRSalted",
+      "price": -10
+    },
+    {
+      "abr": "saltedelementaldust",
+      "category": "Salted meat",
+      "defname": "Meat_TM_LesserEarth_ElementalRSalted",
+      "price": -10
+    },
+    {
+      "abr": "saltedelementaldust",
+      "category": "Salted meat",
+      "defname": "Meat_TM_Earth_ElementalRSalted",
+      "price": -10
+    },
+    {
+      "abr": "saltedelementaldust",
+      "category": "Salted meat",
+      "defname": "Meat_TM_GreaterEarth_ElementalRSalted",
+      "price": -10
+    },
+    {
+      "abr": "saltedelementaldust",
+      "category": "Salted meat",
+      "defname": "Meat_TM_LesserFire_ElementalRSalted",
+      "price": -10
+    },
+    {
+      "abr": "saltedelementaldust",
+      "category": "Salted meat",
+      "defname": "Meat_TM_Fire_ElementalRSalted",
+      "price": -10
+    },
+    {
+      "abr": "saltedelementaldust",
+      "category": "Salted meat",
+      "defname": "Meat_TM_GreaterFire_ElementalRSalted",
+      "price": -10
+    },
+    {
+      "abr": "saltedelementaldust",
+      "category": "Salted meat",
+      "defname": "Meat_TM_LesserWater_ElementalRSalted",
+      "price": -10
+    },
+    {
+      "abr": "saltedelementaldust",
+      "category": "Salted meat",
+      "defname": "Meat_TM_Water_ElementalRSalted",
+      "price": -10
+    },
+    {
+      "abr": "saltedelementaldust",
+      "category": "Salted meat",
+      "defname": "Meat_TM_GreaterWater_ElementalRSalted",
+      "price": -10
+    },
+    {
+      "abr": "saltedelementaldust",
+      "category": "Salted meat",
+      "defname": "Meat_TM_LesserWind_ElementalRSalted",
+      "price": -10
+    },
+    {
+      "abr": "saltedelementaldust",
+      "category": "Salted meat",
+      "defname": "Meat_TM_Wind_ElementalRSalted",
+      "price": -10
+    },
+    {
+      "abr": "saltedelementaldust",
+      "category": "Salted meat",
+      "defname": "Meat_TM_GreaterWind_ElementalRSalted",
+      "price": -10
+    },
+    {
+      "abr": "saltedgiantskeletonmeat",
+      "category": "Salted meat",
+      "defname": "Meat_TM_GiantSkeletonRSalted",
+      "price": -10
+    },
+    {
+      "abr": "saltedhollowgolemmeat",
+      "category": "Salted meat",
+      "defname": "Meat_TM_HollowGolemSalted",
+      "price": -10
+    },
+    {
+      "abr": "saltedmeat",
+      "category": "Salted meat",
+      "defname": "Meat_TM_SpiritWolfRSalted",
+      "price": -10
+    },
+    {
+      "abr": "saltedmysterymeat",
+      "category": "Salted meat",
+      "defname": "Meat_TM_MinionRSalted",
+      "price": -10
+    },
+    {
+      "abr": "saltedmysterymeat",
+      "category": "Salted meat",
+      "defname": "Meat_TM_GreaterMinionRSalted",
+      "price": -10
+    },
+    {
+      "abr": "saltedpoppimeat",
+      "category": "Salted meat",
+      "defname": "Meat_TM_PoppiSalted",
+      "price": -10
+    },
+    {
+      "abr": "saltedskeletonlichmeat",
+      "category": "Salted meat",
+      "defname": "Meat_TM_SkeletonLichRSalted",
+      "price": -10
+    },
+    {
+      "abr": "saltedskeletonmeat",
+      "category": "Salted meat",
+      "defname": "Meat_TM_SkeletonRSalted",
+      "price": -10
+    },
+    {
+      "abr": "saltedspiritbearmeat",
+      "category": "Salted meat",
+      "defname": "Meat_TM_SpiritBearRSalted",
+      "price": -10
+    },
+    {
+      "abr": "saltedspiritcrowmeat",
+      "category": "Salted meat",
+      "defname": "Meat_TM_SpiritCrowRSalted",
+      "price": -10
+    },
+    {
+      "abr": "saltedspiritmongoosemeat",
+      "category": "Salted meat",
+      "defname": "Meat_TM_SpiritMongooseRSalted",
+      "price": -10
+    },
+    {
+      "abr": "saltedstone",
+      "category": "Salted meat",
+      "defname": "Meat_TM_Lesser_SentinelRSalted",
+      "price": -10
+    },
+    {
+      "abr": "saltedstone",
+      "category": "Salted meat",
+      "defname": "Meat_TM_SentinelRSalted",
+      "price": -10
+    },
+    {
+      "abr": "saltedstone",
+      "category": "Salted meat",
+      "defname": "Meat_TM_Greater_SentinelRSalted",
+      "price": -10
+    },
+    {
+      "abr": "saltedwolfmeat",
+      "category": "Salted meat",
+      "defname": "Meat_TM_Dire_WolfRSalted",
+      "price": -10
+    },
+    {
+      "abr": "sandstonegolem",
+      "category": "Animal",
+      "defname": "TM_SandstoneGolem",
+      "price": -10
+    },
+    {
+      "abr": "scrollofspiritbinding",
+      "category": "Magic artifacts",
+      "defname": "MagicArtifact_RerollSpiritBond",
+      "price": -10
+    },
+    {
+      "abr": "seedofregrowth",
+      "category": "Magic Items",
+      "defname": "SeedofRegrowth",
+      "price": -10
+    },
+    {
+      "abr": "shamanspell:guardianspirit",
+      "category": "Scrolls",
+      "defname": "SpellOf_GuardianSpirit",
+      "price": -10
+    },
+    {
+      "abr": "shardofspiritextraction",
+      "category": "Magic artifacts",
+      "defname": "TM_Artifact_ClassExtraction",
+      "price": -10
+    },
+    {
+      "abr": "skeletonlichmeat",
+      "category": "Meat",
+      "defname": "Meat_TM_SkeletonLichR",
+      "price": -10
+    },
+    {
+      "abr": "skeletonmeat",
+      "category": "Meat",
+      "defname": "Meat_TM_SkeletonR",
+      "price": -10
+    },
+    {
+      "abr": "slategolem",
+      "category": "Animal",
+      "defname": "TM_SlateGolem",
+      "price": -10
+    },
+    {
+      "abr": "spiritbearmeat",
+      "category": "Meat",
+      "defname": "Meat_TM_SpiritBearR",
+      "price": -10
+    },
+    {
+      "abr": "spiritcrowmeat",
+      "category": "Meat",
+      "defname": "Meat_TM_SpiritCrowR",
+      "price": -10
+    },
+    {
+      "abr": "spiritmongoosemeat",
+      "category": "Meat",
+      "defname": "Meat_TM_SpiritMongooseR",
+      "price": -10
+    },
+    {
+      "abr": "staffofblazingpower",
+      "category": "Magic foci",
+      "defname": "TM_BlazingPowerStaff",
+      "price": 6250
+    },
+    {
+      "abr": "staffofthedefender",
+      "category": "Magic foci",
+      "defname": "TM_DefenderStaff",
+      "price": 5583
+    },
+    {
+      "abr": "stone",
+      "category": "Meat",
+      "defname": "Meat_TM_Lesser_SentinelR",
+      "price": -10
+    },
+    {
+      "abr": "stone",
+      "category": "Meat",
+      "defname": "Meat_TM_SentinelR",
+      "price": -10
+    },
+    {
+      "abr": "stone",
+      "category": "Meat",
+      "defname": "Meat_TM_Greater_SentinelR",
+      "price": -10
+    },
+    {
+      "abr": "stonegolem",
+      "category": "Animal",
+      "defname": "TM_StoneGolem",
+      "price": -10
+    },
+    {
+      "abr": "succubusspell:scorn",
+      "category": "Scrolls",
+      "defname": "SpellOf_Scorn",
+      "price": -10
+    },
+    {
+      "abr": "summonerspell:summonpoppi",
+      "category": "Scrolls",
+      "defname": "SpellOf_SummonPoppi",
+      "price": -10
+    },
+    {
+      "abr": "syrrium",
+      "category": "Drugs",
+      "defname": "TM_Syrrium",
+      "price": -10
+    },
+    {
+      "abr": "technomancerspell:kineticshield",
+      "category": "Scrolls",
+      "defname": "SpellOf_TechnoShield",
+      "price": -10
+    },
+    {
+      "abr": "technomancerspell:mechanitereprogramming",
+      "category": "Scrolls",
+      "defname": "SpellOf_MechaniteReprogramming",
+      "price": -10
+    },
+    {
+      "abr": "technomancerspell:orbitalstrike",
+      "category": "Scrolls",
+      "defname": "SpellOf_OrbitalStrike",
+      "price": -10
+    },
+    {
+      "abr": "technomancerspell:overdrive",
+      "category": "Scrolls",
+      "defname": "SpellOf_Overdrive",
+      "price": -10
+    },
+    {
+      "abr": "technomancerspell:sabotage",
+      "category": "Scrolls",
+      "defname": "SpellOf_Sabotage",
+      "price": -10
+    },
+    {
+      "abr": "thrumbow",
+      "category": "Ranged",
+      "defname": "TM_ThrumBow",
+      "price": -10
+    },
+    {
+      "abr": "thrumboaxe",
+      "category": "Melee",
+      "defname": "TM_ThrumboAxe",
+      "price": -10
+    },
+    {
+      "abr": "thrumbosaber",
+      "category": "Melee",
+      "defname": "TM_ThrumboSaber",
+      "price": -10
+    },
+    {
+      "abr": "tornscript:bard",
+      "category": "Skill books",
+      "defname": "Torn_BookOfBard",
+      "price": -10
+    },
+    {
+      "abr": "tornscript:brightmage",
+      "category": "Skill books",
+      "defname": "Torn_BookOfTheSun",
+      "price": -10
+    },
+    {
+      "abr": "tornscript:chaos",
+      "category": "Skill books",
+      "defname": "Torn_BookOfChaos",
+      "price": -10
+    },
+    {
+      "abr": "tornscript:chronomancy",
+      "category": "Skill books",
+      "defname": "Torn_BookOfChronomancer",
+      "price": -10
+    },
+    {
+      "abr": "tornscript:demonology",
+      "category": "Skill books",
+      "defname": "Torn_BookOfDemons",
+      "price": -10
+    },
+    {
+      "abr": "tornscript:enchanter",
+      "category": "Skill books",
+      "defname": "Torn_BookOfEnchanter",
+      "price": -10
+    },
+    {
+      "abr": "tornscript:fire",
+      "category": "Skill books",
+      "defname": "Torn_BookOfInnerFire",
+      "price": -10
+    },
+    {
+      "abr": "tornscript:geomancy",
+      "category": "Skill books",
+      "defname": "Torn_BookOfEarth",
+      "price": -10
+    },
+    {
+      "abr": "tornscript:golemancer",
+      "category": "Skill books",
+      "defname": "Torn_BookOfGolemancy",
+      "price": -10
+    },
+    {
+      "abr": "tornscript:hemomancy",
+      "category": "Skill books",
+      "defname": "Torn_BookOfHemomancy",
+      "price": -10
+    },
+    {
+      "abr": "tornscript:ice",
+      "category": "Skill books",
+      "defname": "Torn_BookOfHeartOfFrost",
+      "price": -10
+    },
+    {
+      "abr": "tornscript:lightning",
+      "category": "Skill books",
+      "defname": "Torn_BookOfStormBorn",
+      "price": -10
+    },
+    {
+      "abr": "tornscript:nature",
+      "category": "Skill books",
+      "defname": "Torn_BookOfNature",
+      "price": -10
+    },
+    {
+      "abr": "tornscript:necromancy",
+      "category": "Skill books",
+      "defname": "Torn_BookOfUndead",
+      "price": -10
+    },
+    {
+      "abr": "tornscript:paladin",
+      "category": "Skill books",
+      "defname": "Torn_BookOfValiant",
+      "price": -10
+    },
+    {
+      "abr": "tornscript:power",
+      "category": "Skill books",
+      "defname": "Torn_BookOfArcanist",
+      "price": -10
+    },
+    {
+      "abr": "tornscript:priest",
+      "category": "Skill books",
+      "defname": "Torn_BookOfPriest",
+      "price": -10
+    },
+    {
+      "abr": "tornscript:shaman",
+      "category": "Skill books",
+      "defname": "Torn_BookOfShamanism",
+      "price": -10
+    },
+    {
+      "abr": "tornscript:summoning",
+      "category": "Skill books",
+      "defname": "Torn_BookOfSummoner",
+      "price": -10
+    },
+    {
+      "abr": "tornscript:technomancy",
+      "category": "Skill books",
+      "defname": "Torn_BookOfMagitech",
+      "price": -10
+    },
+    {
+      "abr": "unfinishedarcanebook",
+      "category": "Skill books",
+      "defname": "UnfinishedAdvArcane",
+      "price": -10
+    },
+    {
+      "abr": "unfinishedmartialbook",
+      "category": "Skill books",
+      "defname": "UnfinishedMartial",
+      "price": -10
+    },
+    {
+      "abr": "unfinishedtornscript",
+      "category": "Skill books",
+      "defname": "UnfinishedArcane",
+      "price": -10
+    },
+    {
+      "abr": "unrefinedmagicyte",
+      "category": "Refined magicyte",
+      "defname": "RawMagicyte",
+      "price": -10
+    },
+    {
+      "abr": "wandoffire",
+      "category": "Magic foci",
+      "defname": "TM_FireWand",
+      "price": 800
+    },
+    {
+      "abr": "wandofice",
+      "category": "Magic foci",
+      "defname": "TM_IceWand",
+      "price": 800
+    },
+    {
+      "abr": "wandoflightning",
+      "category": "Magic foci",
+      "defname": "TM_LightningWand",
+      "price": 800
+    },
+    {
+      "abr": "wanderer'scloak",
+      "category": "Magic apparel",
+      "defname": "TM_MaestersCloak",
+      "price": -10
+    },
+    {
+      "abr": "warlockspell:psychicshock",
+      "category": "Scrolls",
+      "defname": "SpellOf_PsychicShock",
+      "price": -10
+    },
+    {
+      "abr": "wizardhat",
+      "category": "Magic apparel",
+      "defname": "TM_WizardHat",
+      "price": -10
+    },
+    {
+      "abr": "wolfmeat",
+      "category": "Meat",
+      "defname": "Meat_TM_Dire_WolfR",
+      "price": -10
+    },
+    {
+      "abr": "plumbing",
+      "category": "Misc",
+      "defname": "sewagePipeStuff",
+      "price": 5
+    },
+    {
+      "abr": "stalldoor",
+      "category": "Misc",
+      "defname": "ToiletStallDoor",
+      "price": 18
+    },
+    {
+      "abr": "primitivewell",
+      "category": "Misc",
+      "defname": "PrimitiveWell",
+      "price": 95
+    },
+    {
+      "abr": "burnpit",
+      "category": "Misc",
+      "defname": "BurnPit",
+      "price": 60
+    },
+    {
+      "abr": "swimmingpool",
+      "category": "Misc",
+      "defname": "DBHSwimmingPool",
+      "price": 1617
+    },
+    {
+      "abr": "waterwell",
+      "category": "Misc",
+      "defname": "WaterWellInlet",
+      "price": 236
+    },
+    {
+      "abr": "watertower",
+      "category": "Misc",
+      "defname": "WaterTowerS",
+      "price": 252
+    },
+    {
+      "abr": "windpump",
+      "category": "Misc",
+      "defname": "WindPump",
+      "price": 358
+    },
+    {
+      "abr": "sewageoutlet",
+      "category": "Misc",
+      "defname": "SewageOutlet",
+      "price": 176
+    },
+    {
+      "abr": "septictank",
+      "category": "Misc",
+      "defname": "SewageSepticTank",
+      "price": 633
     }
   ],
-  "total": 1187
+  "total": 1483
 }
