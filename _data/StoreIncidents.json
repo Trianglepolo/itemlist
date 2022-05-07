@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 80000,
+		"price": 800,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 800000,
+		"price": 2600,
 		"karmatype": "Bad"
 	},
 	{
@@ -37,7 +37,7 @@
 	},
 	{
 		"abr": "drythunderstorm",
-		"price": 3500,
+		"price": 450,
 		"karmatype": "Bad"
 	},
 	{
@@ -47,7 +47,7 @@
 	},
 	{
 		"abr": "snowhard",
-		"price": 1000,
+		"price": 450,
 		"karmatype": "Bad"
 	},
 	{
@@ -57,7 +57,7 @@
 	},
 	{
 		"abr": "heatwave",
-		"price": 3500,
+		"price": 750,
 		"karmatype": "Bad"
 	},
 	{
@@ -67,7 +67,7 @@
 	},
 	{
 		"abr": "coldsnap",
-		"price": 3500,
+		"price": 800,
 		"karmatype": "Bad"
 	},
 	{
@@ -102,7 +102,7 @@
 	},
 	{
 		"abr": "blight",
-		"price": 3500,
+		"price": 700,
 		"karmatype": "Bad"
 	},
 	{
@@ -131,6 +131,11 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "maninblack",
+		"price": 350,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "madanimal",
 		"price": 200,
 		"karmatype": "Bad"
@@ -147,7 +152,7 @@
 	},
 	{
 		"abr": "ambrosiasprout",
-		"price": 500,
+		"price": 150,
 		"karmatype": "Good"
 	},
 	{
@@ -187,13 +192,18 @@
 	},
 	{
 		"abr": "skillincrease",
-		"price": 4000,
+		"price": 200,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "party",
-		"price": 5000,
+		"price": 400,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "alphabeavers",
+		"price": 600,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "shippartpoison",
@@ -206,8 +216,38 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "militaryaid",
+		"price": 700,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "raid",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "dropraid",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "sapperraid",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "siegeraid",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "mechanoidraid",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "infestation",
-		"price": 7500,
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
@@ -232,12 +272,17 @@
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 12500,
+		"price": 1200,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "pawn",
 		"price": 1,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "levelskill",
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
@@ -252,7 +297,7 @@
 	},
 	{
 		"abr": "genderswap",
-		"price": 100,
+		"price": 600,
 		"karmatype": "Neutral"
 	},
 	{
@@ -271,28 +316,38 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "torytalkervote",
+		"price": 750,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "hodlbotvote",
+		"price": 600,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "reviveall",
-		"price": 30000,
+		"price": 22664,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "reviveme",
-		"price": 12500,
+		"price": 2833,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healall",
-		"price": 20000,
+		"price": 17336,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healanypawn",
-		"price": 8500,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healme",
-		"price": 2500,
+		"price": 2167,
 		"karmatype": "Good"
 	},
 	{
@@ -302,7 +357,7 @@
 	},
 	{
 		"abr": "passionshuffle",
-		"price": 5000,
+		"price": 2000,
 		"karmatype": "Neutral"
 	},
 	{
@@ -317,17 +372,27 @@
 	},
 	{
 		"abr": "fullheal",
-		"price": 10000,
+		"price": 2167,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "passion",
-		"price": 5500,
+		"price": 7000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removepassion",
-		"price": 2500,
+		"price": 5000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "backpack",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "settraits",
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
@@ -371,5 +436,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 74
+	"total": 87
 }
